@@ -1,0 +1,22 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent">
+
+	<PreferenceCategory android:title="@string/settings">
+
+		<EditTextPreference
+			android:defaultValue="kosch"
+			android:key="PREF_IP_OR_HOSTNAME"
+			android:summary="%s"
+			android:title="@string/settingsIpAddress"
+			app:useSimpleSummaryProvider="true"/>
+
+		<SwitchPreference
+			android:defaultValue="false"
+			android:key="PREF_DATABASE_ADDING_MODE"
+			android:title="@string/settingsDatabaseAddingMode"/>
+
+	</PreferenceCategory>
+
+</PreferenceScreen>

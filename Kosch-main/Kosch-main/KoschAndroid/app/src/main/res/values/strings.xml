@@ -1,0 +1,29 @@
+<resources>
+
+	<string name="app_name">Kosch</string>
+	<string name="scanner">Skaner</string>
+	<string name="settings">Ustawienia</string>
+	<string name="plastic">Metale/tw. sztuczne</string>
+	<string name="paper">Papier</string>
+	<string name="mixed">Zmieszane</string>
+	<string name="glass">Szkło</string>
+	<string name="whereShouldIThrow">Gdzie wyrzucić?</string>
+	<string name="productNotInDatabase">Brak produktu w bazie</string>
+	<string name="saySomething">Powiedz coś…</string>
+	<string name="selectFromList">Wybierz z listy</string>
+	<string name="addToDatabase">Dodaj do bazy</string>
+	<string name="addedToDatabase">Dodano do bazy!</string>
+	<string name="errorAddingToDatabase">Nie udało się dodać do bazy!</string>
+	<string name="cancel">Anuluj</string>
+	<string name="unknownGarbage">Nie znam takiego odpadu</string>
+
+	<string name="settingsIpAddress">Adres IP/nazwa hosta</string>
+	<string name="settingsDatabaseAddingMode">Tryb dodawania EAN do bazy danych</string>
+
+	<string name="tellMeWhatYouWantToThrow">Co chcesz wyrzucić?</string>
+
+	<string name="answerDidntUnderstand">Nie rozumiem: %s</string>
+	<string name="networkError">Brak połączenia z internetem</string>
+	<string name="didntUnderstand">Nie rozumiem</string>
+
+</resources>

@@ -1,0 +1,174 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	tools:ignore="NestedWeights">
+
+	<me.dm7.barcodescanner.zxing.ZXingScannerView
+		android:id="@+id/zxingScannerView"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:alpha="0.5"
+		android:background="@android:color/black"/>
+
+	<View
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:background="@color/darkerGray"/>
+
+	<LinearLayout
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:layout_above="@+id/bottomButtonsLayout"
+		android:orientation="vertical">
+
+		<LinearLayout
+			android:layout_width="match_parent"
+			android:layout_height="0dp"
+			android:layout_weight="1"
+			android:orientation="horizontal">
+
+			<RelativeLayout style="@style/TrashButtonContainer">
+
+				<androidx.appcompat.widget.AppCompatButton
+					android:id="@+id/paperButton"
+					style="@style/TrashButton"
+					android:layout_above="@+id/paperTrashText"
+					android:text="@string/paper"
+					app:backgroundTint="@color/blue"/>
+
+				<androidx.appcompat.widget.AppCompatTextView
+					android:id="@+id/paperTrashText"
+					style="@style/TrashText"
+					android:layout_above="@id/paperTrashProgress"/>
+
+				<ProgressBar
+					android:id="@+id/paperTrashProgress"
+					style="@style/TrashProgressBar"/>
+
+			</RelativeLayout>
+
+			<RelativeLayout style="@style/TrashButtonContainer">
+
+				<androidx.appcompat.widget.AppCompatButton
+					android:id="@+id/plasticButton"
+					style="@style/TrashButton"
+					android:layout_above="@+id/plasticTrashText"
+					android:text="@string/plastic"
+					app:backgroundTint="@color/yellow"/>
+
+				<androidx.appcompat.widget.AppCompatTextView
+					android:id="@+id/plasticTrashText"
+					style="@style/TrashText"
+					android:layout_above="@id/plasticTrashProgress"/>
+
+				<ProgressBar
+					android:id="@+id/plasticTrashProgress"
+					style="@style/TrashProgressBar"/>
+
+			</RelativeLayout>
+
+		</LinearLayout>
+
+		<LinearLayout
+			android:layout_width="match_parent"
+			android:layout_height="0dp"
+			android:layout_weight="1"
+			android:orientation="horizontal">
+
+			<RelativeLayout style="@style/TrashButtonContainer">
+
+				<androidx.appcompat.widget.AppCompatButton
+					android:id="@+id/mixedButton"
+					style="@style/TrashButton"
+					android:layout_above="@+id/mixedTrashText"
+					android:text="@string/mixed"
+					app:backgroundTint="@color/black"/>
+
+				<androidx.appcompat.widget.AppCompatTextView
+					android:id="@+id/mixedTrashText"
+					style="@style/TrashText"
+					android:layout_above="@id/mixedTrashProgress"/>
+
+				<ProgressBar
+					android:id="@+id/mixedTrashProgress"
+					style="@style/TrashProgressBar"/>
+
+			</RelativeLayout>
+
+			<RelativeLayout style="@style/TrashButtonContainer">
+
+				<androidx.appcompat.widget.AppCompatButton
+					android:id="@+id/glassButton"
+					style="@style/TrashButton"
+					android:layout_above="@+id/glassTrashText"
+					android:text="@string/glass"
+					app:backgroundTint="@color/green"/>
+
+				<androidx.appcompat.widget.AppCompatTextView
+					android:id="@+id/glassTrashText"
+					style="@style/TrashText"
+					android:layout_above="@id/glassTrashProgress"/>
+
+				<ProgressBar
+					android:id="@+id/glassTrashProgress"
+					style="@style/TrashProgressBar"/>
+
+			</RelativeLayout>
+
+		</LinearLayout>
+
+	</LinearLayout>
+
+	<LinearLayout
+		android:id="@+id/bottomButtonsLayout"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_above="@+id/errorText"
+		android:orientation="horizontal">
+
+		<androidx.appcompat.widget.AppCompatButton
+			android:id="@+id/whereShouldIThrowButton"
+			style="@style/BottomButton"
+			android:text="@string/whereShouldIThrow"
+			app:backgroundTint="@color/darkGray"/>
+
+		<androidx.appcompat.widget.AppCompatButton
+			android:id="@+id/scannerButton"
+			style="@style/BottomButton"
+			android:text="@string/scanner"
+			app:backgroundTint="@color/darkGray"/>
+
+		<androidx.appcompat.widget.AppCompatButton
+			android:id="@+id/settingsButton"
+			style="@style/BottomButton"
+			android:text="@string/settings"
+			app:backgroundTint="@color/darkGray"/>
+
+	</LinearLayout>
+
+	<androidx.appcompat.widget.AppCompatTextView
+		android:id="@+id/errorText"
+		style="@style/TrashText"
+		android:layout_alignParentBottom="true"/>
+
+	<LinearLayout
+		android:id="@+id/overlay"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:background="@color/transparentBlack"
+		android:visibility="gone">
+
+		<TextView
+			android:id="@+id/overlayText"
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"
+			android:gravity="center"
+			android:text="@string/saySomething"
+			android:textColor="@color/white"
+			android:textSize="24sp"/>
+
+	</LinearLayout>
+
+</RelativeLayout>

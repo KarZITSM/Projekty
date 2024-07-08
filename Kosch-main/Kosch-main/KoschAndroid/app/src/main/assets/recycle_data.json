@@ -1,0 +1,5224 @@
+[
+	{
+		"_id": "68",
+		"name": "Butelka po lakierze do paznokci",
+		"type": "ZMIESZANE",
+		"synonyms": "lakier do paznokci, buteleczka po lakierze do paznokci, opakowanie po lakierze do paznokci, pojemnik Pojemnik od lakieru do paznokci, po lakierze do paznokci, butelki po lakierach do paznokci, lakier do paznokci, Pojemnik po lakierze do paznokci, buteleczka po lakierze do paznokci, Opakowanie po lakierze do paznokci, ",
+		"additional_info": "Wyrzuć do pojemnika na odpady zmieszane, nie nadaje się do recyklingu."
+	},
+	{
+		"_id": "69",
+		"name": "Nici",
+		"type": "ZMIESZANE",
+		"synonyms": "nitka, tkanina, druty",
+		"additional_info": "Nie nadają się do recyklingu."
+	},
+	{
+		"_id": "71",
+		"name": "Długopis",
+		"type": "ZMIESZANE",
+		"synonyms": "wypisany długopis, długopisy, wypisane długopisy, zużyty długopis, zużyte długopisy",
+		"additional_info": ""
+	},
+	{
+		"_id": "154",
+		"name": "Styropian opakowaniowy",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "steropian, czysty, styropian czysty, styropian pakowy, opakowanie po jajkach styropianowe, pudełko styropianowe, pudło styropianowe, płyty styropianowe, styropian po tv, styropian po telewizorze, styropian po rtv, styropian do wypełniania paczek, styropian ochronny, płyta ze styropianu, płyta styropianowa, opakowanie styropianowe, opakowanie ze styropianu, jednorazowe pudełko",
+		"additional_info": "Styropian opakowaniowy - wyrzuć do pojemnika na metale i tworzywa sztuczne. Upewnij się, że jest czysty. Jeśli opakowanie jest zabrudzone tłuszczem lub reszktami, prawdopodobnie powinno trafić do odpadów zmieszanych."
+	},
+	{
+		"_id": "157",
+		"name": "Tacki po warzywach, plastikowe",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "158",
+		"name": "Tacki po warzywach  styropianowe",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "tacki ",
+		"additional_info": ""
+	},
+	{
+		"_id": "161",
+		"name": "Opakowanie po jogurcie, kefirze, śmietanie, serku plastikowe",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "opakowania po jogurtach, opakowania po jogurcie, butelka po jogurcie, aluminiowe wieczko, aluminiowe wieczko po jogurcie, wieczko odrywane z jogurtu, wieczko po śmietanie, metalowe wieczko od śmietany, pojemnik po śmietanie, brudny pojemnik po jogurcie, wieczko od jogurtu, wieczko po jogurcie, wieczko z jogurtu, kubek po śmietanie, kubek po śmietanie, kubki po śmietanie, plastikowe kubki po śmietanie, pudełko po jogurcie, pojemnik po jogurcie, kubeczek po jogurcie, kubek po jogurcie, kubek po serku, kubek po jogurcie, kefir, pudełko po jogurcie, pudełka po jogurcie, pudełko po serku, pudełka po serku, pudełko po kefisze, pudełka po kefirze",
+		"additional_info": "Opakowanie po jogurcie, kefirze, śmietanie, serku plastikowe - wyrzuć do pojemnika na metale i tworzywa sztuczne"
+	},
+	{
+		"_id": "163",
+		"name": "Opakowanie po śmietanie plastikowe",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "164",
+		"name": "Wieczko po opakowaniu po jogurcie",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "166",
+		"name": "Sznurek konopny",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": "Nie nadaje się do recyklingu"
+	},
+	{
+		"_id": "167",
+		"name": "Ubrania",
+		"type": "ZMIESZANE",
+		"synonyms": "ubranie, odzież, bluzka, spodnie, sukienka, spódnica, majtki, rajstopy, skarpetki, skarpety, stanik, biustonosz, ciuchy, bielizna, bieliznę, jeansy, zniszczone ubrania, koszula, skarpety, koszulka, kurtka",
+		"additional_info": "Ubrania - wyrzuć do pojemnika na odpady zmieszane Niezależnie od tego, czy wykonane są z tkanin naturalnych czy sztucznych, to wyrzucamy je do zmieszanych.  Wyrzucaj tylko te ubrania, które nie nadają się do noszenia. Pozostałe możesz oddać na zbiórkę dla potrzebujących np. wrzucić do specjalnych kontenerów."
+	},
+	{
+		"_id": "168",
+		"name": "Tekstylia",
+		"type": "ZMIESZANE",
+		"synonyms": "ubrania, ciuchy, szmaty, szmata, skrawki materiału, materiał, tkanina",
+		"additional_info": ""
+	},
+	{
+		"_id": "169",
+		"name": "Buty",
+		"type": "ZMIESZANE",
+		"synonyms": "but, obuwie, kapcie, but skórzany, buty skórzane, trampki, stare buty",
+		"additional_info": ""
+	},
+	{
+		"_id": "170",
+		"name": "Ścinki tkanin",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "171",
+		"name": "Tacka plastikowa",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "tacki plastikowe",
+		"additional_info": ""
+	},
+	{
+		"_id": "172",
+		"name": "Pochłaniacz od tacki po mięsie",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "174",
+		"name": "Rzeczy bawełniane",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "175",
+		"name": "Rzeczy z poliestru",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "176",
+		"name": "Pojemnik po lakierze do włosów",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "Butelka po lakierze do włosów. Opakowanie po lakierze do włosów, lakier do włosów, opakowanie po lakierze do wlosow, Puszka po lakierze do włosów w sprayu, Lakier do wlosow, metalowy pojemnik po lakierze do włosów, pojemnik metalowy po lakierze do włosów",
+		"additional_info": "Wyrzuć do pojemnika na metale i tworzywa sztuczne. Możesz oddać również do Punktu Selektywnej Zbiórki Odpadów Komunalnych lub Mobilnego Punktu Selektywnej Zbiórki Odpadów Komunalnych"
+	},
+	{
+		"_id": "178",
+		"name": "Puszka po jedzeniu dla kotów aluminiowa",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "opakowanie po jedzeniu dla kotów aluminiowe, puszka, puszka dla kotów, puszka z jedzeniem, puszka po jedzeniu dla psów, puszkę pojedzeniu dla psów, puszki po jedzeniu dla psów",
+		"additional_info": ""
+	},
+	{
+		"_id": "180",
+		"name": "Opakowanie po szczoteczce do zębów plastikowe",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "182",
+		"name": "Folia bąbelkowa",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "folię bąbelkową, folie bąbelkową, bombelkowa, bombelkową",
+		"additional_info": "Folia bąbelkowa - wyrzuć do pojemnika na metale i tworzywa sztuczne"
+	},
+	{
+		"_id": "183",
+		"name": "Opakowanie po parówkach plastikowe",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "folia po parówkach, torebkę po parówkach, ",
+		"additional_info": "Opakowanie po parówkach plastikowe - wyrzuć do pojemnika na metale i tworzywa sztuczne Opakowanie musi być suche."
+	},
+	{
+		"_id": "184",
+		"name": "Koperta bąbelkowa",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "185",
+		"name": "Koperta z okienkiem",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "186",
+		"name": "Papier po twarogu",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "188",
+		"name": "Opakowanie po kiszonej kapuście, ogórkach plastikowe",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "opakowanie po kiszonkach plastikowe ",
+		"additional_info": ""
+	},
+	{
+		"_id": "192",
+		"name": "Puszka, konserwa",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "puszkę, puszki, puszkę po rybkach, puszka po rybie, puszka po kukurydzy, puszkę po rybie, puszkę po tuńczyku, puszka po rybie, puszka po tuńczyku, puszka po rybie, konserwy, puszka po tuńczyku, puszka po konserwach, puszkę po konserwach, puszki po konserwach, puszka po konserwie, puszkę po konserwie",
+		"additional_info": "Puszka, konserwa - wyrzuć do pojemnika na metale i tworzywa sztuczne"
+	},
+	{
+		"_id": "193",
+		"name": "Taśma klejąca",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": "Taśma klejąca - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "195",
+		"name": "Papier z naklejoną taśmą",
+		"type": "PAPIER",
+		"synonyms": "",
+		"additional_info": "Papier z naklejoną taśmą - wyrzuć do pojemnika na papier"
+	},
+	{
+		"_id": "196",
+		"name": "Plastik z naklejoną taśmą",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "Folia, foliowy",
+		"additional_info": ""
+	},
+	{
+		"_id": "197",
+		"name": "Zapałka",
+		"type": "ZMIESZANE",
+		"synonyms": "zapałki, zapałkę",
+		"additional_info": ""
+	},
+	{
+		"_id": "198",
+		"name": "Pudełko od zapałek",
+		"type": "ZMIESZANE",
+		"synonyms": "pudelka po zapałkach. pudełko po zapałkach, tekturowe pudełko po zapałkach, pudelka po zapałkach, ",
+		"additional_info": ""
+	},
+	{
+		"_id": "199",
+		"name": "Plastik nienadający się do recyklingu oznaczony 07",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "200",
+		"name": "Polistyren",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "202",
+		"name": "Opakowanie po serze żółtym krojonym plastikowe",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "",
+		"additional_info": "Opakowanie po serze żółtym krojonym plastikowe - wyrzuć do pojemnika na metale i tworzywa sztuczne Całe opakowanie, razem z folią."
+	},
+	{
+		"_id": "203",
+		"name": "Korek po winie z korka",
+		"type": "ZMIESZANE",
+		"synonyms": "korek od wina, korki",
+		"additional_info": ""
+	},
+	{
+		"_id": "204",
+		"name": "Skórka woskowana po cytrusie",
+		"type": "BIO",
+		"synonyms": "skórka mandarynki, skórka cytryny, skórka grejfruta, skórka od mandarynki, skórka po mandarynce, skórka od cytryny, skórka po cytrynie",
+		"additional_info": ""
+	},
+	{
+		"_id": "206",
+		"name": "Blistry, listki po lekach puste",
+		"type": "ZMIESZANE",
+		"synonyms": "blistry po lekach, Blistr po lekach, opakowanie po lekarstwie, puste blistry po lekach, Blistry od lekow, blaszki po lekach, Puste opakowania po lekach, Listki po lekarstwach, Puste opakowania po lekach, Bistry po lekach, blister po lekach, opakowania po lekach, blistry po tabletkach, blister, Opakowania po lekarstwach, opakowanie po lekach, puste blistry po lekach, listek po lekach, opakowanie po tabletkach, opakowanie po leku, blister aluminiowy, blistry aluminiowe, aluminiowe opakowanie po lekach, listki po tabletkach , listki po lekach, puste listki po lekach, aluminiowe listki po lekach, aluminiowe blistry",
+		"additional_info": "Blistry, listki po lekach puste - wyrzuć do pojemnika na odpady zmieszane Przeterminowane leki oddajemy do aptek. "
+	},
+	{
+		"_id": "207",
+		"name": "Stara kromka chleba",
+		"type": "BIO",
+		"synonyms": "Pieczywo",
+		"additional_info": "Pieczywo z masłem, wędliną lub serem wyrzuć do zmieszanych, ponieważ do BIO nie wyrzucamy resztek pochodzenia zwierzęcego. Pamiętaj o tym żeby nie marnować jedzenia.  Rozważ oddanie dobrego jedzenia do jadłodzielni ([mapa punktów](http://bit.ly/2uYHueQ)) lub na [grupie freegańskiej na Facebooku](https://www.facebook.com/groups/598796106991258)."
+	},
+	{
+		"_id": "210",
+		"name": "Tubka po przecierkach dla dzieci plastikowa",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "211",
+		"name": "Opakowania łączące różne kategorie np. plastik z papierem (nie tetrapaki)",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "212",
+		"name": "Folia z dużym kawałkiem papieru",
+		"type": "ZMIESZANE",
+		"synonyms": "opakowanie foliowo-papierowe, Papier z folią",
+		"additional_info": "Folia z dużym kawałkiem papieru - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "213",
+		"name": "Torebka papierowa z folią w środku",
+		"type": "ZMIESZANE",
+		"synonyms": "torebka po przyprawach, torebkę po przyprawach, torebki po przyprawach, torebka po ziołach, torebkę po ziołach, torebki po ziołach, torebka po sosie w proszki, torebki po sosach w proszku, torebkę po sosie w proszki, opakowanie z papieru połączonego z folią, opakowanie po przyprawach",
+		"additional_info": "Jeśli wewnątrz papierowego opakowania znajduje się nieodrywalna folia, to jest to odpad wielomateriałowy i musi trafić do **zmieszanych**."
+	},
+	{
+		"_id": "214",
+		"name": "Igła od insuliny",
+		"type": "INNE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "215",
+		"name": "Pasek od glukometru",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": "Pasek od glukometru - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "217",
+		"name": "Opakowania po kosmetykach szklane",
+		"type": "SZKLO",
+		"synonyms": "opakowanie po kremie, opakowanie po kosmetykach szklane, słoiczek po kremie, słoiczek po kosmetykach, pojemnik po kremie szklany, pojemnik od kremu szklany, opakowanie od kremu szklane,słoiczek od kremu szklany",
+		"additional_info": ""
+	},
+	{
+		"_id": "218",
+		"name": "Zakrętka od słoika",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "Zakrętka od słoika, metalowa pokrywka, plastikowa pokrywką, nakrętka, pokrywki, nakrętki, wieczko od słoika, wieczka od słoika, pokrywka od słoika, zakrętki od słoików ",
+		"additional_info": "Zakrętka od słoika - wyrzuć do pojemnika na metale i tworzywa sztuczne"
+	},
+	{
+		"_id": "220",
+		"name": "Gąbka kąpielowa",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "222",
+		"name": "Butelka po oliwie, oleju szklana",
+		"type": "SZKLO",
+		"synonyms": "Szklana butelka po oleju, szklana butelka po oliwie, butelkę szklaną po oliwie, szklana butelka po oleju spożywczym, szklane butelki po olejach spożywczych, opakowanie po oleju szklane, butelka z oleju, butelki szklane po oleju, butelki od oliwy, butelki po oliwie, butelka po oliwie, butelkę po oliwie",
+		"additional_info": ""
+	},
+	{
+		"_id": "224",
+		"name": "Resztki warzywne, owocowe",
+		"type": "BIO",
+		"synonyms": "warzyw, warzywa, owoców, owocowe, owoc, warzywo, obierki, odpadki warzywne, odpadki owocowe, odpadki z warzyw, odpadki z owoców, resztki warzyw, resztki owoców, odpady z warzyw, odpady z owoców, resztki jedzenia",
+		"additional_info": ""
+	},
+	{
+		"_id": "226",
+		"name": "Kości",
+		"type": "ZMIESZANE",
+		"synonyms": "kość, kości kurczaka, kość kurczaka, koście drobiowe, ",
+		"additional_info": ""
+	},
+	{
+		"_id": "227",
+		"name": "Ręcznik papierowy brudny",
+		"type": "ZMIESZANE",
+		"synonyms": "brudne ręczniki papierowe, ręcznik kuchenny, ręczniki kuchenne ",
+		"additional_info": ""
+	},
+	{
+		"_id": "228",
+		"name": "Ceramika/szkło stołowe",
+		"type": "ZMIESZANE",
+		"synonyms": "kubek ceramiczny, zbity kubek, stłuczony kubek, kubki, talerz, talerze, fajans, fajansowe, fajansowy",
+		"additional_info": "Ceramika/szkło stołowe - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "229",
+		"name": "Kapsułka z kawą",
+		"type": "ZMIESZANE",
+		"synonyms": "Kapsułki z kawą, Kapsulki po kawie, Kapsułki po kawie, Kapsułka po kawie, Kapsułki od kawy, kapsułki kawy, Zużyte kapsułki po kawie",
+		"additional_info": "Kapsułka z kawą - wyrzuć do pojemnika na odpady zmieszane Niektórzy producenci kapsułek przyjmują je do recyklingu. "
+	},
+	{
+		"_id": "230",
+		"name": "Tetrapak",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "231",
+		"name": "Słoik",
+		"type": "SZKLO",
+		"synonyms": "słoiczek, słoiki, słoik po przecierze, słoik brudny, słoik po majonezie, słoik po dżemie, słoik po ogórkach, słoik po marynatach, zbity słoik, słoik po kremie, brudny słoik, słoik po miodzie, brudne słoiki, słoik po oleju kokosowym, słoik po maśle orzechowym",
+		"additional_info": "Słoik - wyrzuć do pojemnika na szkło Nie musisz go myć, wystarczyć go dobrze opróżnić. Nakrętkę wyrzuć do METALI I TWORZYW SZTUCZNYCH. Zbity słoik również wyrzucamy do szkła."
+	},
+	{
+		"_id": "232",
+		"name": "Opakowanie po lekach szklane puste",
+		"type": "SZKLO",
+		"synonyms": "Pudełko po lekach, buteleczka po lekach, butelka po lekach, Opakowanie po lekarstwach, szklane butelki po lekach, Puste opakowania po lekach, buteleczka po lekach, słoik po lekach, Puste opakowania po lekach, Buteleczki po lekach, słoiczek po lekach, butelka po leku, Butelka szklana po lekach, Szklana butelka po lekach, buteleczka po tabletkach, butelka po tabletkach, buteleczka po syropie, szklane opakowania po lekach, butelka po lekarstwie, szklane opakowanie po lekach,buteleczka po lekach, butelka po lekach, butelka po lekarstwach, butelki po lekach, Opakowania po lekarstwach",
+		"additional_info": "Opakowanie po lekach szklane puste - wyrzuć do pojemnika na szkło. Nie trzeba zrywać z niego etykiety. Przeterminowane leki oddajemy do aptek. "
+	},
+	{
+		"_id": "235",
+		"name": "Torebka po przyprawach papierowa",
+		"type": "PAPIER",
+		"synonyms": "opakowanie po przyprawach",
+		"additional_info": ""
+	},
+	{
+		"_id": "236",
+		"name": "Torebka po przyprawach foliowa",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "opakowanie po przyprawach",
+		"additional_info": ""
+	},
+	{
+		"_id": "237",
+		"name": "Opakowanie po wafelkach, batonikach",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "opakowanie po wafelku, Opakowanie po batonie, opakowanie po batoniku, Opakowanie po batonach, Folia po batoniku, opakowanie batona, Folia po batonie, Opakowanie batonu, Po batonach opakowania, ",
+		"additional_info": ""
+	},
+	{
+		"_id": "238",
+		"name": "Margaryna",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "239",
+		"name": "Masło",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "241",
+		"name": "Chleb",
+		"type": "BIO",
+		"synonyms": "Pieczywo, suche pieczywo, chleb, bagietka, bułki, bułka, kromka, kromki, słodka bułka, bułka, stary chleb, czerstwy chleb, spleśniały chleb, suchy chleb, stare pieczywo, kromka chleba, spleśniałe pieczywo, czerstwy chleb",
+		"additional_info": "Pieczywo z masłem, wędliną lub serem wyrzuć do zmieszanych ponieważ do **BIO** nie wyrzucamy resztek pochodzenia zwierzęcego. Pamiętaj o tym żeby nie marnować jedzenia. Nadmiar możesz oddać do jadłodzielni."
+	},
+	{
+		"_id": "242",
+		"name": "Pielucha ekologiczna",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": "Pielucha ekologiczna - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "246",
+		"name": "Butelka po środkach czystości plastikowa",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "butelka po domestosie, domestos, butelka po płynie do udrażniania rur, butelka plastikowa po płynie do udrażniania rur, detergenty, kret, butelka po krecie do rur, opakowanie po domestosie, butelka po domestosie, opakowanie po chemii domowej, chemia domowa, butelka plastikowa po chemii gospodarczej, opakowanie po chemii, Opakowania po środkach czystości plastikowe, hemia, opakowanie po chemii gospodarczej, wc, toaleta",
+		"additional_info": "Butelka po środkach czystości plastikowa - wyrzuć do pojemnika na metale i tworzywa sztuczne. Wypłucz przed wyrzuceniem."
+	},
+	{
+		"_id": "248",
+		"name": "Butelka po żelu pod prysznic plastikowa",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "250",
+		"name": "Sałatka z olejem/śmietaną/majonezem/jogurtem",
+		"type": "ZMIESZANE",
+		"synonyms": "sałatki, sałata ",
+		"additional_info": ""
+	},
+	{
+		"_id": "251",
+		"name": "Kanapka z produktami odzwierzęcymi np. masłem, serem, wędliną",
+		"type": "ZMIESZANE",
+		"synonyms": "kanapki, ",
+		"additional_info": "Kanapka z produktami odzwierzęcymi np. masłem, serem, wędliną - wyrzuć do pojemnika na odpady zmieszane. Do BIO nie wyrzucamy resztek pochodzenia zwierzęcego. Rozważ oddanie dobrego jedzenia do jadłodzielni ([mapa punktów](http://bit.ly/2uYHueQ)) lub na [grupie freegańskiej na Facebooku](https://www.facebook.com/groups/598796106991258)."
+	},
+	{
+		"_id": "252",
+		"name": "Placek smażony np. na oleju roślinnym, w którym jest jajko lub mleko",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "253",
+		"name": "Owsianka/kaszka na mleku",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "254",
+		"name": "Opakowanie po serku wiejskim plastikowe",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "",
+		"additional_info": "Opakowanie po serku wiejskim plastikowe - wyrzuć do pojemnika na metale i tworzywa sztuczne"
+	},
+	{
+		"_id": "257",
+		"name": "Kwiatek",
+		"type": "BIO",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "258",
+		"name": "Ziemia z doniczki",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "259",
+		"name": "Doniczka ceramiczna",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "260",
+		"name": "Doniczka plastikowa",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "263",
+		"name": "Nakrętka od butelki plastikowa",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "Nakrętki od butelek plastikowe, zakrętki plastikowe, zakrętka plastikowa ",
+		"additional_info": ""
+	},
+	{
+		"_id": "264",
+		"name": "Szklanka",
+		"type": "ZMIESZANE",
+		"synonyms": "szklankę, szklanki, stłuczona szklanka, potłuczona szklanka, potłuczoną szklankę, potłuczone szklanki, stłuczoną szklankę, stłuczone szklanki, zbita szklanka, zbite szklanki, zbitą szklankę",
+		"additional_info": ""
+	},
+	{
+		"_id": "265",
+		"name": "Filiżanka ceramiczna",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": "Filiżanka ceramiczna - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "266",
+		"name": "Butelka po oliwie, oleju plastikowa",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "Butelke plastikowa po oleju, butelka po oleju jadalnym, Butelka po oliwie plastikowa, butelka szklana po oliwie, butelka plastikowa po oleju, opakowanie po oleju plastikowe, butelka po oleju plastikowa, opakowanie po oleju, butelka z oleju, plastikowa butelka po oleju, butelka plastikowa po oleju, butelka po oleju plastikowa",
+		"additional_info": "Butelka po oliwie, oleju plastikowa - wyrzuć do pojemnika na metale i tworzywa sztuczne Wyrzuć zakręconą, nie myj."
+	},
+	{
+		"_id": "268",
+		"name": "Zeszyt",
+		"type": "PAPIER",
+		"synonyms": "Zeszyt na spiralę, zeszyt zapisany, zapisany zeszyt, zeszyty ",
+		"additional_info": ""
+	},
+	{
+		"_id": "272",
+		"name": "Opakowanie po tuszu do rzęs",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "opakowania po tuszu do rzęs, tusz do rzęs",
+		"additional_info": "Opakowanie po tuszu do rzęs - wyrzuć do pojemnika na metale i tworzywa sztuczne Tylko z trójkątnym znakiem recyklingu na opakowaniu. Oznakowanie wskazuje, że tusz można wrzucić do pojemnika METALE I TWORZYWA SZTUCZNE."
+	},
+	{
+		"_id": "273",
+		"name": "Opakowanie po kosmetykach plastikowe",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "opakowanie po szamponie, opakowanie po balsamie do ciała, opakowanie po kolorowych kosmetykach, opakowanie po tuszu do rzęs, butelka po szamponie plastikowa, butelkę po szamponie, ",
+		"additional_info": "Opakowanie po kosmetykach plastikowe - wyrzuć do pojemnika na metale i tworzywa sztuczne (butelki, pudełka plastikowe po szamponach, odżywkach, balsamach,  kosmetykach kolorowych, tusze do rzęs). Tylko z trójkątnym znakiem recyklingu na opakowaniu. Oznakowanie wskazuje, że plastik można wrzucić do pojemnika METALE I TWORZYWA SZTUCZNE."
+	},
+	{
+		"_id": "275",
+		"name": "Wacik do twarzy",
+		"type": "ZMIESZANE",
+		"synonyms": "waciki, płatki, płatek, płatki do demakijażu, płatki kosmetyczne, zużyte waciki, Platki kosmetyczne,",
+		"additional_info": ""
+	},
+	{
+		"_id": "276",
+		"name": "Płyta CD, DVD",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "płyty CD, zniszczona płyta CD, płyta DVD, DVD, płytę DVD, plyty DVD",
+		"additional_info": ""
+	},
+	{
+		"_id": "277",
+		"name": "Opakowanie po serze białym plastikowe",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "opakowanie po serze twarogowym plastikowe, opakowanie po twarogu plastikowe ",
+		"additional_info": "Opakowanie po serze białym plastikowe - wyrzuć do pojemnika na metale i tworzywa sztuczne Tylko z trójkątnym znaczkiem recyklingu"
+	},
+	{
+		"_id": "278",
+		"name": "Opakowanie po kawie aluminiowe",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "torebka po kawie, opakowania po kawie, torba po kawie, Torebka po kawie ziarnistej",
+		"additional_info": ""
+	},
+	{
+		"_id": "284",
+		"name": "Fiolka po insulinie",
+		"type": "LEKI",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "286",
+		"name": "Kartonik po lekach tekturowy",
+		"type": "PAPIER",
+		"synonyms": "Opakowanie po lekarstwach, opakowanie po lekarstwie, Puste opakowania po lekach, papierowe opakowania po lekach, opakowania papierowe po lekach, Puste opakowania po lekach, papierowe opakowania po lekach, Pudełko po leku, pudełka po lekarstwach, opakowanie po lekach tekturowe, Pudełko po lekach, opakowanie po lekach papierowe, kartoniki po lekach, pudełka po lekach, karton po lekach, Opakowania po lekarstwach, pudełko po lekach tekturowe, opakowanie po leku, Papierowe opakowanie po lekach",
+		"additional_info": ""
+	},
+	{
+		"_id": "288",
+		"name": "Pielucha ekologiczna jednorazowa",
+		"type": "ZMIESZANE",
+		"synonyms": "pieluchy ekologiczne, pieluszki, pieluszka ",
+		"additional_info": "Pielucha ekologiczna jednorazowa - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "289",
+		"name": "Jednorazowa pielucha",
+		"type": "ZMIESZANE",
+		"synonyms": "pieluchy ",
+		"additional_info": ""
+	},
+	{
+		"_id": "294",
+		"name": "Pielucha bambusowa biodegradowalna",
+		"type": "ZMIESZANE",
+		"synonyms": "pieluchy bambusowe, pieluchy biodegradowalne ",
+		"additional_info": "Pielucha bambusowa biodegradowalna - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "296",
+		"name": "Kasety magnetofonowe i wideo",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "297",
+		"name": "Klisza rentgenowska",
+		"type": "ZMIESZANE",
+		"synonyms": "klisza, klisze, klisze rtg, rtg, klisza rtg, kliszę rtg, rentgenowska klisza, rentgenowską kliszę kliszę",
+		"additional_info": ""
+	},
+	{
+		"_id": "298",
+		"name": "Zdjęcie na błyszczącym papierze",
+		"type": "ZMIESZANE",
+		"synonyms": "zdjęcia",
+		"additional_info": ""
+	},
+	{
+		"_id": "299",
+		"name": "Żyletka",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "300",
+		"name": "Garnek emaliowany",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "garnki, stary garnek, stare garnki",
+		"additional_info": ""
+	},
+	{
+		"_id": "302",
+		"name": "Garnek stalowy",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "garnki, stary garnek, stare garnki",
+		"additional_info": ""
+	},
+	{
+		"_id": "306",
+		"name": "Papier po maśle",
+		"type": "ZMIESZANE",
+		"synonyms": "Papier po margarynie, papierek od masła, folia z masła, papier po smalcu, masło papier, folia z masła, opakowanie od masła, opakowanie z masła, Papier z masła, opakowanie papierowe po maśle, papier woskowany po maśle, Pazłotko od masła, papier, alufolia, papier po maśle, opakowanie po maśle, papierek po maśle, papier od masła, Opakowanie po kostce masła",
+		"additional_info": ""
+	},
+	{
+		"_id": "307",
+		"name": "Torebka po bakaliach foliowa",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "Torebki po bakaliach foliowe",
+		"additional_info": ""
+	},
+	{
+		"_id": "309",
+		"name": "Gąbka do mycia naczyń",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "310",
+		"name": "Gąbka do mycia podłóg",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "311",
+		"name": "Żwirek dla kota brudny",
+		"type": "ZMIESZANE",
+		"synonyms": "żwir",
+		"additional_info": ""
+	},
+	{
+		"_id": "312",
+		"name": "Żwirek drewniany dla kota brudny",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "314",
+		"name": "Żwirek kukurydziany dla kota brudny",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "315",
+		"name": "Stopery do uszu",
+		"type": "ZMIESZANE",
+		"synonyms": "stoper do uszu",
+		"additional_info": ""
+	},
+	{
+		"_id": "316",
+		"name": "Cytrusy",
+		"type": "BIO",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "317",
+		"name": "Warzywa ugotowane w wodzie lub surowe",
+		"type": "BIO",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "319",
+		"name": "Warzywa z zupy na mięsie",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "321",
+		"name": "Zepsuty makaron gotowany na mleku",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "323",
+		"name": "Ryż na mleku",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "325",
+		"name": "Płatki na mleku",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "326",
+		"name": "Tacka styropianowa czysta",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "tacki, tacki ze styropianu, tackę, czysty, czysta, tacka ze styropianu czysta, tackę styropianową czystą, tacka styropianowa, steropianowa, tacka steropianowa, pojemnik, styropianowy pojemnik po żywności, tacka styropianowa na warzywa, styropian, pudełko styropianowe, taca styropianowa, tacę styropianową, opakowanie styropianowe, styropianowa tacka, styropianowe tacki, opakowanie styropianowe po jedzeniu, ",
+		"additional_info": "Tacka styropianowa czysta - wyrzuć do pojemnika na metale i tworzywa sztuczne"
+	},
+	{
+		"_id": "327",
+		"name": "Łupiny po orzechach",
+		"type": "BIO",
+		"synonyms": "łupiny orzechów, łupiny od orzechów, łupiony po orzechach, łupinka",
+		"additional_info": ""
+	},
+	{
+		"_id": "328",
+		"name": "Kapsel od butelki",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "kapsle, kapsel od piwa, ",
+		"additional_info": ""
+	},
+	{
+		"_id": "329",
+		"name": "Pestki owoców i warzyw",
+		"type": "BIO",
+		"synonyms": "pestki, pestka awokado, pestka brzoskwini, pestka moreli, pestki słonecznika, pestki dyni, pestki wiśni, pestka wiśni, pestka awokado ",
+		"additional_info": ""
+	},
+	{
+		"_id": "331",
+		"name": "Zmywak biodegradowalny",
+		"type": "ZMIESZANE",
+		"synonyms": "zmywak eco",
+		"additional_info": "Zmywak biodegradowalny - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "332",
+		"name": "Skorupki od orzechów",
+		"type": "BIO",
+		"synonyms": "",
+		"additional_info": "Skorupki od orzechów - wyrzuć do pojemnika na bioodpady"
+	},
+	{
+		"_id": "335",
+		"name": "Opakowania papierowe po lekach",
+		"type": "PAPIER",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "336",
+		"name": "Ulotka od leków",
+		"type": "PAPIER",
+		"synonyms": "",
+		"additional_info": "Ulotka od leków - wyrzuć do pojemnika na papier"
+	},
+	{
+		"_id": "337",
+		"name": "Papier do pieczenia zużyty",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "338",
+		"name": "Klosz od lampy",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "339",
+		"name": "Odpady ze znakiem przekreślonego kosza na śmieci",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "341",
+		"name": "Urządzenia, które były podłączane do gniazdka",
+		"type": "INNE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "344",
+		"name": "Urządzenia, które miały w sobie baterie",
+		"type": "INNE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "502",
+		"name": "Herbata w torebce papierowej",
+		"type": "BIO",
+		"synonyms": "herbata, torebka, saszetki po herbacie, Fusy po herbacie z torebką, Saszetka herbaty, Torebki po zaparzonej herbacie, fusy po herbacie w saszetce, torebka po zaparzonej herbacie, Worek od herbaty, saszetki od herbaty, Torebki herbaty, Herbata expresowa, torebka po herbacie, torebki z herbatą, woreczek herbaty, Torebke z herbata, woreczki od herbaty, Saszetka od herbaty, torebka po herbacie, torebki po herbacie, torebka herbaty, herbata ekspresowa, torebkę po herbacie, saszetka po herbacie, Torebka z herbata, fusy po herbacie w torebce, woreczek po herbacie, herbata w torebkach",
+		"additional_info": "Herbata w torebce papierowej - wyrzuć do pojemnika na bioodpady"
+	},
+	{
+		"_id": "503",
+		"name": "Herbata w torebce z tworzywa sztucznego",
+		"type": "ZMIESZANE",
+		"synonyms": "herbata, saszetki po herbacie, Fusy po herbacie z torebką, Saszetka herbaty, Torebki herbaty, Torebki po zaparzonej herbacie, fusy po herbacie w saszetce, torebka po zaparzonej herbacie, Worek od herbaty, saszetki od herbaty, Herbata expresowa, torebka po herbacie, torebki z herbatą, Torebke z herbata, woreczki od herbaty, Saszetka od herbaty, woreczek herbaty, torebka, torebka od herbaty, torebki do herbaty, torebka herbaty, herbata ekspresowa, torebkę po herbacie, saszetka po herbacie, Torebka z herbata, fusy po herbacie w torebce, woreczek po herbacie, herbata w torebkach, ",
+		"additional_info": "Herbata w torebce z tworzywa sztucznego - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "534",
+		"name": "Wkład do długopisu",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "535",
+		"name": "Jogurt",
+		"type": "ZMIESZANE",
+		"synonyms": "nabiał, mleko",
+		"additional_info": "Jogurt - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "536",
+		"name": "Sznurek",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "537",
+		"name": "Ryba",
+		"type": "ZMIESZANE",
+		"synonyms": "ryba, ryby, resztki ryby, ości ryby, skóra ryby, rybie wnętrzności, śledź, łosoś, pstrąg, makrela, makrelę, śledzie, sledzie",
+		"additional_info": "Rybę wyrzuć do pojemnika na odpady **zmieszane**. Do BIO nie wyrzucamy resztek pochodzenia zwierzęcego. Rozważ oddanie dobrego jedzenia do jadłodzielni ([mapa punktów](http://bit.ly/2uYHueQ)) lub na [grupie freegańskiej na Facebooku](https://www.facebook.com/groups/598796106991258)."
+	},
+	{
+		"_id": "538",
+		"name": "Pestka awokado",
+		"type": "BIO",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "541",
+		"name": "Folia aluminiowa",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "542",
+		"name": "Folia spożywcza",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "543",
+		"name": "Brudny pojemnik plastikowy",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "",
+		"additional_info": "Brudny pojemnik plastikowy - wyrzuć do pojemnika na metale i tworzywa sztuczne"
+	},
+	{
+		"_id": "544",
+		"name": "Folia po owocach",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "folia, folię, folie, folię po owocach,",
+		"additional_info": "Folia po owocach - wyrzuć do pojemnika na metale i tworzywa sztuczne"
+	},
+	{
+		"_id": "545",
+		"name": "Koszyk po owocach lub warzywach plastikowy",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "koszyczek ",
+		"additional_info": "Koszyk po owocach lub warzywach plastikowy - wyrzuć do pojemnika na metale i tworzywa sztuczne Pamiętaj, że najlepiej kupować warzywa i owoce luzem. "
+	},
+	{
+		"_id": "546",
+		"name": "Korek po winie z plastiku",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "korek od wina, korki, korek plastikowy ",
+		"additional_info": ""
+	},
+	{
+		"_id": "550",
+		"name": "Zepsute pieczywo",
+		"type": "BIO",
+		"synonyms": "chleb, bułka, kromka, ",
+		"additional_info": "Pieczywo z masłem, wędliną lub serem wyrzuć do zmieszanych ponieważ do BIO nie wyrzucamy resztek pochodzenia zwierzęcego. Pamiętaj o tym żeby nie marnować jedzenia. Nadmiar możesz oddać do jadłodzielni."
+	},
+	{
+		"_id": "551",
+		"name": "Torebka po pieczywie papierowo-foliowa",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": "Papier z takiej torebki nie jest czystym papierem (ma chemiczne dodatki), dlatego nie wyrzucaj go do papieru. "
+	},
+	{
+		"_id": "552",
+		"name": "Ulotki papierowe",
+		"type": "PAPIER",
+		"synonyms": "broszury, ulotka papierowa, ulotka reklamowa, ulotki reklamowe, broszury, reklamowa ulotka, reklamowe ulotki, papierowa ulotka, papierowe ulotki, ulotkę, papierową ulotkę, reklamową ulotkę, katalog",
+		"additional_info": "Ulotki papierowe - wyrzuć do pojemnika na papier. Papier do odzysku musi być suchy i czysty."
+	},
+	{
+		"_id": "553",
+		"name": "Opakowanie po ryżu luzem plastikowe",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "Worek po ryżu plastikowy",
+		"additional_info": "Opakowanie po ryżu luzem plastikowe - wyrzuć do pojemnika na metale i tworzywa sztuczne"
+	},
+	{
+		"_id": "554",
+		"name": "Majonez",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": "Majonez - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "555",
+		"name": "Opakowania po szkłach kontaktowych plastikowe",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "szkła kontaktowe, szkieł kontaktowych ",
+		"additional_info": ""
+	},
+	{
+		"_id": "556",
+		"name": "Papier po wędlinie",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": "Papier po wędlinie - wyrzuć do pojemnika na odpady zmieszane Brudny papier nie nadaje się do recyklingu."
+	},
+	{
+		"_id": "557",
+		"name": "Opakowanie po kremie np. do rąk plastikowe",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "pudełko po kremie, plastikowe pudełko po kremie, słoiczek po kremie, plastikowy słoiczek po kremie, ",
+		"additional_info": ""
+	},
+	{
+		"_id": "558",
+		"name": "Szczoteczka do zębów plastikowa",
+		"type": "ZMIESZANE",
+		"synonyms": "Szczoteczkę do zebow, szczotka do zębów, szczoteczkę do zebów, szczoteczke do zebow, plastikowa szczoteczka do zębów, szczoteczki do zębów, szczoteczki do zebow, szczoteczkę do zębów plastikową, bambusowa szczoteczka, bambusowa szczoteczka do zębów, szczoteczka do zębów bambusowa, bambusową szczoteczkę do zębów, ",
+		"additional_info": "Szczoteczka do zębów plastikowa - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "559",
+		"name": "Obierki warzywne",
+		"type": "BIO",
+		"synonyms": "",
+		"additional_info": "Obierki warzywne - wyrzuć do pojemnika na bioodpady"
+	},
+	{
+		"_id": "560",
+		"name": "Aerozole",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "Opakowanie po sprayach, aerozol, pojemnik po aerozolu, pusty pojemnik po aerozolu, po aerozolu, dezodorant w aerozolu, opakowanie po aerozolach, opakowanie po aerozolu, areozol, pojemnik po areozolu, opakowanie po areozolu, aerozol, areozole, pusty pojemnik po aerozolu, puszka po areozolu, puszka po aerozolu, lakier do włosów w areozolu, lakier do włosów w aerozolu, pusty pojemnik po areozolu, opakowania po aerozolu, opakowania po areozolu, zużyty aerozol, zużyty areozol, zurzyty areozol",
+		"additional_info": "Aerozole można również oddać do PSZOK lub MPSZOK. Możesz także oddać do Punktu Selektywnej Zbiówki Odpadów Komunalnych (**PSZOK**) lub Mobilnego Punktu Selektywnej Zbiówki Odpadów Komunalnych. [Znajdź PSZOK w Warszawie](https://warszawa19115.pl/-/pszok-mpszok-punkty-selektywnej-zbiorki-odpadow-komunalny-1)"
+	},
+	{
+		"_id": "561",
+		"name": "Butelka szklana",
+		"type": "SZKLO",
+		"synonyms": "Butelka ze szkła, buteleczka szklana, butelka po wódce, butelka po alkoholu, butla, butelka po soku, butelka po piwie, butelka po mleku, butelka po winie, butelka po piwie, butelka wódce, butelka od wódki, butelkę, potłuczona butelka szklana, potłuczona szklana butelka, stłuczona szklana butelka, potłuczone butelki, stłuczone butelki, potłuczoną butelkę, stłuczoną butelkę, stłuczona butelka szklana, zbita butelka szklana, zbita szklana butelka, zbitą szklaną butelkę, zbitą butelkę szklaną, zbite szklane butelki, zbite butelki szklane",
+		"additional_info": ""
+	},
+	{
+		"_id": "562",
+		"name": "Worek po węglu papierowy",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "563",
+		"name": "Jednorazowa maszynka do golenia",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "564",
+		"name": "Butelka plastikowa",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "butelki plastikowe, butelki pet, butelka pet, pet, butelka po wodzie plastikowa, butelka po mleku plastikowa, butelki po mleku plastikowe, butelka plastikowa po mleku, butelka po mleku plastikowa, plastikowa butelka po mleku, woda",
+		"additional_info": ""
+	},
+	{
+		"_id": "567",
+		"name": "Patyczki kosmetyczne plastikowe",
+		"type": "ZMIESZANE",
+		"synonyms": "patyczki higieniczne , patyczki do uszu, patyczek, patyczek do uszu , patyczek higieniczny, patyczek kosmetyczny ",
+		"additional_info": "Patyczki kosmetyczne plastikowe - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "568",
+		"name": "Patyczki kosmetyczne drewniane",
+		"type": "ZMIESZANE",
+		"synonyms": "patyczki do uszu, patyczek, patyczki higieniczne, patyczek do uszu , patyczek higieniczny, patyczek kosmetyczny ",
+		"additional_info": "Patyczki kosmetyczne drewniane - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "569",
+		"name": "Skórka cytrusów",
+		"type": "BIO",
+		"synonyms": "skórka od cytrusów, skórka po cytrusach, skórki po cytrusach ",
+		"additional_info": "Skórka cytrusów - wyrzuć do pojemnika na bioodpady"
+	},
+	{
+		"_id": "573",
+		"name": "Puszka aluminiowa",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "puszki, puszkę, puszka po napoju, puszka po jedzeniu, puszki po piwie, puszka po piwie, puszkę po piwie, puszka po coli, puszkę po coli, puszka po kukurydzy, puszka po groszku, puszka po fasoli, puszkę po fasoli, puszkę po kukurydzy, puszkę po groszku",
+		"additional_info": "Puszka aluminiowa - wyrzuć do pojemnika na metale i tworzywa sztuczne"
+	},
+	{
+		"_id": "576",
+		"name": "Mięso",
+		"type": "ZMIESZANE",
+		"synonyms": "okrawki mięsa, resztki mięsa, mięsne, z mięsem, kotlet, mięso surowe, surowe mięso, stare mieso, skóra kurczaka, mięso z rosołu, mieso surowe, skóra z mięsa, skóra miesa, gotowane mięso, mieso pieczone, zgniłe mięso, mieso, bekon, odpadki mięsne, odpadki mięsa, resztki mięsa, resztki mięsne, odpadki mięsne, resztki surowego mięsa, mięso pieczone, mięso mielone, udko od kurczaka, udko, popsute mięso, zepsute mięso, wątróbka, kiełbasa, udko kurczaka, pasztet, kabanos, kiełbasa, kiełbasę, szynka, szynkę, wędlina, wędlinę",
+		"additional_info": ""
+	},
+	{
+		"_id": "577",
+		"name": "Talerz ceramiczny",
+		"type": "ZMIESZANE",
+		"synonyms": "talerze, talerz porcelanowy, talerze porcelanowe, porcelanowy talerz, porcelanowe talerze, ceramiczny talerz, ceramiczne talerze, stłuczony talerz",
+		"additional_info": ""
+	},
+	{
+		"_id": "579",
+		"name": "Opakowania wielomateriałowe",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "tetrapak, tetrapaki, ",
+		"additional_info": ""
+	},
+	{
+		"_id": "580",
+		"name": "Makulatura",
+		"type": "PAPIER",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "582",
+		"name": "Foliowe opakowanie po bakaliach",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "583",
+		"name": "Foliowe opakowanie po paluszkach",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "paluszki",
+		"additional_info": ""
+	},
+	{
+		"_id": "585",
+		"name": "Foliowe opakowanie po mokrych chusteczkach",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "586",
+		"name": "Opakowanie po nici do zębów",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "opakowanie po nici dentystycznej, ",
+		"additional_info": ""
+	},
+	{
+		"_id": "587",
+		"name": "Skorupki jajek",
+		"type": "BIO",
+		"synonyms": "skorupka od jajka, skorupki od jajek, skorupki jajek, skorupki z jaj, skorupka jaja, skorupkę jaja, skorupki po jajkach, skorupka po jajkach, skorupkę jajka, skorupkę od jaja, skorupkę od jajka, skorupki jaj, skorupka jaja, skorupka jajka, łupiny od jajek, łupiny po jajkach, skorupki od jajka, skrupk",
+		"additional_info": "Upewnij się, że instalacja do kompostu w twojej gminie jest dostosowana do przyjęcia skorupek."
+	},
+	{
+		"_id": "588",
+		"name": "Jajko całe",
+		"type": "ZMIESZANE",
+		"synonyms": "jajka, żółtko, białko, jajecznica, jajko sadzone, jajka sadzone, jajko gotowane, jajko surowe, jajko, jajka, jajo, jaja, zepsute jajko, zepsute jajo",
+		"additional_info": ""
+	},
+	{
+		"_id": "589",
+		"name": "Opakowanie po tik-takach",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "tik taki ",
+		"additional_info": ""
+	},
+	{
+		"_id": "590",
+		"name": "Tacka papierowa brudna",
+		"type": "ZMIESZANE",
+		"synonyms": "Tacka zatłuszczona, talerz papierowy ",
+		"additional_info": "Tacka papierowa brudna - wyrzuć do pojemnika na odpady zmieszane Papier do odzysku musi być suchy i czysty."
+	},
+	{
+		"_id": "592",
+		"name": "Talerz plastikowy",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "talerzyk, talerz, talerze",
+		"additional_info": ""
+	},
+	{
+		"_id": "593",
+		"name": "Talerz papierowy brudny",
+		"type": "ZMIESZANE",
+		"synonyms": "talerzyk, talerz, talerze, tacka, tacki, zatłuszczony",
+		"additional_info": ""
+	},
+	{
+		"_id": "594",
+		"name": "Tacka grillowa aluminiowa nadpalona",
+		"type": "ZMIESZANE",
+		"synonyms": "tacki ",
+		"additional_info": "Tacka grillowa aluminiowa nadpalona - wyrzuć do pojemnika na odpady zmieszane Nadpalone aluminium nie nadaje się do odzysku surowca."
+	},
+	{
+		"_id": "595",
+		"name": "Pianka montażowa",
+		"type": "INNE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "596",
+		"name": "Tkanina",
+		"type": "ZMIESZANE",
+		"synonyms": "tkaniny, materiał, materiały, firanka, koc, narzuta, ubranie, prześcieradło, pościel, ubrania, sweter, swetry, poszewka, tekstylia, wstążki, wstążka ",
+		"additional_info": "Tkanina - wyrzuć do pojemnika na odpady zmieszane Pamiętaj, że niektóre rodzaje tkanin np. koce, ręczniki czy prześcieradła możesz oddać do schroniska. "
+	},
+	{
+		"_id": "597",
+		"name": "Ubrania z bawełny",
+		"type": "ZMIESZANE",
+		"synonyms": "ubranie, odzież, bluzka, spodnie, sukienka, spódnica ",
+		"additional_info": ""
+	},
+	{
+		"_id": "598",
+		"name": "Ubrania z lnu",
+		"type": "ZMIESZANE",
+		"synonyms": "ubranie, odzież, bluzka, spodnie, sukienka, spódnica ",
+		"additional_info": ""
+	},
+	{
+		"_id": "599",
+		"name": "Ubrania z poliestru",
+		"type": "ZMIESZANE",
+		"synonyms": "ubranie, odzież, bluzka, spodnie, sukienka, spódnica ",
+		"additional_info": ""
+	},
+	{
+		"_id": "600",
+		"name": "Karton po soku",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "Opakowanie po sokach, pudełko po soku, Karton z soku, Katron po soku, karton od sokow, karony po sokach owocowych, Karton na soku, opakowanie po soku w kartonie, kartony po sokach, tetrapak po soku, tetrapaki, pudełko po soku, pojemnik po soku, pojemnik po sokach, opakowanie po soku, Kartonik po soku, opakowania po sokach, Opakowanie kartonowe po soku, Karton od soku, kartony po soku, ",
+		"additional_info": "Karton po soku - wyrzuć do pojemnika na metale i tworzywa sztuczne"
+	},
+	{
+		"_id": "601",
+		"name": "Karton po mleku",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "kartony po mleku, tetrapak po mleku, tetrapaki, kartoniki, kartonik, opakowanie po mleku, pudełko po mleku, karton po maślance, opakowanie po maślance, kartonik po mleku, karton od mleka, opakowania po mleku, pojemnik po mleku plastikowy",
+		"additional_info": "Karton po mleku - wyrzuć do pojemnika na metale i tworzywa sztuczne"
+	},
+	{
+		"_id": "602",
+		"name": "Owoce",
+		"type": "BIO",
+		"synonyms": "owoc, owoców, zgniłe owoce, spleśniałe",
+		"additional_info": ""
+	},
+	{
+		"_id": "603",
+		"name": "Warzywa",
+		"type": "BIO",
+		"synonyms": "warzyw, warzywo, surowe warzywa ",
+		"additional_info": ""
+	},
+	{
+		"_id": "604",
+		"name": "Pierze z poduszek",
+		"type": "ZMIESZANE",
+		"synonyms": "poduszki z pierzem, pióra, poduszka, poduszkę, poduszki",
+		"additional_info": ""
+	},
+	{
+		"_id": "606",
+		"name": "Węgiel po grillu",
+		"type": "ZMIESZANE",
+		"synonyms": "węgla ",
+		"additional_info": ""
+	},
+	{
+		"_id": "607",
+		"name": "Butelka po rozpałce do grilla plastikowa",
+		"type": "INNE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "608",
+		"name": "Butelka po rozpałce do grilla przemyta płynem do naczyń plastikowa",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "609",
+		"name": "Łupinki od cebuli",
+		"type": "BIO",
+		"synonyms": "cebula, łupinka od cebuli, cebule, łupiny",
+		"additional_info": ""
+	},
+	{
+		"_id": "663",
+		"name": "Kiełbasa",
+		"type": "ZMIESZANE",
+		"synonyms": "kiełbasy, wędlina ",
+		"additional_info": "Kiełbasa - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "664",
+		"name": "Zbite lustro",
+		"type": "ZMIESZANE",
+		"synonyms": "lusterko, lustra, lusterka ",
+		"additional_info": ""
+	},
+	{
+		"_id": "665",
+		"name": "Prezerwatywa",
+		"type": "ZMIESZANE",
+		"synonyms": "Kondom, kondomy, prezerwatywy, gumka, kondon, kondny, zużyta prezerwatywa, zużyte prezerwatywy, prezerwatywę",
+		"additional_info": "Prezerwatywa - wyrzuć do pojemnika na odpady zmieszane Zużytą prezerwatywę zwiąż przed wyrzuceniem do kosza. "
+	},
+	{
+		"_id": "666",
+		"name": "Pasek z ekoskóry",
+		"type": "ZMIESZANE",
+		"synonyms": "paski, paska ",
+		"additional_info": "Pasek z ekoskóry - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "667",
+		"name": "Pasek skórzany",
+		"type": "ZMIESZANE",
+		"synonyms": "paski, paska ",
+		"additional_info": "Pasek skórzany - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "668",
+		"name": "Pasek plastikowy",
+		"type": "ZMIESZANE",
+		"synonyms": "paska, paski, ",
+		"additional_info": "Pasek plastikowy - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "669",
+		"name": "Gałązka od pomidora",
+		"type": "BIO",
+		"synonyms": "gałązki ",
+		"additional_info": "Gałązka od pomidora - wyrzuć do pojemnika na bioodpady"
+	},
+	{
+		"_id": "670",
+		"name": "Pomidor",
+		"type": "BIO",
+		"synonyms": "pomidora, pomidory",
+		"additional_info": ""
+	},
+	{
+		"_id": "671",
+		"name": "Truskawka",
+		"type": "BIO",
+		"synonyms": "truskawki, szypułka, truskawka ",
+		"additional_info": ""
+	},
+	{
+		"_id": "672",
+		"name": "Szypułki truskawek",
+		"type": "BIO",
+		"synonyms": "truskawki, szypułka, truskawka ",
+		"additional_info": ""
+	},
+	{
+		"_id": "673",
+		"name": "Kubek plastikowy",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "kubki plastikowe, kubek styropianowy, kubki styropianowe",
+		"additional_info": "Kubek plastikowy - wyrzuć do pojemnika na metale i tworzywa sztuczne"
+	},
+	{
+		"_id": "674",
+		"name": "Fusy po herbacie (bez torebki)",
+		"type": "BIO",
+		"synonyms": "herbata, herbatę, fusy herbaty",
+		"additional_info": ""
+	},
+	{
+		"_id": "675",
+		"name": "Fusy po kawie",
+		"type": "BIO",
+		"synonyms": "kawa, kawy, kawie, kawą, Fusy od kawy, Fusy z kawy, kawę, Ziarna kawy",
+		"additional_info": "Fusy po kawie - wyrzuć do pojemnika na bioodpady"
+	},
+	{
+		"_id": "676",
+		"name": "Szparagi",
+		"type": "BIO",
+		"synonyms": "szparagów, szparag, ",
+		"additional_info": ""
+	},
+	{
+		"_id": "677",
+		"name": "Owoce morza",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "679",
+		"name": "Okulary",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "682",
+		"name": "Parówka",
+		"type": "ZMIESZANE",
+		"synonyms": "zepsute parówki, parówka ",
+		"additional_info": ""
+	},
+	{
+		"_id": "683",
+		"name": "Resztki kanapki wegańskiej",
+		"type": "BIO",
+		"synonyms": "bezmięsna",
+		"additional_info": ""
+	},
+	{
+		"_id": "686",
+		"name": "Urządzenia, które były podłączone do gniazdka",
+		"type": "INNE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "687",
+		"name": "Urządzenia, które miały w sobie baterie",
+		"type": "INNE",
+		"synonyms": "",
+		"additional_info": "Urządzenia, które miały w sobie baterie - możesz oddać do Punktu Selektywnej Zbiórki Odpadów Komunalnych lub Mobilnego Punktu Selektywnej Zbiórki Odpadów Komunalnych"
+	},
+	{
+		"_id": "688",
+		"name": "Kalosz",
+		"type": "ZMIESZANE",
+		"synonyms": "kalosze",
+		"additional_info": ""
+	},
+	{
+		"_id": "689",
+		"name": "Rękawiczka gumowa",
+		"type": "ZMIESZANE",
+		"synonyms": "rękawiczka gumowa, rękawiczka z gumy, rękawiczki z gumy, rękawiczki gumowe, gumowe rękawiczki, Rękawice gumowe, Gumowe rękawice, Gumowa rękawica, Rękawice gumowe, Rękawiczki lateksowe, Lateksowe rękawiczki",
+		"additional_info": "Rękawiczka gumowa - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "691",
+		"name": "Zabawka plastikowa, bez elektroniki i baterii",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "zabawki plastikowe, zabawka z plastiku, zabawki z plastiku, plastikowe zabawki",
+		"additional_info": "Zabawka plastikowa, bez elektroniki i baterii - wyrzuć do pojemnika na metale i tworzywa sztuczne"
+	},
+	{
+		"_id": "692",
+		"name": "Klocki plastikowe",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "klocki z plastiku, klocek plastikowy, klocek z plastiku ",
+		"additional_info": ""
+	},
+	{
+		"_id": "693",
+		"name": "Gałki mebli drewniane",
+		"type": "ZMIESZANE",
+		"synonyms": "uchwyty drewniane ",
+		"additional_info": "Gałki mebli drewniane - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "694",
+		"name": "Nóżki mebli drewniane",
+		"type": "ZMIESZANE",
+		"synonyms": "nogi drewniane ",
+		"additional_info": ""
+	},
+	{
+		"_id": "695",
+		"name": "Duże elementy mebli (nie drzwi)",
+		"type": "GABARYTY",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "696",
+		"name": "Elementy gumowe",
+		"type": "ZMIESZANE",
+		"synonyms": "guma, z gumy, przedmioty z gumy, przedmioty gumowe ",
+		"additional_info": "Elementy gumowe - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "697",
+		"name": "Żarówka energooszczędna",
+		"type": "INNE",
+		"synonyms": "żarówkę, żarówki, zużyte żarówki, żarówki energooszczędne, żarówkę energooszczędną",
+		"additional_info": "Żarówka energooszczędna - możesz oddać do Punktu Selektywnej Zbiórki Odpadów Komunalnych lub Mobilnego Punktu Selektywnej Zbiórki Odpadów Komunalnych"
+	},
+	{
+		"_id": "698",
+		"name": "Żarówka ledowa, LED",
+		"type": "INNE",
+		"synonyms": "żarówkę, żarówki, Żarówki led, żarówka led, żarówkę led, zarowke led, zużyte żarówki, Żarówki ledowe, ",
+		"additional_info": "Żarówka ledowa, LED - możesz oddać do Punktu Selektywnej Zbiórki Odpadów Komunalnych lub Mobilnego Punktu Selektywnej Zbiórki Odpadów Komunalnych"
+	},
+	{
+		"_id": "700",
+		"name": "Strzykawki",
+		"type": "INNE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "701",
+		"name": "Wiórki z kredek",
+		"type": "ZMIESZANE",
+		"synonyms": "drewniane resztki z temperówki, resztki kredek drewnianych, resztki z temperowania drewnianych kredek ",
+		"additional_info": "Wiórki z kredek - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "702",
+		"name": "Trociny do wypełniania paczek",
+		"type": "ZMIESZANE",
+		"synonyms": "trocin ",
+		"additional_info": "Trociny do wypełniania paczek - wyrzuć do pojemnika na odpady zmieszane. Do BIO wyrzucamy głównie resztki warzyw i owoców. Trociny nie nadają się do kompostowania."
+	},
+	{
+		"_id": "703",
+		"name": "Pojemnik po jajkach papierowy czysty",
+		"type": "PAPIER",
+		"synonyms": "wytłoczki czyste, wytłaczanki czyste, opakowanie po jajkach papierowe czyste, opakowanie po jajkach czyste",
+		"additional_info": "Pojemnik po jajkach papierowy czysty - wyrzuć do pojemnika na papier Brudne opakowanie po jajkach wyrzuć do zmieszanych."
+	},
+	{
+		"_id": "704",
+		"name": "Fizelina",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": "Fizelina - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "705",
+		"name": "Ampułkostrzykawki",
+		"type": "INNE",
+		"synonyms": "",
+		"additional_info": "Ampułkostrzykawki - możesz oddać do Punktu Selektywnej Zbiórki Odpadów Komunalnych lub Mobilnego Punktu Selektywnej Zbiórki Odpadów Komunalnych"
+	},
+	{
+		"_id": "706",
+		"name": "Metalowy element (drucik i folia) od butelki od szampana, wina musującego",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "707",
+		"name": "Żarówka tradycyjna",
+		"type": "ZMIESZANE",
+		"synonyms": "żarówki tradycyjne, żarówkę, żarówki, zużyte żarówki, Zbita żarówka, Spalone żarówki, Zbitą żarówkę, rozbitą żarówkę",
+		"additional_info": "Żarówka tradycyjna - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "708",
+		"name": "Folia po pojedynczych parówkach",
+		"type": "ZMIESZANE",
+		"synonyms": "Folia po parówce ",
+		"additional_info": ""
+	},
+	{
+		"_id": "710",
+		"name": "Słomka papierowa zużyta",
+		"type": "ZMIESZANE",
+		"synonyms": "słomki papierowe ",
+		"additional_info": "Zużyta słomka papierowa nie nadaje się do recyklingu, ponieważ jest mokra i pobrudzona napojem."
+	},
+	{
+		"_id": "711",
+		"name": "Żarówka reflektorek",
+		"type": "INNE",
+		"synonyms": "żarówkę, żarówki, zużyte żarówki",
+		"additional_info": "Żarówka reflektorek - możesz oddać do Punktu Selektywnej Zbiórki Odpadów Komunalnych lub Mobilnego Punktu Selektywnej Zbiórki Odpadów Komunalnych"
+	},
+	{
+		"_id": "712",
+		"name": "Sierść psa lub kota",
+		"type": "ZMIESZANE",
+		"synonyms": "futro, sierści, włosy ",
+		"additional_info": "Sierść psa lub kota - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "713",
+		"name": "Końcówki szparagów",
+		"type": "BIO",
+		"synonyms": "szparagi, szparagów ",
+		"additional_info": "Końcówki szparagów - wyrzuć do pojemnika na bioodpady"
+	},
+	{
+		"_id": "714",
+		"name": "Grill jednorazowy zużyty",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "716",
+		"name": "Nabój CO2 do roweru pusty",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "kartusz, nabój, naboje, kartusze ",
+		"additional_info": ""
+	},
+	{
+		"_id": "718",
+		"name": "Banan",
+		"type": "BIO",
+		"synonyms": "banan, banana, banany, skórka od banana",
+		"additional_info": "Banan - wyrzuć do pojemnika na bioodpady"
+	},
+	{
+		"_id": "719",
+		"name": "Skórka banana",
+		"type": "BIO",
+		"synonyms": "skórki od banana, skórka po bananie ",
+		"additional_info": "Skórka banana - wyrzuć do pojemnika na bioodpady"
+	},
+	{
+		"_id": "720",
+		"name": "Pellet",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "722",
+		"name": "Grzebień tekturowy od kartonu",
+		"type": "PAPIER",
+		"synonyms": "tektura, karton ",
+		"additional_info": ""
+	},
+	{
+		"_id": "725",
+		"name": "Końcówka do elektrycznej szczoteczki do zębów",
+		"type": "ZMIESZANE",
+		"synonyms": "szczoteczka elektryczna, końcówki, zużyte końcówki do elektrycznych szczoteczek do zębów, końcówka od szczoteczki elektrycznej",
+		"additional_info": ""
+	},
+	{
+		"_id": "726",
+		"name": "Zapalniczka jednorazowa",
+		"type": "ZMIESZANE",
+		"synonyms": "zapalniczki ",
+		"additional_info": ""
+	},
+	{
+		"_id": "727",
+		"name": "Odpady ze znakiem przekreślonego kosza na śmieci",
+		"type": "INNE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "728",
+		"name": "Awokado",
+		"type": "BIO",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "730",
+		"name": "Balon",
+		"type": "ZMIESZANE",
+		"synonyms": "balony, pęknięty balon, balonik, dmuchany",
+		"additional_info": "Balon - wyrzuć do pojemnika na odpady zmieszane. Nie nadaje się do recyklingu."
+	},
+	{
+		"_id": "732",
+		"name": "Drewniane elementy, przedmioty",
+		"type": "ZMIESZANE",
+		"synonyms": "drewniany, z drewna, drewno, drewniana skrzynka, drewnianą skrzynkę, łyżka drewniana, drewniana łyżka, drewniane pałeczki, pałeczki drewniane, deska drewniana, drewniana deska, deskę drewnianą, drewnianą deskę",
+		"additional_info": "Drewniane elementy, przedmioty - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "734",
+		"name": "Zabawki elektroniczne/elektryczne",
+		"type": "INNE",
+		"synonyms": "",
+		"additional_info": "Zabawki elektroniczne/elektryczne - możesz oddać do Punktu Selektywnej Zbiórki Odpadów Komunalnych lub Mobilnego Punktu Selektywnej Zbiórki Odpadów Komunalnych"
+	},
+	{
+		"_id": "779",
+		"name": "Agrest",
+		"type": "BIO",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "780",
+		"name": "Ananas",
+		"type": "BIO",
+		"synonyms": "ananasy",
+		"additional_info": ""
+	},
+	{
+		"_id": "781",
+		"name": "Arbuz",
+		"type": "BIO",
+		"synonyms": "arbuzy, arbuza",
+		"additional_info": ""
+	},
+	{
+		"_id": "782",
+		"name": "Bakłażan",
+		"type": "BIO",
+		"synonyms": "bakłażany, bakłażanu ",
+		"additional_info": ""
+	},
+	{
+		"_id": "783",
+		"name": "Borówki",
+		"type": "BIO",
+		"synonyms": "borówka, borówek ",
+		"additional_info": ""
+	},
+	{
+		"_id": "784",
+		"name": "Bób",
+		"type": "BIO",
+		"synonyms": "bobu ",
+		"additional_info": ""
+	},
+	{
+		"_id": "785",
+		"name": "Brokuł",
+		"type": "BIO",
+		"synonyms": "brokułu, brokułów ",
+		"additional_info": ""
+	},
+	{
+		"_id": "786",
+		"name": "Brukiew",
+		"type": "BIO",
+		"synonyms": "brukwie, brukwi ",
+		"additional_info": ""
+	},
+	{
+		"_id": "787",
+		"name": "Brzoskwinia",
+		"type": "BIO",
+		"synonyms": "brzoskwinie, brzoskwini ",
+		"additional_info": ""
+	},
+	{
+		"_id": "788",
+		"name": "Burak",
+		"type": "BIO",
+		"synonyms": "buraki, buraka, ",
+		"additional_info": ""
+	},
+	{
+		"_id": "789",
+		"name": "Cebula",
+		"type": "BIO",
+		"synonyms": "cebuli, cebule, cebulki, ",
+		"additional_info": ""
+	},
+	{
+		"_id": "790",
+		"name": "Cykoria",
+		"type": "BIO",
+		"synonyms": "cykorie, cykorii ",
+		"additional_info": ""
+	},
+	{
+		"_id": "791",
+		"name": "Cytryna",
+		"type": "BIO",
+		"synonyms": "cytryny, cytrusy, cytrus, ",
+		"additional_info": "Cytryna - wyrzuć do pojemnika na bioodpady"
+	},
+	{
+		"_id": "792",
+		"name": "Czereśnie",
+		"type": "BIO",
+		"synonyms": "czereśnia ",
+		"additional_info": ""
+	},
+	{
+		"_id": "793",
+		"name": "Czosnek",
+		"type": "BIO",
+		"synonyms": " czosnku",
+		"additional_info": ""
+	},
+	{
+		"_id": "794",
+		"name": "Dynia",
+		"type": "BIO",
+		"synonyms": "dynie, dyni",
+		"additional_info": ""
+	},
+	{
+		"_id": "795",
+		"name": "Fasola",
+		"type": "BIO",
+		"synonyms": "fasoli",
+		"additional_info": ""
+	},
+	{
+		"_id": "796",
+		"name": "Grejpfrut",
+		"type": "BIO",
+		"synonyms": "grejpfruty, cytrus, cytrusy",
+		"additional_info": ""
+	},
+	{
+		"_id": "797",
+		"name": "Groch",
+		"type": "BIO",
+		"synonyms": "groszek",
+		"additional_info": ""
+	},
+	{
+		"_id": "798",
+		"name": "Gruszka",
+		"type": "BIO",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "799",
+		"name": "Jabłko",
+		"type": "BIO",
+		"synonyms": "jabłka",
+		"additional_info": ""
+	},
+	{
+		"_id": "800",
+		"name": "Jarmuż",
+		"type": "BIO",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "801",
+		"name": "Jeżyny",
+		"type": "BIO",
+		"synonyms": "jeżyn, jeżyna ",
+		"additional_info": ""
+	},
+	{
+		"_id": "802",
+		"name": "Kalafior",
+		"type": "BIO",
+		"synonyms": "kalafiory, kalafiora, ",
+		"additional_info": ""
+	},
+	{
+		"_id": "803",
+		"name": "Kalarepa",
+		"type": "BIO",
+		"synonyms": "kalarepy, kalarepka, kalarepki",
+		"additional_info": ""
+	},
+	{
+		"_id": "804",
+		"name": "Kapusta",
+		"type": "BIO",
+		"synonyms": "kapusty",
+		"additional_info": ""
+	},
+	{
+		"_id": "805",
+		"name": "Karczoch",
+		"type": "BIO",
+		"synonyms": "karczochy, karczocha ",
+		"additional_info": "Karczoch - wyrzuć do pojemnika na bioodpady"
+	},
+	{
+		"_id": "806",
+		"name": "Kokos",
+		"type": "BIO",
+		"synonyms": "orzech kokosowy, kokosa ",
+		"additional_info": ""
+	},
+	{
+		"_id": "807",
+		"name": "Koper",
+		"type": "BIO",
+		"synonyms": "koperek, koperku ",
+		"additional_info": ""
+	},
+	{
+		"_id": "808",
+		"name": "Kukurydza",
+		"type": "BIO",
+		"synonyms": "kukurydzy, kukurydze ",
+		"additional_info": "Kukurydza - wyrzuć do pojemnika na bioodpady"
+	},
+	{
+		"_id": "809",
+		"name": "Maliny",
+		"type": "BIO",
+		"synonyms": "malina, malin",
+		"additional_info": "Maliny - wyrzuć do pojemnika na bioodpady"
+	},
+	{
+		"_id": "810",
+		"name": "Mandarynka",
+		"type": "BIO",
+		"synonyms": "mandarynki, cytrusy",
+		"additional_info": "Mandarynka - wyrzuć do pojemnika na bioodpady"
+	},
+	{
+		"_id": "811",
+		"name": "Marchew",
+		"type": "BIO",
+		"synonyms": "marchewka, marchewki ",
+		"additional_info": "Marchew - wyrzuć do pojemnika na bioodpady"
+	},
+	{
+		"_id": "812",
+		"name": "Melon",
+		"type": "BIO",
+		"synonyms": "melony",
+		"additional_info": ""
+	},
+	{
+		"_id": "813",
+		"name": "Morela",
+		"type": "BIO",
+		"synonyms": "morele, moreli ",
+		"additional_info": "Morela - wyrzuć do pojemnika na bioodpady"
+	},
+	{
+		"_id": "814",
+		"name": "Ogórek",
+		"type": "BIO",
+		"synonyms": "ogórki, ogórka ",
+		"additional_info": "Ogórek - wyrzuć do pojemnika na bioodpady"
+	},
+	{
+		"_id": "817",
+		"name": "Pasternak",
+		"type": "BIO",
+		"synonyms": "pasternaku ",
+		"additional_info": ""
+	},
+	{
+		"_id": "818",
+		"name": "Pietruszka",
+		"type": "BIO",
+		"synonyms": "pietruszki ",
+		"additional_info": ""
+	},
+	{
+		"_id": "819",
+		"name": "Pomarańcza",
+		"type": "BIO",
+		"synonyms": "pomarańcz pomarańcze pomarańczy ",
+		"additional_info": ""
+	},
+	{
+		"_id": "821",
+		"name": "Por",
+		"type": "BIO",
+		"synonyms": "pory, pora ",
+		"additional_info": ""
+	},
+	{
+		"_id": "822",
+		"name": "Porzeczki",
+		"type": "BIO",
+		"synonyms": "porzeczka ",
+		"additional_info": "Porzeczki - wyrzuć do pojemnika na bioodpady"
+	},
+	{
+		"_id": "823",
+		"name": "Poziomki",
+		"type": "BIO",
+		"synonyms": "poziomka, poziomek ",
+		"additional_info": ""
+	},
+	{
+		"_id": "825",
+		"name": "Roszponka",
+		"type": "BIO",
+		"synonyms": "roszponki ",
+		"additional_info": ""
+	},
+	{
+		"_id": "826",
+		"name": "Rzepa",
+		"type": "BIO",
+		"synonyms": "rzepy ",
+		"additional_info": ""
+	},
+	{
+		"_id": "827",
+		"name": "Rzeżucha",
+		"type": "BIO",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "829",
+		"name": "Rzodkiewka",
+		"type": "BIO",
+		"synonyms": "rzodkiew, rzodkiewki ",
+		"additional_info": ""
+	},
+	{
+		"_id": "831",
+		"name": "Sałata",
+		"type": "BIO",
+		"synonyms": "sałaty ",
+		"additional_info": ""
+	},
+	{
+		"_id": "832",
+		"name": "Seler",
+		"type": "BIO",
+		"synonyms": "selery, selera ",
+		"additional_info": ""
+	},
+	{
+		"_id": "833",
+		"name": "Skorzonera",
+		"type": "BIO",
+		"synonyms": "skorzonery ",
+		"additional_info": ""
+	},
+	{
+		"_id": "834",
+		"name": "Szalotka",
+		"type": "BIO",
+		"synonyms": "szalotki ",
+		"additional_info": ""
+	},
+	{
+		"_id": "835",
+		"name": "Szczypiorek",
+		"type": "BIO",
+		"synonyms": "szczypior ",
+		"additional_info": ""
+	},
+	{
+		"_id": "836",
+		"name": "Szpinak",
+		"type": "BIO",
+		"synonyms": "szpinaku ",
+		"additional_info": ""
+	},
+	{
+		"_id": "837",
+		"name": "Śliwka",
+		"type": "BIO",
+		"synonyms": "śliwka, ",
+		"additional_info": ""
+	},
+	{
+		"_id": "838",
+		"name": "Truskawki",
+		"type": "BIO",
+		"synonyms": "truskawka ",
+		"additional_info": ""
+	},
+	{
+		"_id": "839",
+		"name": "Winogrona",
+		"type": "BIO",
+		"synonyms": "winogrono, winogron",
+		"additional_info": ""
+	},
+	{
+		"_id": "840",
+		"name": "Wiśnie",
+		"type": "BIO",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "841",
+		"name": "Żurawina",
+		"type": "BIO",
+		"synonyms": "żurawiny",
+		"additional_info": ""
+	},
+	{
+		"_id": "844",
+		"name": "Tampon",
+		"type": "ZMIESZANE",
+		"synonyms": "tampony, ",
+		"additional_info": ""
+	},
+	{
+		"_id": "846",
+		"name": "Podpaska",
+		"type": "ZMIESZANE",
+		"synonyms": "podpaski, wkładka, wkładki, ",
+		"additional_info": ""
+	},
+	{
+		"_id": "853",
+		"name": "Leki",
+		"type": "LEKI",
+		"synonyms": "lek, antybiotyki, antybiotyki, syrop, rutinoscorbin, polopiryna, aspiryna, lekarstwa, przeterminowane leki",
+		"additional_info": "Powinny trafić do pojemnika na leki np. w aptece. Leki możesz również oddać do Punktów Selektywnej Zbiórki Odpadów Komunalnych. "
+	},
+	{
+		"_id": "854",
+		"name": "Termometr rtęciowy",
+		"type": "LEKI",
+		"synonyms": "",
+		"additional_info": "Wyrzuć do pojemnika na leki. Możesz także oddać do Punktu Selektywnej Zbiówki Odpadów Komunalnych (**PSZOK**) lub Mobilnego Punktu Selektywnej Zbiówki Odpadów Komunalnych. [Znajdź PSZOK w Warszawie](https://warszawa19115.pl/-/pszok-mpszok-punkty-selektywnej-zbiorki-odpadow-komunalny-1)"
+	},
+	{
+		"_id": "855",
+		"name": "Orzech",
+		"type": "BIO",
+		"synonyms": "orzechy, orzech laskowy, orzech włoski, nerkowce, laskowe, włoskie, ziemne, ",
+		"additional_info": "Orzech - wyrzuć do pojemnika na bioodpady"
+	},
+	{
+		"_id": "872",
+		"name": "Ości ryby",
+		"type": "ZMIESZANE",
+		"synonyms": "ości, kręgosłup ryby, resztki ryby, ryba, ryby",
+		"additional_info": "Ości ryby wyrzuć do pojemnika na odpady zmieszane. Do BIO nie wyrzucamy resztek pochodzenia zwierzęcego. Rozważ oddanie dobrego jedzenia do jadłodzielni ([mapa punktów](http://bit.ly/2uYHueQ)) lub na [grupie freegańskiej na Facebooku](https://www.facebook.com/groups/598796106991258)."
+	},
+	{
+		"_id": "873",
+		"name": "Pudełko po pizzy brudne",
+		"type": "ZMIESZANE",
+		"synonyms": "Zatłuszczone pudełko po pizzy, brudny karton po pizzy. opakowanie po pizzy",
+		"additional_info": ""
+	},
+	{
+		"_id": "875",
+		"name": "Pojemnik po jajkach zabrudzony papierowy",
+		"type": "ZMIESZANE",
+		"synonyms": "zabrudzony pojemnik papierowy do jajek, pojemnik po jajkach, wytłoczki po jajkach, wytłoczki od jajek, opakowanie po jajkach brudne",
+		"additional_info": "Pojemnik po jajkach zabrudzony papierowy - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "876",
+		"name": "Guma do żucia",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "878",
+		"name": "Drzwi",
+		"type": "INNE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "880",
+		"name": "Opakowanie po ketchupie plastikowe",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "butelka po ketchupie, butelka po keczupie, opakowanie po keczupie, plastikowe opakowanie po keczapie, keczap, keczup,",
+		"additional_info": "Nie musisz myć butelki - wystarczy, że ją opróżnisz."
+	},
+	{
+		"_id": "881",
+		"name": "Włosy ze szczotki",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "882",
+		"name": "Duże lustro",
+		"type": "INNE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "884",
+		"name": "Suszarka do włosów",
+		"type": "ELEKTROSMIECI",
+		"synonyms": "",
+		"additional_info": "Punkty odbioru znajdziesz m.in. na stronie [www.elektroeko.pl](https://www.elektroeko.pl/punkty-zbierania-elektrosmieci/)."
+	},
+	{
+		"_id": "885",
+		"name": "Ciecierzyca",
+		"type": "BIO",
+		"synonyms": "cieciorki, ciecierzycy, cieciorka",
+		"additional_info": ""
+	},
+	{
+		"_id": "886",
+		"name": "Zepsuty hummus",
+		"type": "BIO",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "887",
+		"name": "Opakowanie po hummusie plastikowe",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "",
+		"additional_info": "Opakowanie po hummusie plastikowe - wyrzuć do pojemnika na metale i tworzywa sztuczne"
+	},
+	{
+		"_id": "888",
+		"name": "Cukinia",
+		"type": "BIO",
+		"synonyms": "cukinie, cukinii ",
+		"additional_info": ""
+	},
+	{
+		"_id": "889",
+		"name": "Krewetki",
+		"type": "ZMIESZANE",
+		"synonyms": "ogonki po krewetkach, pancerzyki krewetek, krewetka, ",
+		"additional_info": ""
+	},
+	{
+		"_id": "891",
+		"name": "Pampersy (jednorazowe pieluchy)",
+		"type": "ZMIESZANE",
+		"synonyms": "pieluchy jednorazowe, pampers, pielucha jednorazowa, pieluchy, pieluszka, pieluszki",
+		"additional_info": ""
+	},
+	{
+		"_id": "892",
+		"name": "Skarpetki",
+		"type": "ZMIESZANE",
+		"synonyms": "skarpetka, dziurawa skarpetka, dziurawe skarpetki, stare skarpetki, stara skarpetka",
+		"additional_info": ""
+	},
+	{
+		"_id": "893",
+		"name": "Rajstopy",
+		"type": "ZMIESZANE",
+		"synonyms": "rajstop, podarte rajstopy",
+		"additional_info": ""
+	},
+	{
+		"_id": "894",
+		"name": "Plaster opatrunkowy",
+		"type": "ZMIESZANE",
+		"synonyms": "plaster na rany, plastry, plaster na odciski, ",
+		"additional_info": ""
+	},
+	{
+		"_id": "897",
+		"name": "Mango",
+		"type": "BIO",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "901",
+		"name": "Dezodorant w sprayu",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "Antyperspirant w aluminiowej puszce, opakowanie po antperspirancie, opakowanie po antperspirancie, Opakowanie po dezodorancie w sprayu, opakowanie po dezodorantach, pojemnik po dezodorantach, Dezodoranty, Opakowanie dezodorantu, Opakowanie po dezodorancie w spreju, Pojemnik po dezodorant, Opakowanie metalowe po dezodorancie, Opakowanie po dezodorantach, Puste opakowanie po dezodorancie, pojemniki po dezodorantach, zużyty dezodorant, Pusty dezodorant, Butelka po dezodorancie, Puszka po dezodorancie, Dezodorant w aluminiowej puszce, dezodorant, opakowanie po dezodorancie w sprayu, po dezodorancie, pojemnik po dezodorancie, opakowanie po dezodorancie, opakowania po dezodorantach",
+		"additional_info": "Dezodorant w sprayu można również oddać do PSZOK lub MPSZOK."
+	},
+	{
+		"_id": "902",
+		"name": "Opakowanie po piance do golenia, pianka do golenia",
+		"type": "INNE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "903",
+		"name": "Nić dentystyczna",
+		"type": "ZMIESZANE",
+		"synonyms": "nić, nitka dentystyczna ",
+		"additional_info": ""
+	},
+	{
+		"_id": "904",
+		"name": "Sreberko po czekoladzie",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": "Nie nadaje się do recyklingu :("
+	},
+	{
+		"_id": "905",
+		"name": "Sreberko po kanapce",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "906",
+		"name": "Porcelana",
+		"type": "ZMIESZANE",
+		"synonyms": "porcelanowy, porcelanowa, porcelanowy talerz, porcelanowa filiżanka",
+		"additional_info": ""
+	},
+	{
+		"_id": "907",
+		"name": "Gruz",
+		"type": "INNE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "908",
+		"name": "Opakowanie po zupce w proszku",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "909",
+		"name": "Umywalka",
+		"type": "INNE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "912",
+		"name": "Opakowanie po cukrze papierowe",
+		"type": "PAPIER",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "913",
+		"name": "Patyczek po lodach drewniany",
+		"type": "ZMIESZANE",
+		"synonyms": "patyk po lodach drewniany ",
+		"additional_info": ""
+	},
+	{
+		"_id": "914",
+		"name": "Rolka po papierze toaletowym",
+		"type": "PAPIER",
+		"synonyms": "tekturowa rolka po papierze toaletowym, rolkę",
+		"additional_info": ""
+	},
+	{
+		"_id": "918",
+		"name": "Zatłuszczone opakowanie styropianowe",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "919",
+		"name": "Smalec",
+		"type": "ZMIESZANE",
+		"synonyms": "smalcu, tłuszcz ",
+		"additional_info": ""
+	},
+	{
+		"_id": "920",
+		"name": "Uszkodzony smartfon",
+		"type": "ELEKTROSMIECI",
+		"synonyms": "",
+		"additional_info": "Punkty odbioru znajdziesz m.in. na stronie [www.elektroeko.pl](https://www.elektroeko.pl/punkty-zbierania-elektrosmieci/)."
+	},
+	{
+		"_id": "921",
+		"name": "Słuchawki",
+		"type": "ELEKTROSMIECI",
+		"synonyms": "",
+		"additional_info": "Punkty odbioru znajdziesz m.in. na stronie [www.elektroeko.pl](https://www.elektroeko.pl/punkty-zbierania-elektrosmieci/)."
+	},
+	{
+		"_id": "922",
+		"name": "Słonina",
+		"type": "ZMIESZANE",
+		"synonyms": "słoniny, ",
+		"additional_info": ""
+	},
+	{
+		"_id": "923",
+		"name": "Opakowanie po kawie plastikowe",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "924",
+		"name": "Karton tekturowy czysty",
+		"type": "PAPIER",
+		"synonyms": "tekturowy karton, kartony, opakowanie po butach, pudełko tekturowe",
+		"additional_info": ""
+	},
+	{
+		"_id": "925",
+		"name": "Biodegradowalny widelec",
+		"type": "ZMIESZANE",
+		"synonyms": "Sztućce biodegradowalne",
+		"additional_info": ""
+	},
+	{
+		"_id": "926",
+		"name": "Szczoteczka do zębów biodegradowalna",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "927",
+		"name": "Myszka komputerowa",
+		"type": "ELEKTROSMIECI",
+		"synonyms": "",
+		"additional_info": "Punkty odbioru znajdziesz m.in. na stronie [www.elektroeko.pl](https://www.elektroeko.pl/punkty-zbierania-elektrosmieci/)."
+	},
+	{
+		"_id": "928",
+		"name": "Trociny",
+		"type": "ZMIESZANE",
+		"synonyms": "zużyte trociny ",
+		"additional_info": ""
+	},
+	{
+		"_id": "929",
+		"name": "Siano np. z klatki chomika brudne",
+		"type": "ZMIESZANE",
+		"synonyms": "pobrudzone siano, zużyte siano, zużyte siano ",
+		"additional_info": ""
+	},
+	{
+		"_id": "931",
+		"name": "Odżywka białkowa",
+		"type": "ZMIESZANE",
+		"synonyms": "stara odżywka białkowa ",
+		"additional_info": ""
+	},
+	{
+		"_id": "932",
+		"name": "Znicz plastikowy",
+		"type": "ZMIESZANE",
+		"synonyms": "znicze plastikowe",
+		"additional_info": ""
+	},
+	{
+		"_id": "933",
+		"name": "Batat",
+		"type": "BIO",
+		"synonyms": "bataty, słodkie ziemniaki, słodki ziemniak, ",
+		"additional_info": ""
+	},
+	{
+		"_id": "934",
+		"name": "Rukola",
+		"type": "BIO",
+		"synonyms": "rukoli, ",
+		"additional_info": ""
+	},
+	{
+		"_id": "935",
+		"name": "Papryka",
+		"type": "BIO",
+		"synonyms": "chili, czuszka, papryczki, papryki, papryczka ",
+		"additional_info": ""
+	},
+	{
+		"_id": "936",
+		"name": "Pasek do depilacji z woskiem",
+		"type": "ZMIESZANE",
+		"synonyms": "do depilacji, plaster do depilacji, plastry do depilacji, paski do depilacji ",
+		"additional_info": "Pasek do depilacji z woskiem - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "937",
+		"name": "Przypinka metalowa",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "938",
+		"name": "Kasza",
+		"type": "BIO",
+		"synonyms": "kaszę, kasze gotowana, kaszę ugotowana, ugotowana kasza, ugotowaną kaszę, surowa kasza, surową kaszę,przeterminowana kasza, przeterminowaną kaszę",
+		"additional_info": ""
+	},
+	{
+		"_id": "940",
+		"name": "Gumka recepturka",
+		"type": "ZMIESZANE",
+		"synonyms": "gumka, gumki, recepturki",
+		"additional_info": ""
+	},
+	{
+		"_id": "942",
+		"name": "Siatka foliowa",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "Foliówka, foliówki, siatki, ",
+		"additional_info": ""
+	},
+	{
+		"_id": "943",
+		"name": "Opakowanie po chipsach",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "opakowanie po paluszkach, Torebka po chipsach, paczka po czipsach, opakowanie po czipsach, paczka po chipsach, paczkę po czipsach, paczkę po chipsach, torba po chipsach, torba po czipsach, torbę po chipsach, torbę po czipsach",
+		"additional_info": ""
+	},
+	{
+		"_id": "944",
+		"name": "Kwiaty",
+		"type": "BIO",
+		"synonyms": "Róże; Tulipany; Dalie; Goździki, kwiat, suche kwiaty, uschnięty kwiatek, zwiędłe kwiaty, kwiatki, kwiaty balkonowe, Zwiedle kwiaty, kwiatek doniczkowy, zwiędły kwiat, kwiatek, kwiatki, zwiędnięte kwiaty, liście kwiatów, kwiaty suche, suche kwiaty, kwiaty cięte, kwiaty doniczkowe, rododendron, zwiędłe kwiaty, cięte kwiaty, kwiat doniczkowy, ",
+		"additional_info": ""
+	},
+	{
+		"_id": "945",
+		"name": "Orzeszki ziemne",
+		"type": "BIO",
+		"synonyms": "Bakalie, orzechy ziemne, orzechy, fistaszki, fistaszek, orzech ziemny, orzech ",
+		"additional_info": "Orzeszki ziemne - wyrzuć do pojemnika na bioodpady Opakowanie po orzeszkach (metalowe lub plastikowe) wyrzuć do metali i tworzyw sztucznych."
+	},
+	{
+		"_id": "946",
+		"name": "Naklejka",
+		"type": "ZMIESZANE",
+		"synonyms": "Etykiety na owoce i warzywa, etykiety, naklejki, etykieta",
+		"additional_info": ""
+	},
+	{
+		"_id": "947",
+		"name": "Świeczka",
+		"type": "ZMIESZANE",
+		"synonyms": "Podgrzewacz,  świeczki, tealight",
+		"additional_info": ""
+	},
+	{
+		"_id": "949",
+		"name": "Pędzel",
+		"type": "ZMIESZANE",
+		"synonyms": "pędzel do makijażu, pędzelek, pędzel do farb, pędzel malarski, pędzle ",
+		"additional_info": ""
+	},
+	{
+		"_id": "950",
+		"name": "Popcorn",
+		"type": "ZMIESZANE",
+		"synonyms": "kukurydza prażona ",
+		"additional_info": "Popcorn - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "951",
+		"name": "Odchody zwierząt",
+		"type": "ZMIESZANE",
+		"synonyms": "Odchody po psie, Odchody po kocie, Odchody po króliku, Kupa, odchody po chomiku , odchody psa, odchody kota, kupy psa, kupa pas, odchody zwierzęce, psia kupa, kocia kupa, psie kupy, kupa psia, psią kupę, kupa po psie",
+		"additional_info": "Odchody zwierząt - wyrzuć do pojemnika na odpady zmieszane Możesz je również wyrzucić do sedesu. "
+	},
+	{
+		"_id": "953",
+		"name": "Rower",
+		"type": "GABARYTY",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "954",
+		"name": "Twaróg",
+		"type": "ZMIESZANE",
+		"synonyms": "Biały ser, twarożek ",
+		"additional_info": ""
+	},
+	{
+		"_id": "955",
+		"name": "Rolka po ręczniku papierowym",
+		"type": "PAPIER",
+		"synonyms": "tekturowa rolka po ręczniku papierowym, rolkę",
+		"additional_info": "Rolka po ręczniku papierowym - wyrzuć do pojemnika na papier"
+	},
+	{
+		"_id": "956",
+		"name": "Wata",
+		"type": "ZMIESZANE",
+		"synonyms": "waciki kosmetyczne",
+		"additional_info": ""
+	},
+	{
+		"_id": "957",
+		"name": "Mazak",
+		"type": "ZMIESZANE",
+		"synonyms": "Zakreślacze, Flamastry, mazak, zakreślacz, flamaster, marker",
+		"additional_info": ""
+	},
+	{
+		"_id": "958",
+		"name": "Pilnik do paznokci szklany",
+		"type": "ZMIESZANE",
+		"synonyms": "Pilniczek do paznokci szklany, pilnik, pilniczek ",
+		"additional_info": ""
+	},
+	{
+		"_id": "959",
+		"name": "Pilnik do paznokci metalowy",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": "Pilnik do paznokci metalowy - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "960",
+		"name": "Pilnik do paznokci papierowy",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "961",
+		"name": "Pieczywo",
+		"type": "BIO",
+		"synonyms": "Pieczywo, chleb, bagietka, bułki, bułka, kromka, kromki",
+		"additional_info": "Pieczywo z masłem, wędliną lub serem wyrzuć do **zmieszanych**, ponieważ do BIO nie wyrzucamy resztek pochodzenia zwierzęcego.  Pamiętaj o tym żeby nie marnować jedzenia. Rozważ oddanie dobrego jedzenia do jadłodzielni ([mapa punktów](http://bit.ly/2uYHueQ)) lub na [grupie freegańskiej na Facebooku](https://www.facebook.com/groups/598796106991258)."
+	},
+	{
+		"_id": "963",
+		"name": "Ostryga",
+		"type": "ZMIESZANE",
+		"synonyms": "Małże, Mule, owoce morza, ostrygi",
+		"additional_info": "Ostryga - wyrzuć do pojemnika na odpady zmieszane. Same skorupki wyrzuć do bio."
+	},
+	{
+		"_id": "964",
+		"name": "Małże",
+		"type": "ZMIESZANE",
+		"synonyms": "Mule, Ostrygi, Owoce morza, małż",
+		"additional_info": ""
+	},
+	{
+		"_id": "965",
+		"name": "Paluszki krabowe",
+		"type": "ZMIESZANE",
+		"synonyms": "Surimi, paluszek krabowy, krab ",
+		"additional_info": ""
+	},
+	{
+		"_id": "966",
+		"name": "Tofu",
+		"type": "BIO",
+		"synonyms": "soja, produkt sojowy, soi,",
+		"additional_info": "Tofu - wyrzuć do pojemnika na bioodpady Wyrzuć bez opakowania."
+	},
+	{
+		"_id": "968",
+		"name": "Ser żółty",
+		"type": "ZMIESZANE",
+		"synonyms": "camembert, ser, ser topiony, mozzarella, feta, brie, serek, ser spleśniały",
+		"additional_info": "Ser żółty wyrzuć do pojemnika na odpady zmieszane. Do BIO nie wyrzucamy resztek pochodzenia zwierzęcego. Rozważ oddanie dobrego jedzenia do jadłodzielni ([mapa punktów](http://bit.ly/2uYHueQ)) lub na [grupie freegańskiej na Facebooku](https://www.facebook.com/groups/598796106991258)."
+	},
+	{
+		"_id": "970",
+		"name": "Metka z ubrania",
+		"type": "ZMIESZANE",
+		"synonyms": "metki, metka ubraniowa",
+		"additional_info": ""
+	},
+	{
+		"_id": "971",
+		"name": "Kable",
+		"type": "ELEKTROSMIECI",
+		"synonyms": "",
+		"additional_info": "Punkty odbioru znajdziesz m.in. na stronie [www.elektroeko.pl](https://www.elektroeko.pl/punkty-zbierania-elektrosmieci/)."
+	},
+	{
+		"_id": "972",
+		"name": "Telewizor",
+		"type": "ELEKTROSMIECI",
+		"synonyms": "",
+		"additional_info": "Punkty odbioru znajdziesz m.in. na stronie [www.elektroeko.pl](https://www.elektroeko.pl/punkty-zbierania-elektrosmieci/)."
+	},
+	{
+		"_id": "973",
+		"name": "Depilator elektryczny",
+		"type": "ELEKTROSMIECI",
+		"synonyms": "Maszynka do golenia elektryczna, depilator na prąd, depilator na baterie",
+		"additional_info": "Depilator elektryczny - zanieść do punktu zbiórki zużytego sprzętu elektrycznego i elektronicznego."
+	},
+	{
+		"_id": "974",
+		"name": "Lodówka",
+		"type": "ELEKTROSMIECI",
+		"synonyms": "",
+		"additional_info": "Punkty odbioru znajdziesz m.in. na stronie [www.elektroeko.pl](https://www.elektroeko.pl/punkty-zbierania-elektrosmieci/)."
+	},
+	{
+		"_id": "975",
+		"name": "Pralka",
+		"type": "ELEKTROSMIECI",
+		"synonyms": "",
+		"additional_info": "Punkty odbioru znajdziesz m.in. na stronie [www.elektroeko.pl](https://www.elektroeko.pl/punkty-zbierania-elektrosmieci/)."
+	},
+	{
+		"_id": "976",
+		"name": "Mikrofalówka",
+		"type": "ELEKTROSMIECI",
+		"synonyms": "Mikrofala",
+		"additional_info": "Punkty odbioru znajdziesz m.in. na stronie [www.elektroeko.pl](https://www.elektroeko.pl/punkty-zbierania-elektrosmieci/)."
+	},
+	{
+		"_id": "977",
+		"name": "Parówka z soi",
+		"type": "BIO",
+		"synonyms": "Soja, produkt sojowy, wędlina sojowa, wędlina z soi, parówki z soi parówki sojowe",
+		"additional_info": ""
+	},
+	{
+		"_id": "978",
+		"name": "Owsianka z jogurtem",
+		"type": "ZMIESZANE",
+		"synonyms": "Jaglanka z jogurtem, płatki jaglane z jogurtem, płatki owsiane z jogurtem, płatki z jogurtem ",
+		"additional_info": "Owsiankę z jogurtem wyrzuć do pojemnika na odpady zmieszane. Do BIO nie wyrzucamy resztek pochodzenia zwierzęcego. Rozważ oddanie dobrego jedzenia do jadłodzielni ([mapa punktów](http://bit.ly/2uYHueQ)) lub na [grupie freegańskiej na Facebooku](https://www.facebook.com/groups/598796106991258)."
+	},
+	{
+		"_id": "979",
+		"name": "Chwasty",
+		"type": "BIO",
+		"synonyms": "Perz",
+		"additional_info": "Chwasty - wyrzuć do pojemnika na zielone"
+	},
+	{
+		"_id": "980",
+		"name": "Mak",
+		"type": "BIO",
+		"synonyms": "ziarna maku, stary mak ",
+		"additional_info": ""
+	},
+	{
+		"_id": "981",
+		"name": "Sezam",
+		"type": "BIO",
+		"synonyms": "ziarna sezamu ",
+		"additional_info": ""
+	},
+	{
+		"_id": "983",
+		"name": "Liście zgrabione",
+		"type": "BIO",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "984",
+		"name": "Opakowanie po mrożonkach plastikowe",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "Torebka po mrożonkach plastikowa, folia po mrożonkach ",
+		"additional_info": ""
+	},
+	{
+		"_id": "985",
+		"name": "Folia po świeżych ziołach",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "986",
+		"name": "Odkurzacz elektroniczny",
+		"type": "ELEKTROSMIECI",
+		"synonyms": "",
+		"additional_info": "Punkty odbioru znajdziesz m.in. na stronie [www.elektroeko.pl](https://www.elektroeko.pl/punkty-zbierania-elektrosmieci/)."
+	},
+	{
+		"_id": "987",
+		"name": "Żelazko",
+		"type": "ELEKTROSMIECI",
+		"synonyms": "",
+		"additional_info": "Punkty odbioru znajdziesz m.in. na stronie [www.elektroeko.pl](https://www.elektroeko.pl/punkty-zbierania-elektrosmieci/)."
+	},
+	{
+		"_id": "988",
+		"name": "Pluszak",
+		"type": "ZMIESZANE",
+		"synonyms": "pluszaki, pluszaka, misiek pluszowy, miś pluszowy, maskotka, zwierzak pluszowy, pluszowe misie, pluszowy miś, pluszowa zabawka, pluszowe",
+		"additional_info": ""
+	},
+	{
+		"_id": "989",
+		"name": "Magnes na lodówkę",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "990",
+		"name": "Pierogi z mięsem",
+		"type": "ZMIESZANE",
+		"synonyms": "pierogi, pierogów, pieróg ",
+		"additional_info": ""
+	},
+	{
+		"_id": "993",
+		"name": "Niedopałki po papierosach",
+		"type": "ZMIESZANE",
+		"synonyms": "Pety, Papierosy z popielniczki, wypalone papierosy, resztki papierosów ",
+		"additional_info": ""
+	},
+	{
+		"_id": "994",
+		"name": "Pudełko po papierosach tekturowe",
+		"type": "PAPIER",
+		"synonyms": "paczki po wypalonych papierosach, paczkę papierosów, papierosy opakowanie, paczka po wypalonych papierosach, Paczkę po papierosach, Opakowanie po papierosach, karton po papierosach, kartonik po papierosach, pudełko po papierosach, paczka papierosów, paczki, paczka po papierosach, paczki po papierosach, pudełko od papierosów, opakowania po papierosach, paczka papierosów, paczkę papierosów, ",
+		"additional_info": ""
+	},
+	{
+		"_id": "995",
+		"name": "Pizza",
+		"type": "ZMIESZANE",
+		"synonyms": "pizza, pizzy, pizzę ",
+		"additional_info": ""
+	},
+	{
+		"_id": "996",
+		"name": "Wędlina",
+		"type": "ZMIESZANE",
+		"synonyms": "Zepsuta kiełbasa, Zepsuta szynka, Zepsuta polędwica, wędlina, pasztet, baleron",
+		"additional_info": "Wędlina - wyrzuć do pojemnika na odpady zmieszane. Do BIO nie wyrzucamy resztek pochodzenia zwierzęcego. Rozważ oddanie dobrego jedzenia do jadłodzielni ([mapa punktów](http://bit.ly/2uYHueQ)) lub na [grupie freegańskiej na Facebooku](https://www.facebook.com/groups/598796106991258)."
+	},
+	{
+		"_id": "999",
+		"name": "Pióro ptasie",
+		"type": "ZMIESZANE",
+		"synonyms": "pióra, pióra ptaka, pióro ptaka ",
+		"additional_info": ""
+	},
+	{
+		"_id": "1001",
+		"name": "Żarówka halogenowa",
+		"type": "INNE",
+		"synonyms": "żarówka samochodowa, żarówkę, żarówki, zużyte żarówki",
+		"additional_info": "Żarówka halogenowa - możesz oddać do Punktu Selektywnej Zbiórki Odpadów Komunalnych lub Mobilnego Punktu Selektywnej Zbiórki Odpadów Komunalnych"
+	},
+	{
+		"_id": "1002",
+		"name": "Kubek po napoju papierowy",
+		"type": "ZMIESZANE",
+		"synonyms": "brudny kubek papierowy, kubek po kawie, kubek papierowy ",
+		"additional_info": "Kubek po napoju papierowy - wyrzuć do pojemnika na odpady zmieszane Aby kubki były wodoodporne, papier połączony jest z polietylenem,który trudno rozdzielić. Resztki napoju mogą pobrudzić czysty papier w koszu. Najlepiej jednak zamów napój do własnego naczynia."
+	},
+	{
+		"_id": "1003",
+		"name": "Folia biodegradowalna",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "folia bio",
+		"additional_info": ""
+	},
+	{
+		"_id": "1006",
+		"name": "Brukselka",
+		"type": "BIO",
+		"synonyms": "brukselki",
+		"additional_info": "Brukselka - wyrzuć do pojemnika na bioodpady"
+	},
+	{
+		"_id": "1054",
+		"name": "Gazeta",
+		"type": "PAPIER",
+		"synonyms": "Gazety, Czasopisma, czasopismo, makulatura, magazyn, kolorowa gazeta, czasopismo kolorowe, czasopisma kolorowe, gazeta kolorowa, kolorowe gazety, gazety kolorowe",
+		"additional_info": ""
+	},
+	{
+		"_id": "1055",
+		"name": "Grzyb",
+		"type": "BIO",
+		"synonyms": "Prawdziwki, Borowiki, Kurki, Pieczarki, Koźlaki, Maślaki, grzyby, robaczywy grzyb, robaczywe grzyby ",
+		"additional_info": ""
+	},
+	{
+		"_id": "1058",
+		"name": "Cyrkiel plastikowy",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "1060",
+		"name": "Imbir",
+		"type": "BIO",
+		"synonyms": "Korzeń imbiru, imbir w proszku, przyprawa, przyprawy",
+		"additional_info": ""
+	},
+	{
+		"_id": "1061",
+		"name": "Jagody",
+		"type": "BIO",
+		"synonyms": "jagoda, owoce leśne ",
+		"additional_info": ""
+	},
+	{
+		"_id": "1062",
+		"name": "Owijka po workach na śmieci (z klejem) papierowa",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "1063",
+		"name": "Kiwi",
+		"type": "BIO",
+		"synonyms": "Cytrusy, owoce, owoc",
+		"additional_info": "Kiwi - wyrzuć do pojemnika na bioodpady"
+	},
+	{
+		"_id": "1065",
+		"name": "Naczynie żaroodporne",
+		"type": "ZMIESZANE",
+		"synonyms": "Brytfanka, naczynie szklane, naczynie do pieczenia, szkło żaroodporne, potłuczone szkło żaroodporne, ",
+		"additional_info": "Naczynie żaroodporne - wyrzuć do pojemnika na odpady zmieszane Do pojemnika na SZKŁO powinno trafiać tylko szkło opakowaniowe. Szkło stołowe oraz żaroodporne ma inny skład chemiczny i inną temperaturę topnienia niż np. butelki czy słoiki. "
+	},
+	{
+		"_id": "1068",
+		"name": "Nektarynka",
+		"type": "BIO",
+		"synonyms": "nektarynki, cytrusy, cytrus, pomarańcza",
+		"additional_info": ""
+	},
+	{
+		"_id": "1069",
+		"name": "Ogryzek po owocu",
+		"type": "BIO",
+		"synonyms": "ogryzek, ogryzki, ogryzki po owocach, resztki owoców, ogryzek od jabłka, ogryzek od gruszki",
+		"additional_info": ""
+	},
+	{
+		"_id": "1070",
+		"name": "Granat",
+		"type": "BIO",
+		"synonyms": "owoc granatu, granaty, owoce granatu ",
+		"additional_info": ""
+	},
+	{
+		"_id": "1072",
+		"name": "Parasolka",
+		"type": "ZMIESZANE",
+		"synonyms": "parasolki, ",
+		"additional_info": ""
+	},
+	{
+		"_id": "1073",
+		"name": "Kieliszek",
+		"type": "ZMIESZANE",
+		"synonyms": "kieliszki, kieliszek do wina, wódki, likieru, szampana ",
+		"additional_info": "Kieliszek - wyrzuć do pojemnika na odpady zmieszane Do pojemnika na SZKŁO powinno trafiać tylko szkło opakowaniowe. Szkło stołowe ma inny skład chemiczny i inną temperaturę topnienia niż np. butelki czy słoiki. "
+	},
+	{
+		"_id": "1076",
+		"name": "Wazon szklany",
+		"type": "ZMIESZANE",
+		"synonyms": "Flakon na kwiaty, misa szklana",
+		"additional_info": ""
+	},
+	{
+		"_id": "1077",
+		"name": "Szyba",
+		"type": "ZMIESZANE",
+		"synonyms": "Stłuczone okno, szyby, ",
+		"additional_info": ""
+	},
+	{
+		"_id": "1078",
+		"name": "Szklana dekoracja",
+		"type": "ZMIESZANE",
+		"synonyms": "Szklane figurki, szklane ozdoby ",
+		"additional_info": ""
+	},
+	{
+		"_id": "1079",
+		"name": "Wiaderko po klarowanym maśle plastikowe",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "Opakowanie po klarowanym maśle plastikowe, opakowanie po maśle plastikowe, wiaderko po maśle, pudełko po masle, pudełko po maśle",
+		"additional_info": ""
+	},
+	{
+		"_id": "1080",
+		"name": "Ziemniak",
+		"type": "BIO",
+		"synonyms": "Kartofle, Pyry, ziemniaki, gotowane ziemniaki, ugotowane ziemniaki, ziemniaki gotowane, Ziemniaki ugotowane, Resztki gotowanych ziemniakow, Resztki gotowanych ziemniaków",
+		"additional_info": "Ziemniaki z dodatkiem tłuszczu lub z sosem mięsnym wyrzucamy do ZMIESZANYCH. Ziemniaki gotowane na wodzie mogą trafić do BIO."
+	},
+	{
+		"_id": "1081",
+		"name": "Bombka choinkowa szklana",
+		"type": "ZMIESZANE",
+		"synonyms": "Dekoracje świąteczne szklane, bombki szklane, ozdoba choinkowa szklana, ",
+		"additional_info": "Bombka choinkowa szklana - wyrzuć do pojemnika na odpady zmieszane. **Uwaga:** Do pojemnika na SZKŁO można wrzucać tylko szkło opakowaniowe (słoiki, butelki). Bombki nie nadają się do recyklingu."
+	},
+	{
+		"_id": "1082",
+		"name": "Papier śniadaniowy",
+		"type": "ZMIESZANE",
+		"synonyms": "papier, papieru ",
+		"additional_info": ""
+	},
+	{
+		"_id": "1083",
+		"name": "Paragon",
+		"type": "ZMIESZANE",
+		"synonyms": "papier przebitkowy, faktura, paragony, papier faksowy, rachunek, rachunki, paragony, wydruk z kas fiskalnych, wydruki z kas fiskalnych, papier termiczny, papier paragonowy, papier fiskalny",
+		"additional_info": "Papieru termicznego i faksowego nie można wyrzuca do PAPIERU. Nie nadaje się do recyklingu."
+	},
+	{
+		"_id": "1084",
+		"name": "Worek po cemencie papierowy",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "1085",
+		"name": "Tapeta",
+		"type": "ZMIESZANE",
+		"synonyms": "tapety",
+		"additional_info": ""
+	},
+	{
+		"_id": "1086",
+		"name": "Papier do pakowania prezentów",
+		"type": "PAPIER",
+		"synonyms": "Papier prezentowy, papier do obkładania, torba prezentowa, ",
+		"additional_info": ""
+	},
+	{
+		"_id": "1087",
+		"name": "Książka",
+		"type": "PAPIER",
+		"synonyms": "książka, książki, ",
+		"additional_info": ""
+	},
+	{
+		"_id": "1091",
+		"name": "Worek po proszku do prania foliowy",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "Worek po proszku do prania plastikowy, folia po proszku do prania ",
+		"additional_info": "Worek po proszku do prania foliowy - wyrzuć do pojemnika na metale i tworzywa sztuczne"
+	},
+	{
+		"_id": "1092",
+		"name": "Jajecznica",
+		"type": "ZMIESZANE",
+		"synonyms": "jajecznicy, jajka, jajko na miękko, jajko na twardo, jajko sadzone ",
+		"additional_info": "Jajecznica - wyrzuć do pojemnika na odpady zmieszane. Do BIO nie wyrzucamy resztek pochodzenia zwierzęcego. Rozważ oddanie dobrego jedzenia do jadłodzielni ([mapa punktów](http://bit.ly/2uYHueQ)) lub na [grupie freegańskiej na Facebooku](https://www.facebook.com/groups/598796106991258)."
+	},
+	{
+		"_id": "1096",
+		"name": "Płotki, osłonki ogrodowe plastikowe",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "1097",
+		"name": "Tubka po żywności metalowa",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "Tubka po mleku zagęszczonym metalowa, tubka po paście rybnej metalowa, tubka po sosie metalowa",
+		"additional_info": ""
+	},
+	{
+		"_id": "1098",
+		"name": "Tubka po kosmetykach metalowa/plastikowa",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "Tubka po kremie do rąk metalowa, tubkę, plastikowa tubka, metalowa tubka, tubka plastikowa, tubki po kosmetykach, tubka po farbie do włosów, tubka metalowa po farbie do włosów, tubka po pudrze w kremie, tubka po podkładzie",
+		"additional_info": ""
+	},
+	{
+		"_id": "1099",
+		"name": "Tubka po paście do polerowania samochodu metalowa",
+		"type": "INNE",
+		"synonyms": "Tubka metalowa po paście do polerowania karoserii",
+		"additional_info": ""
+	},
+	{
+		"_id": "1100",
+		"name": "Ozdoby do włosów metalowe",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "Wsuwki, spinki metalowe",
+		"additional_info": ""
+	},
+	{
+		"_id": "1101",
+		"name": "Grzebień do włosów plastikowy",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "1102",
+		"name": "Cerata plastikowa",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "1103",
+		"name": "Obrus jednorazowy",
+		"type": "ZMIESZANE",
+		"synonyms": "Obrus papierowy",
+		"additional_info": ""
+	},
+	{
+		"_id": "1104",
+		"name": "Sztućce plastikowe",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "Widelec plastikowy, Nóż plastikowy, łyżka plastikowa, łyżeczka plastikowa",
+		"additional_info": ""
+	},
+	{
+		"_id": "1105",
+		"name": "Tubka po leku metalowa",
+		"type": "LEKI",
+		"synonyms": "Tubka po maści aptecznej metalowa",
+		"additional_info": ""
+	},
+	{
+		"_id": "1106",
+		"name": "Kij od mopa plastikowy",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "1107",
+		"name": "Termos metalowy",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "Kubek termiczny metalowy",
+		"additional_info": ""
+	},
+	{
+		"_id": "1108",
+		"name": "Sprzęt AGD/ RTV",
+		"type": "ELEKTROSMIECI",
+		"synonyms": "Lodówka, Mikrofala, telewizor, radio, pralka, zmywarka, odtwarzacz DVD, ",
+		"additional_info": "Punkty odbioru znajdziesz m.in. na stronie [www.elektroeko.pl](https://www.elektroeko.pl/punkty-zbierania-elektrosmieci/)."
+	},
+	{
+		"_id": "1109",
+		"name": "Miska plastikowa",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "wiaderko plastikowe, miseczka, wiadro ",
+		"additional_info": "Miska plastikowa - wyrzuć do pojemnika na metale i tworzywa sztuczne"
+	},
+	{
+		"_id": "1110",
+		"name": "Przyprawy",
+		"type": "BIO",
+		"synonyms": "Anyż, laska cynamonu, goździki, imbir, przyprawa",
+		"additional_info": "Przyprawy - wyrzuć do pojemnika na bioodpady"
+	},
+	{
+		"_id": "1111",
+		"name": "Materac",
+		"type": "GABARYTY",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "1113",
+		"name": "Czekolada",
+		"type": "ZMIESZANE",
+		"synonyms": "czekolada, czekolady, mleczna czekolada, gorzka czekolada, czekolada z nadzieniem",
+		"additional_info": "Czekolada - wyrzuć do pojemnika na odpady zmieszane. W czekoladzie jest nabiał (np. mleko) oraz tłuszcze, który trzeba wyrzucać do ZMIESZANYCH."
+	},
+	{
+		"_id": "1116",
+		"name": "Opakowanie po czekoladzie plastikowe",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "",
+		"additional_info": "Opakowanie po czekoladzie plastikowe - wyrzuć do pojemnika na metale i tworzywa sztuczne"
+	},
+	{
+		"_id": "1117",
+		"name": "Opakowanie po czekoladzie papierowe",
+		"type": "PAPIER",
+		"synonyms": "papier po czekoladzie, papierek po czekoladzie",
+		"additional_info": "Opakowanie po czekoladzie papierowe - wyrzuć do pojemnika na papier Papier musi być suchy i czysty. "
+	},
+	{
+		"_id": "1118",
+		"name": "Płytki ceramiczne (gresy)",
+		"type": "INNE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "1120",
+		"name": "Kleje do tapet",
+		"type": "INNE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "1121",
+		"name": "Folia budowlana zabrudzona",
+		"type": "ZMIESZANE",
+		"synonyms": "folie budowlaną, folię budowlaną, budowlana folia, budowlaną folię, brudną folię, brudna folia",
+		"additional_info": "Folia budowlana zabrudzona - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "1122",
+		"name": "Kryształ",
+		"type": "ZMIESZANE",
+		"synonyms": "kryształy, naczynia kryształowe, wazon kryształowy, kieliszki kryształowe, szklanka kryształowa, karafka kryształowa",
+		"additional_info": "Kryształ - wyrzuć do pojemnika na odpady zmieszane Do pojemnika na SZKŁO powinno trafiać tylko szkło opakowaniowe. Szkło stołowe ma inny skład chemiczny i inną temperaturę topnienia niż np. butelki czy słoiki. "
+	},
+	{
+		"_id": "1125",
+		"name": "Deska do prasowania",
+		"type": "GABARYTY",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "1126",
+		"name": "Dyski twarde (sprzęt komputerowy)",
+		"type": "ELEKTROSMIECI",
+		"synonyms": "",
+		"additional_info": "Punkty odbioru znajdziesz m.in. na stronie [www.elektroeko.pl](https://www.elektroeko.pl/punkty-zbierania-elektrosmieci/)."
+	},
+	{
+		"_id": "1127",
+		"name": "Boazeria",
+		"type": "INNE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "1128",
+		"name": "Nożyczki metalowe",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "1132",
+		"name": "Wykałaczka",
+		"type": "ZMIESZANE",
+		"synonyms": "wykałaczki, drewniana wykałaczka, drewniane wykałaczki",
+		"additional_info": ""
+	},
+	{
+		"_id": "1141",
+		"name": "Owsianka z jogurtem roślinnym",
+		"type": "BIO",
+		"synonyms": "płatki z jogurtem roślinnym, kasza z jogurtem roślinnym roślinnym, kasza manna z jogurtem roślinnym, kasza jaglana z jogurtem roślinnym ",
+		"additional_info": ""
+	},
+	{
+		"_id": "1142",
+		"name": "Wędlina z soi",
+		"type": "BIO",
+		"synonyms": "wędlina sojowa, potrawa z soi, parówka z soi, parówki z soi, wędliny sojowe, ",
+		"additional_info": ""
+	},
+	{
+		"_id": "1160",
+		"name": "Włoszczyzna",
+		"type": "BIO",
+		"synonyms": "resztki włoszczyzny ",
+		"additional_info": ""
+	},
+	{
+		"_id": "1173",
+		"name": "Ryż",
+		"type": "BIO",
+		"synonyms": "ugotowany ryz, ryż ugotowany, ryż gotowany, gotowany ryż, przeterminowany ryż",
+		"additional_info": ""
+	},
+	{
+		"_id": "1174",
+		"name": "Makaron",
+		"type": "BIO",
+		"synonyms": "pasta, ugotowany makaron, makaron gotowany w wodzie, makaron ugotowany",
+		"additional_info": "Makaron gotowany na wodzie lub mleku roślinnym - wyrzuć do pojemnika na bioodpady. Makaron gotowany na mleku krowim lub przyrządzony z mięsem, serem czy tłuszczem wyrzuć do zmieszanych. **Do bio nie wyrzucamy resztek pochodzenia zwierzęcego.**  Pamiętaj, żeby nie marnować żywności. Rozważ oddanie dobrego jedzenia do jadłodzielni ([mapa punktów](http://bit.ly/2uYHueQ)) lub na [grupie freegańskiej na Facebooku](https://www.facebook.com/groups/598796106991258)."
+	},
+	{
+		"_id": "1177",
+		"name": "Żwirek silikonowy dla kota brudny",
+		"type": "ZMIESZANE",
+		"synonyms": "silikonowy żwirek dla kota, silikonowy żwir dla kota, silikonowy żwirek z kuwety, silikonowy żwir z kuwety, żwirek z kuwety silikonowy, ",
+		"additional_info": ""
+	},
+	{
+		"_id": "1178",
+		"name": "Żwirek bentonitowy dla kota brudny",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "1181",
+		"name": "Ser biały",
+		"type": "ZMIESZANE",
+		"synonyms": "serek, twaróg, twarożek ",
+		"additional_info": "Ser biały - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "1182",
+		"name": "Woreczek po ugotowanym ryżu, kaszy",
+		"type": "ZMIESZANE",
+		"synonyms": "woreczek od ryżu, woreczek po ryżu, woreczek po kaszy, torebka po ryżu, torebka po kaszy, woreczek po ryżu, torby po ryżu, torby po ryzu, torebkę po ryżu, torebkę po ryzu, folia po ryżu, po ugotowanym ryżu, torebki po ryzu, saszetka po ryżu, woreczek plastikowy po ugotowanym ryżu,",
+		"additional_info": ""
+	},
+	{
+		"_id": "1183",
+		"name": "Bilet kartonikowy",
+		"type": "PAPIER",
+		"synonyms": "bilety, bilet komunikacji miejskiej ",
+		"additional_info": "Bilet kartonikowy - wyrzuć do pojemnika na odpady zmieszane Bilet kartonikowy wyrzucamy do zmieszanych ponieważ ma pasek magnetyczny. "
+	},
+	{
+		"_id": "1184",
+		"name": "Rękawiczka nitrylowa",
+		"type": "ZMIESZANE",
+		"synonyms": "Rękawiczki nitrylowe, rękawice, rękawica",
+		"additional_info": "Rękawiczka nitrylowa - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "1188",
+		"name": "Filtr węglowy do dzbanka na wodę",
+		"type": "ZMIESZANE",
+		"synonyms": "filtry na wodę, Filtr do wody, filtry do wody",
+		"additional_info": "Jeśli nie chcesz lub nie możesz rozłożyć filtra, to wyrzuć go do **zmieszanych**. Wkład filtra możesz wyrzucić do **bio**, a plastikowe części do **pojemnika na tworzywa sztuczne**. Wkład filtrujący jest zbudowany z plastikowej otoczki, w której znajduje się najczęściej mieszanka wymiennika jonowego (żywicy) oraz węgla aktywnego. Producenci, np. DAFI czy Brita, oferują obecnie specjalne kontenery, do których można wyrzucać zużyte filtry. Sprawdź, czy nie ma takiego kontenera w najbliższym sklepie RTV/AGD. - [Lista punktów odbioru wkładow Brita](https://www.brita.pl/ciekawostki/w-trosce-o-nature/lokalna-zbiorka) - [Lista punktów eko pojemników DAFI](https://dafi.pl/eko-pojemniki/) "
+	},
+	{
+		"_id": "1189",
+		"name": "Suplementy diety przeterminowane",
+		"type": "LEKI",
+		"synonyms": "suplement diety, ",
+		"additional_info": ""
+	},
+	{
+		"_id": "1191",
+		"name": "Patyczki kosmetyczne papierowe",
+		"type": "ZMIESZANE",
+		"synonyms": "patyczek kosmetyczny papierowy, patyczki higieniczne papierowe, patyczek higieniczny papierowy, patyczki papierowe do uszu, patyczek do uszu, patyczek do uszu , patyczek higieniczny, patyczek kosmetyczny ",
+		"additional_info": "Patyczki kosmetyczne papierowe - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "1192",
+		"name": "Opakowanie po maśle, margarynie plastikowe",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "pojemnik po maśle, pojemnik po margarynie , opakowanie zatłuszczone, zatłuszczony plastik, opakowanie po margarynie, pudełko po masle, pudełko po maśle, pudełko po margarynie",
+		"additional_info": ""
+	},
+	{
+		"_id": "1193",
+		"name": "Plecak",
+		"type": "ZMIESZANE",
+		"synonyms": "plecaki, plecaczek ",
+		"additional_info": ""
+	},
+	{
+		"_id": "1194",
+		"name": "Zabawki gumowe",
+		"type": "ZMIESZANE",
+		"synonyms": "zabawka gumowa, kaczuszka gumowa, kaczka gumowa, zabawka z gumy, zabawki gumowe ",
+		"additional_info": ""
+	},
+	{
+		"_id": "1199",
+		"name": "Chusteczka papierowa zużyta",
+		"type": "ZMIESZANE",
+		"synonyms": "zasmarkana chusteczka, zasmarkaną chusteczkę, zasmarkane chusteczki, papierowa chusteczka, papierową chusteczkę, chustka do nosa papierowa, chusteczkę mokrą, zurzyte chusteczki, jednorazowe, zurzyta chusteczka, zurzytą chusteczkę, chusteczka mokra, chustki higieniczne, zużyte chusteczki higieniczne, chustka higieniczna, chustkę higieniczną, chusteczka do nosa, chusteczkę do nosa, chusteczki do nosa, żużyte chusteczki, zuzyte chusteczki, zużyta chusteczka, zuzyta chusteczka, chusteczka jednorazowa, chusteczkę jednorazową, chusteczki jednorazowe, mokre chustki, mokre chusteczki, mokra chustka, mokra chusteczka, mokrą chusteczkę, mokrą chustkę, chustka, chustki, chusteczka higieniczna, chustka higieniczna, brudna chusteczka, brudną chusteczkę, brudną chusteczke, chusteczki higieniczne, chusteczke, husteczki higieniczne, chusteczki chigieniczne, husteczka higieniczna, chusteczka chigieniczna, chusteczkę, chustkę, chusteczki, chustki, higieniczna chusteczka, higieniczną chusteczkę, higieniczne chusteczki, higieniczne chustki, higieniczna chustka",
+		"additional_info": "Chusteczka papierowa zużyta - wyrzuć do pojemnika na odpady zmieszane Do Papieru nie wyrzucamy brudnych, zużytych chusteczek "
+	},
+	{
+		"_id": "1200",
+		"name": "Chusteczka nawilżana",
+		"type": "ZMIESZANE",
+		"synonyms": "chusteczki nawilżane, chusteczki mokre, chusteczka mokra, chusteczka dla niemowląt, chustka dla niemowląt, chusteczki nawilżane, chusteczki nawilżające, mokre chusteczki",
+		"additional_info": ""
+	},
+	{
+		"_id": "1202",
+		"name": "Folia aluminiowa",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "folię, folie, folie aluminiową, folię aluminiową, aluminiowa folia, aluminiową folię, aluminium",
+		"additional_info": "Folia aluminiowa - wyrzuć do pojemnika na metale i tworzywa sztuczne"
+	},
+	{
+		"_id": "1203",
+		"name": "Torebka damska",
+		"type": "ZMIESZANE",
+		"synonyms": "Torba damska, torebkę damską, torba skórzana, torebka skórzana, torba skórzana, torebka z ekoskóry, torebka skórzana, torba z ekoskóry",
+		"additional_info": ""
+	},
+	{
+		"_id": "1208",
+		"name": "Buteleczka po olejku zapachowym szklana",
+		"type": "SZKLO",
+		"synonyms": "butelka po olejku, buteleczki ",
+		"additional_info": "Buteleczka po olejku zapachowym szklana - wyrzuć do pojemnika na szkło"
+	},
+	{
+		"_id": "1211",
+		"name": "Bateria, akumulator przenośny",
+		"type": "INNE",
+		"synonyms": "baterie ",
+		"additional_info": ""
+	},
+	{
+		"_id": "1213",
+		"name": "Opony",
+		"type": "INNE",
+		"synonyms": "opona od roweru, opona samochodowa, opony samochodowe, opona motocyklowa, opony motocyklowe, opona rowerowa, opony rowerowe",
+		"additional_info": "Możesz oddać do Punktu Selektywnej Zbiówki Odpadów Komunalnych (**PSZOK**) lub Mobilnego Punktu Selektywnej Zbiówki Odpadów Komunalnych. [Znajdź PSZOK w Warszawie](https://warszawa19115.pl/-/pszok-mpszok-punkty-selektywnej-zbiorki-odpadow-komunalny-1)"
+	},
+	{
+		"_id": "1214",
+		"name": "Ciasto",
+		"type": "ZMIESZANE",
+		"synonyms": "ciastka, ciasteczka, ",
+		"additional_info": "Biszkopt zwykle posiada w sobie składniki pochodzenia zwierzęcego, więc należy wyrzucić go do zmieszanych. Do BIO nie wyrzucamy resztek pochodzenia zwierzęcego np. jajek, śmietany, mleka, masła. Jeśli biszkopt nadaje się do jedzenia, rozważ oddanie go w jadłodzielni ([mapa punktów](http://bit.ly/2uYHueQ)) lub na [grupie freegańskiej na Facebooku](https://www.facebook.com/groups/598796106991258). "
+	},
+	{
+		"_id": "1217",
+		"name": "Olej, oliwa",
+		"type": "INNE",
+		"synonyms": "olej oliwa, zużyty olej, zużyta oliwa, stary olej, stara oliwa ",
+		"additional_info": ""
+	},
+	{
+		"_id": "1218",
+		"name": "Telefon komórkowy",
+		"type": "ELEKTROSMIECI",
+		"synonyms": "telefon, telefony, komórka",
+		"additional_info": "Telefon komórkowy - zanieść do punktu zbiórki zużytego sprzętu elektrycznego i elektronicznego.  Punkty odbioru znajdziesz m.in. na stronie [www.elektroeko.pl](https://www.elektroeko.pl/punkty-zbierania-elektrosmieci/)."
+	},
+	{
+		"_id": "1219",
+		"name": "Radio",
+		"type": "ELEKTROSMIECI",
+		"synonyms": "radio, radia, ",
+		"additional_info": "Punkty odbioru znajdziesz m.in. na stronie [www.elektroeko.pl](https://www.elektroeko.pl/punkty-zbierania-elektrosmieci/)."
+	},
+	{
+		"_id": "1222",
+		"name": "Butelka po perfumach szklana",
+		"type": "SZKLO",
+		"synonyms": "opakowanie po perfumach, flakoniki po perfumach, butelkę po perfumach, butelka szklana po perfumach, perfumy, pojemnik po perfumach szklany, butelkę, flakon, flakonik, buteleczka, buteleczkę, flakon po perfumach, perfumy, flakon od perfum, butelki po perfumach, buteleczka po perfumach z rozpylaczem, fiolka po perfumach, tester",
+		"additional_info": "Butelka po perfumach szklana - wyrzuć do pojemnika na szkło. Jeśli butelka ma atomizer, którego nie można usunąć, to również możemy ją wyrzucić do szkła. "
+	},
+	{
+		"_id": "1223",
+		"name": "Resztki mięsne, rybne",
+		"type": "ZMIESZANE",
+		"synonyms": "odpadki mięsne, odpadki rybne, resztki z mięsa, resztki z ryb, resztki mięsa, resztki ryb, odpady mięsne, odpady rybne, odpady z mięsa, odpady z ryb, odpadki z mięsa, odpadki z ryb, resztki jedzenia",
+		"additional_info": "Resztki mięsne, rybne - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "1224",
+		"name": "Pałeczki drewniane",
+		"type": "ZMIESZANE",
+		"synonyms": "pałeczka drewniana, pałeczki do jedzenia drewniane, pałeczki jednorazowe ",
+		"additional_info": "Pałeczki drewniane - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "1225",
+		"name": "Papier brudny",
+		"type": "ZMIESZANE",
+		"synonyms": "papier tłusty, brudne papiery, zatłuszczone opakowania z papieru, papier zużyty, brudny papier, tłusty papier, tłusty papierek, tlusty papier, zatłuszczone papiery, papier tlusty, zatłuszczony papier, papier po rybie, papier po makreli, papier po mięsie, papier po jedzeniu, papier po kanapce, papier po kanapkach, opakowanie z papieru zatłuszczone, papiery brudne, tłusty papier, papier tłusty",
+		"additional_info": ""
+	},
+	{
+		"_id": "1227",
+		"name": "Znicz szklany",
+		"type": "ZMIESZANE",
+		"synonyms": "znicze, znicz",
+		"additional_info": ""
+	},
+	{
+		"_id": "1230",
+		"name": "Puszka po oliwie, oleju",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "puszki po oliwie, puszkę ",
+		"additional_info": ""
+	},
+	{
+		"_id": "1231",
+		"name": "Maszynka do golenia jednorazowa",
+		"type": "ZMIESZANE",
+		"synonyms": "golarka do golenia jednorazowa, maszynkę jednorazową, maszynka jednorazowa, ostrza do golarek, ostrza do golarki, maszynki po goleniu, nożyk do golarki, nożyki do golarki, zużyte maszynki do golenia, jednorazówka, maszynka do golenia, maszynkę do golenia, golarka, golarkę ",
+		"additional_info": "Maszynka do golenia jednorazowa - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "1234",
+		"name": "Plastelina",
+		"type": "ZMIESZANE",
+		"synonyms": "plastelinę, ",
+		"additional_info": ""
+	},
+	{
+		"_id": "1235",
+		"name": "Odpady budowlane",
+		"type": "INNE",
+		"synonyms": "styropian, styropian budowalny",
+		"additional_info": "Odpady budowlane - możesz oddać do Punktu Selektywnej Zbiórki Odpadów Komunalnych lub Mobilnego Punktu Selektywnej Zbiórki Odpadów Komunalnych. Odpady budowlane, w ilościach wskazujących na samodzielny remont oddajemy do PSZOK. Nie ma możliwości oddania ich do MPSZOK! Pamietaj, że PSZOK nie przyjmuje styropianu budowlanego oraz papy! [Znajdź PSZOK w Warszawie](https://warszawa19115.pl/-/pszok-mpszok-punkty-selektywnej-zbiorki-odpadow-komunalny-1)"
+	},
+	{
+		"_id": "1236",
+		"name": "Puszka po farbie",
+		"type": "INNE",
+		"synonyms": "puszkę po farbie, puszki po farbie, puszki po farbach, puszki z farba, puszka z farbą, Puszke z farba, wiaderko po farbie, wiadra po farbie, pojemnik z farbą, opakowanie po farbie, opakowania po farbach, opakowanie po farbach, pojemniki po farbie, opakowania po farbie, ",
+		"additional_info": "Puszka po farbie - możesz oddać do Punktu Selektywnej Zbiórki Odpadów Komunalnych lub Mobilnego Punktu Selektywnej Zbiórki Odpadów Komunalnych"
+	},
+	{
+		"_id": "1238",
+		"name": "Karton z naklejoną taśmą",
+		"type": "PAPIER",
+		"synonyms": "karton z taśmą, pudełko z taśmą ",
+		"additional_info": "Karton z naklejoną taśmą - wyrzuć do pojemnika na papier"
+	},
+	{
+		"_id": "1239",
+		"name": "Beton",
+		"type": "INNE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "1240",
+		"name": "Dezodorant w sztyfcie, w kulce",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "dezodoranty, opakowanie po dezodorantach, Roll-on plastikowy antyperspirant, opakowanie po antperspirancie, Antyperspirant z kulką, Antyperspirant w sztyfcie, opakowanie po antperspirancie, Dezodorant kulkowy, plastikowe opakowanie po dezodorancie w sztyfcie, dezodorant z kulką, dezodoranty w kulce, po dezodorancie, Opakowanie dezodorantu, Dezodorant z kulką. Dezodorant roll-on, pojemnik po dezodorantach, dezodorant kulka, Dezodoranty, opakowanie po dezodorancie kulkowym, pojemniki po dezodorantach, dezodorant w sztyfcie, opakowanie po dezodorancie w kulce, Pojemnik po dezodorant, zużyty dezodorant, Opakowanie po dezodorantach, Puste opakowanie po dezodorancie, dezodorant w kulce, opakowanie po dezodorancie, pojemnik po dezodorancie, opakowania po dezodorantach, Pusty dezodorant, Butelka po dezodorancie",
+		"additional_info": "Dezodorant w sztyfcie, w kulce plastikowy - wyrzuć do pojemnika na metale i tworzywa sztuczne"
+	},
+	{
+		"_id": "1241",
+		"name": "Tubka po paście do zębów",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "pasta do zębów w tubce, tubka po paście do zębów, tubkę po paście do zębów, tubka od pasty do zębów, plastikowa tuba po paście do zębów, opakowanie po paście, pasta do zębów, zębów",
+		"additional_info": "Tubka po paście do zębów - wyrzuć do pojemnika na metale i tworzywa sztuczne.  W niektórych gminach tubkę po paście należy wyrzucić do **zmieszanych**. Jeśli to możliwe, opróżnij tubkę do końca. Zawartość możesz wyrzucić do zmieszanych."
+	},
+	{
+		"_id": "1242",
+		"name": "Papier z niszczarki",
+		"type": "PAPIER",
+		"synonyms": "papier pocięty, odpady z niszczarki, ścinki papieru, ścinki papierowe, pocięty papier z niszczarki, ścinki papieru ze zniszczarki,  skrawki papieru, podarty papier, porwany papier, podarta kartka papieru, pocięte papiery, porwana kartka papieru, papier ze zniszczarki, papier ze zniszczarek, pocięty papier, papier ścinki, ścinki papierowe z niszczarki, papier pocięty w niszczarce, ",
+		"additional_info": "Papier z niszczarki - wyrzuć do pojemnika na papier"
+	},
+	{
+		"_id": "1243",
+		"name": "Kabel",
+		"type": "ELEKTROSMIECI",
+		"synonyms": "kable ",
+		"additional_info": "Kabel - zanieść do punktu zbiórki zużytego sprzętu elektrycznego i elektronicznego. Punkty odbioru znajdziesz m.in. na stronie [www.elektroeko.pl](https://www.elektroeko.pl/punkty-zbierania-elektrosmieci/)."
+	},
+	{
+		"_id": "1244",
+		"name": "Celofan",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "",
+		"additional_info": "Celofan - wyrzuć do pojemnika na metale i tworzywa sztuczne"
+	},
+	{
+		"_id": "1245",
+		"name": "Toner do drukarki",
+		"type": "INNE",
+		"synonyms": "tonery do drukarek, tusz do drukarki, tusze do drukarek, opakowanie po tonerach ",
+		"additional_info": ""
+	},
+	{
+		"_id": "1246",
+		"name": "Pudełko po lekach plastikowe",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "Opakowanie po lekarstwach, opakowanie po lekarstwie, butelka po lekach, opakowania plastikowe po lekach, Puste opakowania po lekach, Puste opakowania po lekach, buteleczka po lekach, pudełka po lekarstwach, buteleczka po lekach, Pudełko po leku, Buteleczki po lekach, Butelka plastikowa po lekach, opakowanie po lekach plastikowe, butelka po lekach plastikowa, pudełka po lekach, butelki po lekach, Opakowania po lekarstwach, butelka po leku, plastikowe opakowania po lekach, opakowanie po leku, butelka po lekarstwie",
+		"additional_info": "Pudełko po lekach plastikowe - wyrzuć do pojemnika na metale i tworzywa sztuczne"
+	},
+	{
+		"_id": "1247",
+		"name": "Folia spożywcza",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "folię spożywczą , folia do żywności, folię do żywności, folię, folie",
+		"additional_info": "Folia spożywcza - wyrzuć do pojemnika na metale i tworzywa sztuczne"
+	},
+	{
+		"_id": "1248",
+		"name": "Pudełko po proszku do prania tekturowe",
+		"type": "PAPIER",
+		"synonyms": "opakowanie po proszku do prania tekturowe ",
+		"additional_info": "Pudełko po proszku do prania tekturowe - wyrzuć do pojemnika na papier"
+	},
+	{
+		"_id": "1249",
+		"name": "Rolka kasowa papierowa",
+		"type": "ZMIESZANE",
+		"synonyms": "rolki kasowe papierowe, rolkę kasową, papier z kasy fiskalnej",
+		"additional_info": ""
+	},
+	{
+		"_id": "1250",
+		"name": "Papierek po cukierku",
+		"type": "ZMIESZANE",
+		"synonyms": "papierki po cukierkach, papierek od cukierka, papierki z cukierków, papierek po batoniku, błyszczące papierki po cukierkach, papierek po krówce, papierki szeleszczące po cukierkach, papierek po batonie, papierek z cukierków, papier po batonie, papierki od cukierków, papierek od cukierka, papierek po cukierkach, papierek cukierki, srebrne papierki po cukierkach",
+		"additional_info": "W niektórych gminach papierki po cukierkach mogą trafiać do metali i tworzyw sztucznych, jednak niestety zwykle nie nadają się do recyklingu."
+	},
+	{
+		"_id": "1254",
+		"name": "Papier tłusty, brudny",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "1256",
+		"name": "Ketchup",
+		"type": "BIO",
+		"synonyms": "keczup",
+		"additional_info": "Butelkę plastikową wyrzuć do metali i tworzyw sztucznych, a szklaną do szkła. Ketchup możesz opróżnić do bioodpadów. Rozważ oddanie dobrego jedzenia do jadłodzielni ([mapa punktów](http://bit.ly/2uYHueQ)) lub na [grupie freegańskiej na Facebooku](https://www.facebook.com/groups/598796106991258)."
+	},
+	{
+		"_id": "1257",
+		"name": "Deska do krojenia drewniana",
+		"type": "ZMIESZANE",
+		"synonyms": "deskę do krojenia, deski do krojenia ",
+		"additional_info": ""
+	},
+	{
+		"_id": "1258",
+		"name": "Zmywak kuchenny",
+		"type": "ZMIESZANE",
+		"synonyms": "zmywaki, zmywaczek, ",
+		"additional_info": "Zmywak kuchenny - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "1259",
+		"name": "Kołdra",
+		"type": "ZMIESZANE",
+		"synonyms": "Kołdrę, kołdry ",
+		"additional_info": "Kołdra - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "1260",
+		"name": "Lupa",
+		"type": "ZMIESZANE",
+		"synonyms": "lupę, lupy",
+		"additional_info": ""
+	},
+	{
+		"_id": "1262",
+		"name": "Papier do wycierania rąk zużyty",
+		"type": "ZMIESZANE",
+		"synonyms": "ręcznik papierowy, ręczniki papierowe, papier do rąk, zużyty ręcznik papierowy, brudny ręcznik papierowy, ręcznik papierowy mokry, papier kuchenny, ręcznik kuchenny papierowy, ręcznik papierowy brudny, mokry ręcznik papierowy, zużyte ręczniki papierowe, mokry papierowy ręcznik, ręcznik papierowy mokry, papierowy recznik, reczniki papierowe, papier ręcznikowy zużyty, brudny ręcznik papierowy, ręcznik papierowy brudny",
+		"additional_info": ""
+	},
+	{
+		"_id": "1263",
+		"name": "Popiół",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "1268",
+		"name": "Bateria, akumulator przenośny",
+		"type": "BATERIE",
+		"synonyms": "baterie, akumulatory, bateria zużyta, zużyta bateria, zużyte baterie, zużytą baterię, baterię zużytą, baterie zużyte",
+		"additional_info": "Bateria, akumulator przenośny - zanieść do punktu zbiórki baterii i akumulatorów."
+	},
+	{
+		"_id": "1270",
+		"name": "Ołówek",
+		"type": "ZMIESZANE",
+		"synonyms": "ołówki ",
+		"additional_info": ""
+	},
+	{
+		"_id": "1271",
+		"name": "Opakowanie styropianowe po jedzeniu na wynos brudne",
+		"type": "ZMIESZANE",
+		"synonyms": "tacka ze styropianu brudna, tackę ze styropianu brudną, tacki ze styropianu brudne, brudny styropian, opakowanie styropianowe po żywności brudne. styropianowe opakowanie po jedzeniu, zabrudzony styropian, zabrudzone opakowanie styropianowe, styropianowy pojemnik, styropianowe pojemniki, steropianowy pojemnik, steropianowe pojemniki, steropian, pojemniki styropianowe brudne, opakowanie laptop styropianowy, opakowanie ze styropianu po jedzeniu brudne, styropian brudny, tłusty styropian, zatłuszczony styropian, styropian po jedzeniu, pudełko styropianowe po jedzeniu brudne, pudełka styropianowe po jedzeniu brudne, styropianowe pudełko po jedzeniu brudne, styropianowe pudełka po jedzeniu brudne, opakowanie styropianowe brudne, pojemnik styropianowy po jedzeniu na wynos, pojemnik styropianowy brudny, opakowania ze styropianu brudne, taca styropianowa brudna, taca styropianowa tłusta, tłusta taca styropianowa, brudna taca styropianowa, tacka styropianowa brudna, tacka styropianowa tłusta, tacki styropianowe brudne, tacki styropianowe tłuste, styropianowy laptop, laptop styropianowy, jednorazowe, opakowanie plastikowe, pudełko plastikowe",
+		"additional_info": "Opakowanie styropianowe po jedzeniu na wynos brudne - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "1272",
+		"name": "Dywan",
+		"type": "GABARYTY",
+		"synonyms": "dywany",
+		"additional_info": ""
+	},
+	{
+		"_id": "1273",
+		"name": "Mebel",
+		"type": "GABARYTY",
+		"synonyms": "meble, krzesło, krzesła, fotel, fotele, kanapa, kanapy, łóżko, łóżka, stół, stoły, stolik, stoliki, szafka, szafki, szafa, szafy, sofa, sofę, sofy, zniszczony mebel",
+		"additional_info": ""
+	},
+	{
+		"_id": "1274",
+		"name": "Ładowarka",
+		"type": "ELEKTROSMIECI",
+		"synonyms": "ładowarki, ładowarkę ",
+		"additional_info": "Punkty odbioru znajdziesz m.in. na stronie [www.elektroeko.pl](https://www.elektroeko.pl/punkty-zbierania-elektrosmieci/)."
+	},
+	{
+		"_id": "1275",
+		"name": "Torebka foliowa",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "torebki foliowe, zużyte torebki foliowe, cienkie torebki foliowe, zużyte torebki foliowe, Podarte torebki foliowe, Reklamowke, Reklamówka plastikowa, Brudną reklamówkę, Reklamówka jednorazowa, reklamowke, Mokrą reklamówkę, brudna foliówka, Reklamówka plastikowa, Torebka foliowana, worek foliowy brudny, brudne torebki foliowe, torebki foliowe, torby foliowe, brudne woreczki foliowe, brudne worki foliowe, foliowe torebki, Torebkę foliowa, brudny woreczek foliowy, Reklamówka foliowa, Brudną torebkę foliową, Siatka foliowa, brudny worek foliowy, Foliowa torebka, reklamówka, reklamówki, zrywka, zrywki, foliówka, foliówki, woreczek foliowy, foliowa, foliowy, woreczki foliowe, worek foliowy, Brudna torebka foliowa, Torebka foliowa brudna, torba foliowa, worki foliowe, ",
+		"additional_info": ""
+	},
+	{
+		"_id": "1276",
+		"name": "Patelnia",
+		"type": "ZMIESZANE",
+		"synonyms": "patelnie ",
+		"additional_info": ""
+	},
+	{
+		"_id": "1277",
+		"name": "But gumowy",
+		"type": "ZMIESZANE",
+		"synonyms": "klapki, klapek, buty gumowe, but gumowy, obuwie gumowe, japonki, ",
+		"additional_info": "But gumowy - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "1278",
+		"name": "Drukarka",
+		"type": "ELEKTROSMIECI",
+		"synonyms": "drukarki",
+		"additional_info": "Drukarka - zanieść do punktu zbiórki zużytego sprzętu elektrycznego i elektronicznego. Punkty odbioru znajdziesz m.in. na stronie [www.elektroeko.pl](https://www.elektroeko.pl/punkty-zbierania-elektrosmieci/)."
+	},
+	{
+		"_id": "1279",
+		"name": "Tealight",
+		"type": "ZMIESZANE",
+		"synonyms": "tealight, tealighty, podgrzewacz, podgrzewacze, aluminium po tealight",
+		"additional_info": ""
+	},
+	{
+		"_id": "1283",
+		"name": "Choinka żywa poświąteczna",
+		"type": "GABARYTY",
+		"synonyms": "choinki żywe, choinka ",
+		"additional_info": "Choinkę zostaw w wyznaczonym przez administratora nieruchomości miejscu gromadzenia gabarytów. Zostanie odebrana w ramach akcji \"Ciepło z natury\" i przerobiona na zielone paliwo. Akcja trwa do 31 marca. W innym czasie wyrzuć do pojemnika na odpady ZIELONE."
+	},
+	{
+		"_id": "1291",
+		"name": "Kartka papieru",
+		"type": "PAPIER",
+		"synonyms": "kartka, papier z drukarki, papier, kartki, papier ksero, drukowany papier, papier, papier zadrukowany, kartka zadrukowana, papier z drukarki, kartka z drukarki, zadrukowany papier, zadrukowana kartka, zadrukowane kartki, papier xero, papier xero zadrukowany",
+		"additional_info": "Kartka papieru - wyrzuć do pojemnika na papier Papier musi być czysty i suchy."
+	},
+	{
+		"_id": "1292",
+		"name": "Trawa zgrabiona",
+		"type": "BIO",
+		"synonyms": "trawa, trawę",
+		"additional_info": ""
+	},
+	{
+		"_id": "1293",
+		"name": "Koperta papierowa",
+		"type": "PAPIER",
+		"synonyms": "kopertę, koperty",
+		"additional_info": ""
+	},
+	{
+		"_id": "1294",
+		"name": "Śruba",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "śrubka, śruby, śrubki, ",
+		"additional_info": ""
+	},
+	{
+		"_id": "1297",
+		"name": "Rozpuszczalnik",
+		"type": "INNE",
+		"synonyms": "rozpuszczalniki ",
+		"additional_info": ""
+	},
+	{
+		"_id": "1298",
+		"name": "Olej silnikowy",
+		"type": "INNE",
+		"synonyms": "oleje silnikowe ",
+		"additional_info": ""
+	},
+	{
+		"_id": "1301",
+		"name": "Osłonka na parówkę foliowa",
+		"type": "ZMIESZANE",
+		"synonyms": "parówki, owijki z parówek, osłonki z parówki, owijka parówki, folia po parówkach, folia z parówek, folia po parówce, folia od parówek, Folia od parówki, Flak po parówkach, Osłonki po parówkach, Osłonka parówki, foliowa osłonka od parówki, Osłonki od parówek, ",
+		"additional_info": ""
+	},
+	{
+		"_id": "1304",
+		"name": "Linijka plastikowa",
+		"type": "ZMIESZANE",
+		"synonyms": "linijkę, linijki, plastikowa linijka, plastikową linijkę, złamana linijka, złamaną linijkę",
+		"additional_info": ""
+	},
+	{
+		"_id": "1305",
+		"name": "Wanna",
+		"type": "INNE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "1310",
+		"name": "Kalka",
+		"type": "ZMIESZANE",
+		"synonyms": "kalki, kalkę, kalka papierowa, kalka techniczna, kalka do maszyny do pisania, kalka z tuszem",
+		"additional_info": ""
+	},
+	{
+		"_id": "1312",
+		"name": "Tacka po mięsie styropianowa",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "tacka ze styropianiu po mięsie, tackę ze styropianu po mięsie, tacki ze styropianu po mięsie, zatłuszczony styropian po mięsie, styropianowa tacka po mięsie, tacka od mięsa, tacki styropianowe po mięsie, plastik po surowym mięsie, tacka po wędlinie, tackę po wędlinie, tacki po wędlinie, opakowanie mięsne, plastikowy pojemnik po mięsie, mięso opakowanie, resztki miesa, mieso gotowane, plastikowe po mięsie, plastikowy pojemnik po surowym mięsie, tacka z mięsa, tackę z mięsa, opakowanie na mięso, opakowania na mięso, styropian po mięsie, plastik po mięsie, tacki po mięsie, po mięsie, tacka od mięsa, tackę od mięsa, opakowania po mięsie, opakowania po miesie, steropianowa tacka po mięsie, pudelko po mięsie, pudelko po miesie, plastikowe opakowanie po mięsie, opakowanie po miesie, tackę po mięsie, pojemnik po mięsie, tackę styropianową po mięsie, tacka po miesie, opakowanie po mięsie, opakowanie po miesie, pudełko plastikowe po mięsie, pudełko po miesie, pudełko po mięsie, plastikowa tacka po mięsie, pojemnik po mięsie, pojemniki po mięsie",
+		"additional_info": ""
+	},
+	{
+		"_id": "1313",
+		"name": "Cukier",
+		"type": "ZMIESZANE",
+		"synonyms": "cukier biały, cukier waniliowy, cukier rafinowany, ",
+		"additional_info": "Cukier - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "1314",
+		"name": "Torba po mące papierowa",
+		"type": "PAPIER",
+		"synonyms": "papierowa torebka po mące, papierowa torba po mące, torebka po mące papierowa, papier po mące, opakowanie papierowe po mące, opakowanie po mące papierowe, opakowanie po mące",
+		"additional_info": ""
+	},
+	{
+		"_id": "1315",
+		"name": "Torba po cukrze papierowa",
+		"type": "PAPIER",
+		"synonyms": "torebka po cukrze papierowa, torebkę po cukrze papierową, torbę po cukrze papierową, torby po cukrze papierowe, torebki po cukrze papierowe",
+		"additional_info": ""
+	},
+	{
+		"_id": "1316",
+		"name": "Konewka",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "1317",
+		"name": "Szminka",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "błyszczyk, pomadka, do ust, balsam do ust",
+		"additional_info": ""
+	},
+	{
+		"_id": "1318",
+		"name": "Papier woskowany",
+		"type": "ZMIESZANE",
+		"synonyms": "woskowany papier, papier woskowy, ulotki woskowane, torba papierowa woskowana, katalog",
+		"additional_info": "Papier woskowany - wyrzuć do pojemnika na odpady zmieszane. Nie nadaje się do recyklingu."
+	},
+	{
+		"_id": "1319",
+		"name": "Farba plakatowa",
+		"type": "ZMIESZANE",
+		"synonyms": "plakatówki, stare farby, farby plakatowe, farbę plakatową, farbki plakatowe, tuba po farbie, tubka po farbie, tubę po farbie, tubkę po farbie",
+		"additional_info": "Farba plakatowa - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "1320",
+		"name": "Farba akrylowa",
+		"type": "INNE",
+		"synonyms": "farby akrylowe, akrylowa farba, farbę akrylową, akrylową farbę, akrylowe farby, farba malarska, farby malarskie, farbę malarską, resztki farby, farbę, farba do ścian, farbę do ścian, ",
+		"additional_info": "Farba akrylowa - możesz oddać do Punktu Selektywnej Zbiórki Odpadów Komunalnych lub Mobilnego Punktu Selektywnej Zbiórki Odpadów Komunalnych"
+	},
+	{
+		"_id": "1321",
+		"name": "Torebka po budyniu, galaretce, kisielu",
+		"type": "ZMIESZANE",
+		"synonyms": "budyń, kisiel, galaretka, budynie, kisiele, kiśle, budyń w torebce, kisiel w torebce, galaretka w torebce, galaretki, po budyniu, po galaretce, po galaretkach, torebki po galaretkach, torebki po kisielu, po kisielu, po kisielu, galaretkę. opakowanie po budyniu, opakowanie po kisielu, opakowanie po kiślu, opakowanie po galaretce, torebka po budyniu, torebka po kiślu, torebkę po kiślu, torebki po kiślu, torebkę po budyniu, torebki po budyniu, torebka po kisielu, torebkę po kisielu, torebki po kisielu, torebka po galaretce, torebki po galaretce, torebkę po galaretce, ",
+		"additional_info": ""
+	},
+	{
+		"_id": "1322",
+		"name": "Panele podłogowe",
+		"type": "INNE",
+		"synonyms": "panel, panel podłogowy",
+		"additional_info": "Panele podłogowe - możesz oddać do Punktu Selektywnej Zbiórki Odpadów Komunalnych Odpady budowlane, remontowe w ilościach wskazujących na samodzielny remont możesz oddać do PSZOK-u"
+	},
+	{
+		"_id": "1323",
+		"name": "Torebka po czipsach foliowa",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "paczka czipsów, paczkę czipsów, paczki czipsów, paczka chipsów, paczkę chipsów, paczki chipsów, paczka chrupek, paczka chrupków, paczkę chrupek, paczkę chrupków, paczki chrupek, paczki chrupków, po czipsach, po chipsach, paczka po chipsach, paczka po czipsach, paczka po chrupkach, paczkę po czipsach, paczkę po chipsach, paczkę po chrupkach, torebka po czipsach, torebka po chipsach, torebkę po czipsach, torebkę po chipsach, torebki po czipsach, torebki po chipsach, opakowanie po czipsach, opakowanie po chipsach, opakowania po czipsach, opakowania po chipsach, po chrupkach, torebka po chrupkach, torebkę po chrupkach, torebki po chrupkach, opakowanie po chrupkach, opakowania po chrupkach",
+		"additional_info": ""
+	},
+	{
+		"_id": "1324",
+		"name": "Worek po ziemi foliowy",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "worki po ziemi foliowe, worki foliowe po ziemi, worek foliowy po ziemi, po ziemi, torba po ziemi foliowa, torba foliowa po ziemi, torbę foliową po ziemi, torbę po ziemi foliową, torby po ziemi foliowe, torby foliowe po ziemi, ",
+		"additional_info": "Worek po ziemi foliowy - wyrzuć do pojemnika na metale i tworzywa sztuczne"
+	},
+	{
+		"_id": "1325",
+		"name": "Beton",
+		"type": "INNE",
+		"synonyms": "betonu, resztki betonu, betonowy",
+		"additional_info": "Beton - możesz oddać do Punktu Selektywnej Zbiórki Odpadów Komunalnych lub Mobilnego Punktu Selektywnej Zbiórki Odpadów Komunalnych Odpady budowlane w ilościach wskazujących na samodzielny remont oddajemy do PSZOK. Nie ma możliwości oddania ich do MPSZOK!"
+	},
+	{
+		"_id": "1332",
+		"name": "Power bank",
+		"type": "ELEKTROSMIECI",
+		"synonyms": "powebank, zasilacz, ładowarka ",
+		"additional_info": "Punkty odbioru znajdziesz m.in. na stronie [www.elektroeko.pl](https://www.elektroeko.pl/punkty-zbierania-elektrosmieci/)."
+	},
+	{
+		"_id": "1334",
+		"name": "Elektrośmieci",
+		"type": "ELEKTROSMIECI",
+		"synonyms": "elektroodpady, radio, sprzęt AGD, sprzęt RTV, telewizor, monitor, wibrator, sprzęt elektroniczny, drukarka",
+		"additional_info": "Elektrośmieci - zanieść do punktu zbiórki zużytego sprzętu elektrycznego i elektronicznego. Punkty odbioru znajdziesz m.in. na stronie [www.elektroeko.pl](https://www.elektroeko.pl/punkty-zbierania-elektrosmieci/)."
+	},
+	{
+		"_id": "1335",
+		"name": "Siatka na owoce, warzywa plastikowa",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "siatka po cytrynach plastikowa,  siatka po ziemniakach plastikowa, siatka z dziurami plastikowa, siatka po włoszczyźnie plastikowa ",
+		"additional_info": ""
+	},
+	{
+		"_id": "1336",
+		"name": "Opakowanie po wędlinie, serze w plastrach plastikowe",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "pojemnik po wędlinie, serze w plastrach plastikowy ",
+		"additional_info": "Opakowanie po wędlinie, serze w plastrach plastikowe - wyrzuć do pojemnika na metale i tworzywa sztuczne"
+	},
+	{
+		"_id": "1337",
+		"name": "Piłka gumowa",
+		"type": "ZMIESZANE",
+		"synonyms": "piłki gumowe, piłka do tenisa, piłka tenisowa, ",
+		"additional_info": ""
+	},
+	{
+		"_id": "1338",
+		"name": "Papier mokry",
+		"type": "ZMIESZANE",
+		"synonyms": "mokry papier, zatłuszczone opakowanie z papieru, rozmoczony papier, papier rozmoczony, wilgotny papier, papier wilgotny, mokre papiery, ",
+		"additional_info": ""
+	},
+	{
+		"_id": "1339",
+		"name": "Filtr z fusami od kawy papierowy",
+		"type": "BIO",
+		"synonyms": "filtr do kawy, Filtr kawy, Filtr papierowy z kawą z ekspresów przelewowych, filtr od kawy, filtr papierowy z kawą, Filtr po kawie, Filtry do kawy, Filtr papierowy po kawie, fusy po kawie w papierowym filtrze, filtr od kawy papierowy, filtr papierowy po kawie, filtr z kawą z ekspresy przelewowego, filtr po kawie, filtr papierowy, filtry papierowe z kawą, filtry z kawą papierowe, fusy po kawie z papierowym filtrem, fusy po kawie w papierowym filtrze, filtr papierowy, fusy po kawie w filtrze papierowym",
+		"additional_info": "Filtr z fusami od kawy papierowy - wyrzuć do pojemnika na bioodpady"
+	},
+	{
+		"_id": "1340",
+		"name": "Zdjęcie rentgenowskie",
+		"type": "ZMIESZANE",
+		"synonyms": "zdjęcia rentgenowskie",
+		"additional_info": ""
+	},
+	{
+		"_id": "1341",
+		"name": "Szczotka do toalety",
+		"type": "ZMIESZANE",
+		"synonyms": "szczotka toaletowa, szczotka klozetowa, szczotkę do toalety, szczotkę toaletową, szczotkę klozetową, szczotka sedesowa, szczotkę sedesową",
+		"additional_info": ""
+	},
+	{
+		"_id": "1342",
+		"name": "Papier kolorowy, pomalowany",
+		"type": "ZMIESZANE",
+		"synonyms": "kolorowy papier, kawałki kolorowego papieru, arkusz papieru z klejem, ścinki kolorowego papieru, pomalowany papier, papier pomalowany, poklejony papier, sklejony papier, pomalowana kartka papieru, papier z klejem, naklejka papierowa",
+		"additional_info": "Papier kolorowy, pomalowany - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "1343",
+		"name": "Naczynie z kamionki",
+		"type": "ZMIESZANE",
+		"synonyms": "naczynia z kamionki, kamionka, z kamionki ",
+		"additional_info": "Naczynie z kamionki - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "1344",
+		"name": "Parafina",
+		"type": "ZMIESZANE",
+		"synonyms": "parafinę",
+		"additional_info": ""
+	},
+	{
+		"_id": "1345",
+		"name": "Gliceryna",
+		"type": "ZMIESZANE",
+		"synonyms": "glicerynę",
+		"additional_info": ""
+	},
+	{
+		"_id": "1346",
+		"name": "Żelatyna",
+		"type": "ZMIESZANE",
+		"synonyms": "żelatynę, galaretka z żelatyną, galaretkę z żelatyną, galaretki z żelatyną",
+		"additional_info": ""
+	},
+	{
+		"_id": "1347",
+		"name": "Sól kuchenna",
+		"type": "ZMIESZANE",
+		"synonyms": "sól kuchenną, sól rozsypana, sól rozsypaną",
+		"additional_info": ""
+	},
+	{
+		"_id": "1348",
+		"name": "Papier lakierowany",
+		"type": "PAPIER",
+		"synonyms": "lakierowany papier, pudełko po prerfumach, pudełko po kremie, kartonik po perfumach, kartonik po kremie, opakowanie kartonikowe po perfumach, karton po perfumach, ",
+		"additional_info": "Papier lakierowany - wyrzuć do pojemnika na papier"
+	},
+	{
+		"_id": "1351",
+		"name": "Soczewki kontaktowe",
+		"type": "ZMIESZANE",
+		"synonyms": "szkła kontaktowe ",
+		"additional_info": ""
+	},
+	{
+		"_id": "1352",
+		"name": "Saszetka po jedzeniu dla kota",
+		"type": "ZMIESZANE",
+		"synonyms": "saszetki po karmie dla kotów, saszetka po karmie dla kotów, saszetki po jedzeniu dla kotów, saszetka po kocim jedzeniu, saszetki po kocim jedzeniu ",
+		"additional_info": ""
+	},
+	{
+		"_id": "1361",
+		"name": "Kasztany",
+		"type": "BIO",
+		"synonyms": "kasztan",
+		"additional_info": ""
+	},
+	{
+		"_id": "1362",
+		"name": "Gałęzie",
+		"type": "BIO",
+		"synonyms": "gałąź",
+		"additional_info": "Gałęzie - wyrzuć do pojemnika na zielone Liście, skoszoną trawę, rozdrobnione, pocięte gałęzie wyrzucamy do ZIELONYCH. "
+	},
+	{
+		"_id": "1363",
+		"name": "Pocztówka",
+		"type": "PAPIER",
+		"synonyms": "widokówka, pocztówki, widokówki",
+		"additional_info": ""
+	},
+	{
+		"_id": "1366",
+		"name": "Butelka po płynie do prania, płukania plastikowa",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "butelki po płynie do prania, butelka po płynie do płukania, butelki po płynie do płukania",
+		"additional_info": ""
+	},
+	{
+		"_id": "1367",
+		"name": "Opakowanie po makaronie foliowe",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "opakowanie po makaronie plastikowe, foliowe opakowanie po makaronie, torebka foliowa po makaronie, torebka po makaronie, opakowania po makaronach, torebkę po makaronie, opakowania po makaronach",
+		"additional_info": ""
+	},
+	{
+		"_id": "1368",
+		"name": "Opakowanie po makaronie papierowe",
+		"type": "PAPIER",
+		"synonyms": "karton po makaronie, opakowanie po makaronie kartonowe, opakowania po makaronach",
+		"additional_info": "Opakowanie po makaronie papierowe - wyrzuć do pojemnika na papier"
+	},
+	{
+		"_id": "1370",
+		"name": "Ścierka, szmata",
+		"type": "ZMIESZANE",
+		"synonyms": "ściereczka, zużyta ścierka, ściereczki, Ścierki kuchenne, Stara ścierkę, Ściereczki do mebli, bawełniana ściereczka, zużyte ścierki do podłogi, Ściereczki do okularów, ściereczka brudna z fizeliny, ścierki, szmata, szmaty, szmatka",
+		"additional_info": ""
+	},
+	{
+		"_id": "1372",
+		"name": "Karton po klockach tekturowy",
+		"type": "PAPIER",
+		"synonyms": "karton po zabawkach, karton po butach ",
+		"additional_info": ""
+	},
+	{
+		"_id": "1373",
+		"name": "Kartka z rysunkiem",
+		"type": "PAPIER",
+		"synonyms": "rysunek, rysunek dziecięcy, malunek, ",
+		"additional_info": "Kartka z rysunkiem - wyrzuć do pojemnika na papier"
+	},
+	{
+		"_id": "1374",
+		"name": "Kartka z kalendarza",
+		"type": "PAPIER",
+		"synonyms": "kartki, kartki z kalendarza ",
+		"additional_info": "Kartka z kalendarza - wyrzuć do pojemnika na papier"
+	},
+	{
+		"_id": "1375",
+		"name": "Pudełko tekturowe",
+		"type": "PAPIER",
+		"synonyms": "tekturowe pudełko, pudło tekturowe, tekturowe pudełko, opakowanie tekturowe ",
+		"additional_info": ""
+	},
+	{
+		"_id": "1377",
+		"name": "Kolorowanka",
+		"type": "PAPIER",
+		"synonyms": "malowanka, dziecięca kolorowanka ",
+		"additional_info": ""
+	},
+	{
+		"_id": "1379",
+		"name": "Statek z papieru",
+		"type": "PAPIER",
+		"synonyms": "origami, samolot z papieru, statki z papieru ",
+		"additional_info": ""
+	},
+	{
+		"_id": "1380",
+		"name": "Pudełko po butach tekturowe",
+		"type": "PAPIER",
+		"synonyms": "pudełka po butach, karton po butach ",
+		"additional_info": ""
+	},
+	{
+		"_id": "1381",
+		"name": "Kartonik po syropie na kaszel",
+		"type": "PAPIER",
+		"synonyms": "kartoniki po syropie ",
+		"additional_info": ""
+	},
+	{
+		"_id": "1383",
+		"name": "Puszka po napoju",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "puszki po napojach, puszka po coca coli, puszka po piwie, puszka po pepsi, puszka po red bullu, puszka po energetykach, puszka po napojach energetycznych, puszki, puszki po piwie",
+		"additional_info": "Puszka po napoju - wyrzuć do pojemnika na metale i tworzywa sztuczne Pamiętaj, żeby ją zgnieść."
+	},
+	{
+		"_id": "1385",
+		"name": "Słoiczek po kremie szklany",
+		"type": "SZKLO",
+		"synonyms": "opakowanie po kremie, słoik po kremie, Szklane opakowanie po kremie, Słoiczek po kremie, słoiki po kremach, opakowanie szklane po kremie, Szklany słoiczek po kremie, słoiczki po kremie",
+		"additional_info": ""
+	},
+	{
+		"_id": "1386",
+		"name": "Butelka po syropie szklana",
+		"type": "SZKLO",
+		"synonyms": "buteleczka po syropie, butelka po lekarstwach szklana ",
+		"additional_info": "Butelka po syropie szklana - wyrzuć do pojemnika na szkło"
+	},
+	{
+		"_id": "1387",
+		"name": "Słoiczek po jedzeniu dla dzieci szklany",
+		"type": "SZKLO",
+		"synonyms": "Słoiczek po przecierze dla dzieci, słoiczek po jedzeniu dla niemowląt, słoiczek, słoik, gerber, opakowanie po jedzeniu dla dzieci szklane, słoik po jedzeniu dla dzieci",
+		"additional_info": ""
+	},
+	{
+		"_id": "1388",
+		"name": "Butelka po ketchupie szklana",
+		"type": "SZKLO",
+		"synonyms": "",
+		"additional_info": "Nie musisz myć butelki - wystarczy, że ją opróżnisz."
+	},
+	{
+		"_id": "1389",
+		"name": "Skórka pomarańczy",
+		"type": "BIO",
+		"synonyms": "pomarańcza, pomarańcze ",
+		"additional_info": "Skórka pomarańczy - wyrzuć do pojemnika na bioodpady"
+	},
+	{
+		"_id": "1390",
+		"name": "Skórka jabłka",
+		"type": "BIO",
+		"synonyms": "obierka jabłka, skórki po jabłkach, skórka od jabłka, ",
+		"additional_info": ""
+	},
+	{
+		"_id": "1391",
+		"name": "Skórka arbuza",
+		"type": "BIO",
+		"synonyms": "skórka po arbuzie, skórka od arbuza, skórki od arbuza, ",
+		"additional_info": ""
+	},
+	{
+		"_id": "1392",
+		"name": "Chleb spleśniały",
+		"type": "BIO",
+		"synonyms": "pieczywo spleśniałe, bułka spleśniała",
+		"additional_info": ""
+	},
+	{
+		"_id": "1393",
+		"name": "Kredka drewniana",
+		"type": "ZMIESZANE",
+		"synonyms": "kredki drewniane, kredki",
+		"additional_info": ""
+	},
+	{
+		"_id": "1396",
+		"name": "Kaczka gumowa",
+		"type": "ZMIESZANE",
+		"synonyms": "kaczki gumowe, gumowe zabawki, gumowa zabawka ",
+		"additional_info": ""
+	},
+	{
+		"_id": "1397",
+		"name": "Kubek zbity",
+		"type": "ZMIESZANE",
+		"synonyms": "zbity kubek ",
+		"additional_info": ""
+	},
+	{
+		"_id": "1399",
+		"name": "Muszla sedesowa",
+		"type": "INNE",
+		"synonyms": "sedes, muszla toaletowa, wc, kibel, kibelek, klozet, stary sedes",
+		"additional_info": "Muszla sedesowa - możesz oddać do Punktu Selektywnej Zbiórki Odpadów Komunalnych"
+	},
+	{
+		"_id": "1401",
+		"name": "Opakowanie po ryżu, kaszy kartonowe",
+		"type": "PAPIER",
+		"synonyms": "papierowe opakowanie po kaszy, papierowe opakowanie po ryżu, Opakowanie po kaszy, Kartonik po ryżu, kartonik po kaszy, pudełko po ryżu, pudełka po ryżu, pudełko po kaszy, karton po kaszy, karton po ryżu, pudełko po ryzu, karton po ryzu, opakowanie po ryzu, opakowanie papierowe po ryżu, opakowanie papierowe po ryżu, ",
+		"additional_info": "Opakowanie po ryżu, kaszy kartonowe - wyrzuć do pojemnika na papier"
+	},
+	{
+		"_id": "1404",
+		"name": "Bigos z mięsem",
+		"type": "ZMIESZANE",
+		"synonyms": "bigos",
+		"additional_info": ""
+	},
+	{
+		"_id": "1405",
+		"name": "Mydło w kostce",
+		"type": "ZMIESZANE",
+		"synonyms": "stare mydło, mydło, mydła, mydlo, ",
+		"additional_info": ""
+	},
+	{
+		"_id": "1406",
+		"name": "Lampki choinkowe",
+		"type": "ELEKTROSMIECI",
+		"synonyms": "lampki choinkowe led, ledowe lampki choinkowe, Stare lampki choinkowe",
+		"additional_info": "Lampki choinkowe - zanieś do punktu zbiórki zużytego sprzętu elektrycznego i elektronicznego.  Takie punkty znajdziesz m.in. na stronie [www.elektroeko.pl](https://www.elektroeko.pl/punkty-zbierania-elektrosmieci/)."
+	},
+	{
+		"_id": "1407",
+		"name": "Papier kredowy",
+		"type": "PAPIER",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "1408",
+		"name": "Opakowanie po herbacie tekturowe",
+		"type": "PAPIER",
+		"synonyms": "pudełko po herbacie, karton po herbacie, opakowanie kartonowe po herbacie, Opakowania po herbacie, pudełko papierowe po herbacie, Kartony po herbacie, opakowanie papierowe po herbacie, Kartonowe opakowania po herbacie",
+		"additional_info": "Opakowanie po herbacie tekturowe - wyrzuć do pojemnika na papier"
+	},
+	{
+		"_id": "1410",
+		"name": "Świetlówka",
+		"type": "INNE",
+		"synonyms": "świetlówki, świetlówkę",
+		"additional_info": ""
+	},
+	{
+		"_id": "1412",
+		"name": "Worek z odkurzacza",
+		"type": "ZMIESZANE",
+		"synonyms": "Brud z odkurzacza, pełny worek z odkurzacza, Pełen worek z odkurzacza, worek od odkurzacza pełny, śmieci z odkurzacza, worek ze śmieciami z odkurzacza, worek od odkurzacza, kurz z odkurzacza, z odkurzacza, worek odkurzacza, odpady z odkurzacza, worki do odkurzaczy, Worek z odkurzacza z kurzem, zawartość odkurzacza, ",
+		"additional_info": "Worek do odkurzacza z zawartością - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "1413",
+		"name": "Naleśnik",
+		"type": "ZMIESZANE",
+		"synonyms": "Naleśniki",
+		"additional_info": "Naleśnik wyrzuć do pojemnika na odpady zmieszane. Do BIO nie wyrzucamy resztek zawierających składniki pochodzenia zwierzęcego. Rozważ oddanie dobrego jedzenia do jadłodzielni ([mapa punktów](http://bit.ly/2uYHueQ)) lub na [grupie freegańskiej na Facebooku](https://www.facebook.com/groups/598796106991258)."
+	},
+	{
+		"_id": "1415",
+		"name": "Gips resztki",
+		"type": "ZMIESZANE",
+		"synonyms": "gips budowlany, resztki gipsu, worek po gipsie, odpady gipsu",
+		"additional_info": "Gips resztki - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "1416",
+		"name": "Serwetki papierowe brudne",
+		"type": "ZMIESZANE",
+		"synonyms": "serwetka, serwetkę, brudna serwetka, brudne serwetki, brudną serwetkę, serwetki papierowe, Serwetka papierowa",
+		"additional_info": ""
+	},
+	{
+		"_id": "1417",
+		"name": "Klawiatura",
+		"type": "ELEKTROSMIECI",
+		"synonyms": "klawiaturę, zepsuta klawiatura, zepsutą klawiaturę, stara klawiatura, starą klawiaturę",
+		"additional_info": "Punkty odbioru znajdziesz m.in. na stronie [www.elektroeko.pl](https://www.elektroeko.pl/punkty-zbierania-elektrosmieci/)."
+	},
+	{
+		"_id": "1418",
+		"name": "Kupon lotto",
+		"type": "PAPIER",
+		"synonyms": "kupon, kupony, lotto",
+		"additional_info": ""
+	},
+	{
+		"_id": "1419",
+		"name": "Papier ścierny",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "1420",
+		"name": "Obierki ziemniaków",
+		"type": "BIO",
+		"synonyms": "obierki z ziemniaków, obierki od ziemniakow, obierki od ziemniaków, obierki po ziemniakach, obierki ziemniakow, obierki z ziemniakow, obierki ziemniaka, Obierki kartofli",
+		"additional_info": "Obierki ziemniaków - wyrzuć do pojemnika na bioodpady"
+	},
+	{
+		"_id": "1421",
+		"name": "Latarka",
+		"type": "ELEKTROSMIECI",
+		"synonyms": "latarki, latarkę",
+		"additional_info": "Punkty odbioru znajdziesz m.in. na stronie [www.elektroeko.pl](https://www.elektroeko.pl/punkty-zbierania-elektrosmieci/)."
+	},
+	{
+		"_id": "1422",
+		"name": "Portfel",
+		"type": "ZMIESZANE",
+		"synonyms": "portfele, portmonetka, portmonetki, skórzany portfel, portwel, ",
+		"additional_info": ""
+	},
+	{
+		"_id": "1424",
+		"name": "Czajnik metalowy",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "czajnik aluminiowy z elementami plastiku do gotowania wody na kuchence gazowej. stary czajnik",
+		"additional_info": ""
+	},
+	{
+		"_id": "1425",
+		"name": "Czajnik elektryczny",
+		"type": "ELEKTROSMIECI",
+		"synonyms": "",
+		"additional_info": "Czajnik elektryczny - zanieść do punktu zbiórki zużytego sprzętu elektrycznego i elektronicznego. Punkty odbioru znajdziesz m.in. na stronie [www.elektroeko.pl](https://www.elektroeko.pl/punkty-zbierania-elektrosmieci/)."
+	},
+	{
+		"_id": "1426",
+		"name": "Folia z opakowania po papierosach",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": "Folia z opakowania po papierosach - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "1427",
+		"name": "Opakowanie po sosie w plastikowej butelce",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "Butelkę po sosie, butelka po sosie",
+		"additional_info": ""
+	},
+	{
+		"_id": "1428",
+		"name": "Biodegradowalne opakowania np. ze skrobi kukurydzianej",
+		"type": "ZMIESZANE",
+		"synonyms": "Biodegradowalne opakowanie, Pudełka biodegradowalne, pojemnik na żywność biodegradowalny",
+		"additional_info": "Biodegradowalne opakowania np. ze skrobi kukurydzianej - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "1431",
+		"name": "Segregator",
+		"type": "ZMIESZANE",
+		"synonyms": "segregatory",
+		"additional_info": "Segregator - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "1432",
+		"name": "Smoczek",
+		"type": "ZMIESZANE",
+		"synonyms": "smoczki",
+		"additional_info": ""
+	},
+	{
+		"_id": "1443",
+		"name": "Maseczka ochronna",
+		"type": "ZMIESZANE",
+		"synonyms": "maseczki, maska, maski ",
+		"additional_info": "Maseczka ochronna - wyrzuć do pojemnika na odpady zmieszane. Inne odpady związane z ochroną osobistą również powinny trafić do zmieszanych."
+	},
+	{
+		"_id": "1444",
+		"name": "Rękawiczka lateksowa",
+		"type": "ZMIESZANE",
+		"synonyms": "rękawiczki lateksowe ",
+		"additional_info": "Rękawiczka lateksowa - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "1445",
+		"name": "Rękawiczka foliowa",
+		"type": "ZMIESZANE",
+		"synonyms": "rękawiczki foliowe ",
+		"additional_info": "Rękawiczka foliowa - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "1446",
+		"name": "Gumka do ścierania",
+		"type": "ZMIESZANE",
+		"synonyms": "gumki, gumka szkolna ",
+		"additional_info": ""
+	},
+	{
+		"_id": "1449",
+		"name": "Butelka po lekach plastikowa pusta",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "",
+		"additional_info": "Butelka po lekach plastikowa pusta - wyrzuć do pojemnika na metale i tworzywa sztuczne"
+	},
+	{
+		"_id": "1450",
+		"name": "Walizka skórzana lub z tkaniny",
+		"type": "ZMIESZANE",
+		"synonyms": "plecak, walizeczka, plecaczek ",
+		"additional_info": ""
+	},
+	{
+		"_id": "1451",
+		"name": "Rośliny uschnięte",
+		"type": "BIO",
+		"synonyms": "kwiaty uschnięte ",
+		"additional_info": ""
+	},
+	{
+		"_id": "1452",
+		"name": "Torebka prezentowa",
+		"type": "PAPIER",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "1453",
+		"name": "Przedmioty z silikonu",
+		"type": "ZMIESZANE",
+		"synonyms": "silikonowe, silikon, formy silikonowe, silikonowy ",
+		"additional_info": ""
+	},
+	{
+		"_id": "1454",
+		"name": "Przedmioty z gumy",
+		"type": "ZMIESZANE",
+		"synonyms": "guma, gumowy, gumowe, przedmioty gumowe ",
+		"additional_info": ""
+	},
+	{
+		"_id": "1455",
+		"name": "Klucze",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "klucz, ",
+		"additional_info": ""
+	},
+	{
+		"_id": "1456",
+		"name": "Worek jutowy",
+		"type": "ZMIESZANE",
+		"synonyms": "worek po ziemniakach, worki jutowe ",
+		"additional_info": "Worek jutowy - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "1457",
+		"name": "Papier z rolki do czyszczenia ubrań",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "1458",
+		"name": "Kask rowerowy",
+		"type": "ZMIESZANE",
+		"synonyms": "kaski rowerowe",
+		"additional_info": ""
+	},
+	{
+		"_id": "1460",
+		"name": "Korek po szampanie plastikowy",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "korki",
+		"additional_info": ""
+	},
+	{
+		"_id": "1461",
+		"name": "Sztućce ze stali nierdzewnej",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "łyżka, nóż, widelec, łyżeczka, sztućce metalowe",
+		"additional_info": ""
+	},
+	{
+		"_id": "1462",
+		"name": "Tubka po jedzeniu plastikowa",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "1463",
+		"name": "Wytłoczki po jajkach plastikowe",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "pojemnik po jajkach plastikowy ",
+		"additional_info": ""
+	},
+	{
+		"_id": "1465",
+		"name": "Walizka plastikowa",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "walizki plastikowe ",
+		"additional_info": ""
+	},
+	{
+		"_id": "1466",
+		"name": "Sztućce metalowe z plastikowymi rączkami",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "nóż, noże, widelec, widelce, łyżka, łyżki, łyżeczki, łyżeczka ",
+		"additional_info": "Sztućce metalowe z plastikowymi rączkami - wyrzuć do pojemnika na metale i tworzywa sztuczne"
+	},
+	{
+		"_id": "1467",
+		"name": "Przedmiot ze szkła hartowanego",
+		"type": "ZMIESZANE",
+		"synonyms": "szkło hartowane, przedmioty ze szkła hartowanego ",
+		"additional_info": "Przedmiot ze szkła hartowanego - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "1468",
+		"name": "Paczka po papierosach papierowa",
+		"type": "PAPIER",
+		"synonyms": "",
+		"additional_info": ""
+	},
+	{
+		"_id": "1469",
+		"name": "Folia okrywająca paczkę po papierosach",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": "Folia okrywająca paczkę po papierosach - wyrzuć do pojemnika na odpady zmieszane Paczkę papierową wyrzuć do papieru"
+	},
+	{
+		"_id": "1470",
+		"name": "Młynek po przyprawach ręczny",
+		"type": "ZMIESZANE",
+		"synonyms": "młynki po przyprawach ",
+		"additional_info": ""
+	},
+	{
+		"_id": "1471",
+		"name": "Młynek elektryczny",
+		"type": "ELEKTROSMIECI",
+		"synonyms": "młynki elektryczne",
+		"additional_info": "Punkty odbioru znajdziesz m.in. na stronie [www.elektroeko.pl](https://www.elektroeko.pl/punkty-zbierania-elektrosmieci/)."
+	},
+	{
+		"_id": "1472",
+		"name": "Worek po jedzeniu dla psa, kota plastikowy",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "worek po karmie dla zwierząt plastikowy ",
+		"additional_info": ""
+	},
+	{
+		"_id": "1475",
+		"name": "Blacha do pieczenia",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "",
+		"additional_info": "Blacha do pieczenia - wyrzuć do pojemnika na metale i tworzywa sztuczne"
+	},
+	{
+		"_id": "1476",
+		"name": "Tuba po chipsach",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "",
+		"additional_info": "Tuba po chipsach - wyrzuć do pojemnika na metale i tworzywa sztuczne"
+	},
+	{
+		"_id": "1477",
+		"name": "Torba po mrożonkach plastikowa",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "",
+		"additional_info": "Torba po mrożonkach plastikowa - wyrzuć do pojemnika na metale i tworzywa sztuczne"
+	},
+	{
+		"_id": "1479",
+		"name": "Filtr węglowy do okapu kuchennego",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": "Filtr węglowy do okapu kuchennego - wyrzuć do pojemnika na odpady zmieszane."
+	},
+	{
+		"_id": "1480",
+		"name": "Folia aluminiowa z resztkami żywności",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": "Folia aluminiowa z resztkami żywności - wyrzuć do pojemnika na odpady zmieszane. Zabrudzona nie nadaje się do recyklingu."
+	},
+	{
+		"_id": "1483",
+		"name": "Sztućce metalowe",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "",
+		"additional_info": "Sztućce metalowe - wyrzuć do pojemnika na metale i tworzywa sztuczne Jeśli nie są uszkodzone, można je oddać np. do sklepu charytatywnego. "
+	},
+	{
+		"_id": "1484",
+		"name": "Opakowanie po kawie papierowe",
+		"type": "PAPIER",
+		"synonyms": "",
+		"additional_info": "Opakowanie po kawie papierowe - wyrzuć do pojemnika na papier"
+	},
+	{
+		"_id": "1485",
+		"name": "Wieszak na ubrania plastikowo-metalowy, drewniano-metalowy",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": "Wieszak na ubrania plastikowo-metalowy, drewniano-metalowy - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "1489",
+		"name": "Opakowanie po cieście w proszku papierowe",
+		"type": "PAPIER",
+		"synonyms": "",
+		"additional_info": "Opakowanie po cieście w proszku papierowe - wyrzuć do pojemnika na papier"
+	},
+	{
+		"_id": "1491",
+		"name": "Szczoteczka do zębów bambusowa",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": "Szczoteczka do zębów bambusowa - wyrzuć do pojemnika na odpady zmieszane. Nie nadaje się do wyrzucenia do BIO. Tam powinny trafiać resztki warzywne i owocowe."
+	},
+	{
+		"_id": "1492",
+		"name": "Worek foliowy po soku z kranikiem",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "",
+		"additional_info": "Worek foliowy po soku z kranikiem - wyrzuć do pojemnika na metale i tworzywa sztuczne Karton, w którym znajduje się worek, wyrzuć do PAPIERU."
+	},
+	{
+		"_id": "1499",
+		"name": "Butelka plastikowa pusta po płynach do papierosów elektronicznych",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "",
+		"additional_info": "Butelka plastikowa pusta po płynach do papierosów elektronicznych - wyrzuć do pojemnika na metale i tworzywa sztuczne"
+	},
+	{
+		"_id": "1500",
+		"name": "Podkładka pod tort, ciasto papierowa pokryta folią",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": "Podkładka pod tort, ciasto papierowa pokryta folią - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "1502",
+		"name": "Płyta pilśniowa - nieduży kawałek",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": "Płyta pilśniowa – nieduży kawałek - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "1503",
+		"name": "Dykta - nieduży kawałek",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": "Dykta – nieduży kawałek - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "1508",
+		"name": "Płyta winylowa",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": "Płyta winylowa - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "1510",
+		"name": "Karton oklejony taśmą",
+		"type": "PAPIER",
+		"synonyms": "",
+		"additional_info": "Karton oklejony taśmą - wyrzuć do pojemnika na papier"
+	},
+	{
+		"_id": "1514",
+		"name": "Bandaż",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": "Bandaż - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "1520",
+		"name": "Gaśnica",
+		"type": "INNE",
+		"synonyms": "",
+		"additional_info": "Gaśnica - możesz oddać do Punktu Selektywnej Zbiórki Odpadów Komunalnych lub Mobilnego Punktu Selektywnej Zbiórki Odpadów Komunalnych"
+	},
+	{
+		"_id": "1523",
+		"name": "Olej spożywczy",
+		"type": "INNE",
+		"synonyms": "",
+		"additional_info": "Olej spożywczy - możesz oddać do Punktu Selektywnej Zbiórki Odpadów Komunalnych lub Mobilnego Punktu Selektywnej Zbiórki Odpadów Komunalnych. Olej ze smażenia zbieraj do słoika i oddaj go potem do PSZOK-u lub MSZOK-u"
+	},
+	{
+		"_id": "1524",
+		"name": "Klej",
+		"type": "INNE",
+		"synonyms": "",
+		"additional_info": "Klej - możesz oddać do Punktu Selektywnej Zbiórki Odpadów Komunalnych lub Mobilnego Punktu Selektywnej Zbiórki Odpadów Komunalnych"
+	},
+	{
+		"_id": "1525",
+		"name": "Opakowanie po kleju",
+		"type": "INNE",
+		"synonyms": "",
+		"additional_info": "Opakowanie po kleju - możesz oddać do Punktu Selektywnej Zbiórki Odpadów Komunalnych lub Mobilnego Punktu Selektywnej Zbiórki Odpadów Komunalnych"
+	},
+	{
+		"_id": "1528",
+		"name": "Ampułkostrzykawka",
+		"type": "INNE",
+		"synonyms": "",
+		"additional_info": "Ampułkostrzykawka - możesz oddać do Punktu Selektywnej Zbiórki Odpadów Komunalnych"
+	},
+	{
+		"_id": "1530",
+		"name": "Drewno zawierające substancje niebezpieczne",
+		"type": "INNE",
+		"synonyms": "",
+		"additional_info": "Drewno zawierające substancje niebezpieczne - możesz oddać do Punktu Selektywnej Zbiórki Odpadów Komunalnych"
+	},
+	{
+		"_id": "1533",
+		"name": "Resztki jedzenia bez produktów pochodzenia zwierzęcego i tłuszczu",
+		"type": "BIO",
+		"synonyms": "",
+		"additional_info": "Resztki jedzenia bez produktów pochodzenia zwierzęcego i tłuszczu - wyrzuć do pojemnika na bioodpady. Do BIO nie wyrzucamy resztek pochodzenia zwierzęcego. Takie resztki wyrzuć do zmieszanych.  Rozważ oddanie dobrego jedzenia do jadłodzielni ([mapa punktów](http://bit.ly/2uYHueQ)) lub na [grupie freegańskiej na Facebooku](https://www.facebook.com/groups/598796106991258)."
+	},
+	{
+		"_id": "1534",
+		"name": "Resztki jedzenia zawierające produkty pochodzenia zwierzęcego lub tłuszcz",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": "Resztki jedzenia zawierające produkty pochodzenia zwierzęcego lub tłuszcz - wyrzuć do pojemnika na odpady zmieszane. Do BIO nie wyrzucamy resztek pochodzenia zwierzęcego.  Rozważ oddanie dobrego jedzenia do jadłodzielni ([mapa punktów](http://bit.ly/2uYHueQ)) lub na [grupie freegańskiej na Facebooku](https://www.facebook.com/groups/598796106991258)."
+	},
+	{
+		"_id": "1537",
+		"name": "Resztki karmy dla psów i kotów",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": "Resztki karmy dla psów i kotów - wyrzuć do pojemnika na odpady zmieszane. Do BIO nie wyrzucamy resztek pochodzenia zwierzęcego np. mięsa czy kości. Rozważ oddanie karmy na lokalnej grupie mieszkańców na Facebooku."
+	},
+	{
+		"_id": "1538",
+		"name": "Mop parowy",
+		"type": "ELEKTROSMIECI",
+		"synonyms": "",
+		"additional_info": "Mop parowy - zanieść do punktu zbiórki zużytego sprzętu elektrycznego i elektronicznego. Możesz również oddać go do Punktu Selektywnej Zbiórki Odpadów Komunalnych. Punkty odbioru znajdziesz m.in. na stronie [www.elektroeko.pl](https://www.elektroeko.pl/punkty-zbierania-elektrosmieci/)."
+	},
+	{
+		"_id": "1541",
+		"name": "Zegar ścienny na baterie",
+		"type": "ELEKTROSMIECI",
+		"synonyms": "",
+		"additional_info": "Zegar ścienny na baterie - zanieść do punktu zbiórki zużytego sprzętu elektrycznego i elektronicznego. Punkty odbioru znajdziesz m.in. na stronie [www.elektroeko.pl](https://www.elektroeko.pl/punkty-zbierania-elektrosmieci/)."
+	},
+	{
+		"_id": "1542",
+		"name": "Wykładzina PCV",
+		"type": "INNE",
+		"synonyms": "",
+		"additional_info": "Wykładzina PCV - możesz oddać do Punktu Selektywnej Zbiórki Odpadów Komunalnych"
+	},
+	{
+		"_id": "1543",
+		"name": "Taśma magnetofonowa",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": "Taśma magnetofonowa - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "1547",
+		"name": "Dezodorant w kulce szklany",
+		"type": "SZKLO",
+		"synonyms": "",
+		"additional_info": "Dezodorant w kulce szklany - wyrzuć do pojemnika na szkło. Plastikową nakrętkę wyrzuć do metali i tworzyw sztucznych "
+	},
+	{
+		"_id": "1548",
+		"name": "Bibuła",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": "Bibuła - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "1549",
+		"name": "Cerata",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": "Cerata - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "1551",
+		"name": "Cegła",
+		"type": "INNE",
+		"synonyms": "",
+		"additional_info": "Cegła - możesz oddać do Punktu Selektywnej Zbiórki Odpadów Komunalnych Odpady budowlane, w ilościach wskazujących na samodzielny remont możesz oddać do PSZOK-u"
+	},
+	{
+		"_id": "1552",
+		"name": "Beton",
+		"type": "INNE",
+		"synonyms": "",
+		"additional_info": "Beton - możesz oddać do Punktu Selektywnej Zbiórki Odpadów Komunalnych Odpady budowlane, w ilościach wskazujących na samodzielny remont możesz oddać do PSZOK-u"
+	},
+	{
+		"_id": "1553",
+		"name": "Glazura",
+		"type": "INNE",
+		"synonyms": "",
+		"additional_info": "Glazura - możesz oddać do Punktu Selektywnej Zbiórki Odpadów Komunalnych Odpady budowlane, w ilościach wskazujących na samodzielny remont możesz oddać do PSZOK-u"
+	},
+	{
+		"_id": "1554",
+		"name": "Terakota",
+		"type": "INNE",
+		"synonyms": "",
+		"additional_info": "Terakota - możesz oddać do Punktu Selektywnej Zbiórki Odpadów Komunalnych Odpady budowlane, w ilościach wskazujących na samodzielny remont możesz oddać do PSZOK-u"
+	},
+	{
+		"_id": "1556",
+		"name": "Armatura",
+		"type": "INNE",
+		"synonyms": "",
+		"additional_info": "Armatura - możesz oddać do Punktu Selektywnej Zbiórki Odpadów Komunalnych Armaturę w ilościach wskazujących na samodzielny remont możesz oddać do PSZOK-u"
+	},
+	{
+		"_id": "1559",
+		"name": "Worek po cemencie",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": "Worek po cemencie - wyrzuć do pojemnika na odpady zmieszane Worki po cemencie możesz wyrzucić do zmieszanych, ale tylko w ilości wskazującej na samodzielny remont. "
+	},
+	{
+		"_id": "1564",
+		"name": "Płatki gotowane na wodzie lub mleku roślinnym",
+		"type": "BIO",
+		"synonyms": "",
+		"additional_info": "Płatki gotowane na wodzie lub mleku roślinnym - wyrzuć do pojemnika na bioodpady Płatki gotowane na mleku krowim lub kozim wyrzucamy do zmieszanych. Do bio nie wyrzucamy resztek pochodzenia zwierzęcego. Pamiętaj jednak, żeby nie marnować żywności. Jej nadmiar możesz oddać do jadłodzielni. "
+	},
+	{
+		"_id": "1565",
+		"name": "Kosmetyczka",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": "Kosmetyczka - wyrzuć do pojemnika na odpady zmieszane Kosmetyczkę zarówno z plastiku jak i z tkaniny wyrzuć do zmieszanych. Jeśli jeszcze się nadaje do użytku, to oddaj ją potrzebującym. "
+	},
+	{
+		"_id": "1572",
+		"name": "Pielucha tetrowa",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": "Pielucha tetrowa - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "1573",
+		"name": "Worek na śmieci pusty",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "",
+		"additional_info": "Worek na śmieci pusty - wyrzuć do pojemnika na metale i tworzywa sztuczne"
+	},
+	{
+		"_id": "1576",
+		"name": "Karta płatnicza",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": "Karta płatnicza - wyrzuć do pojemnika na odpady zmieszane Kartę, której minął już termin ważności, potnij przed wyrzuceniem.  Małe kawałki karty nie nadają się do recyklingu, dlatego wyrzucamy je do zmieszanych. "
+	},
+	{
+		"_id": "1577",
+		"name": "Termos metalowy ze szklanym wkładem",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": "Termos metalowy ze szklanym wkładem - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "1578",
+		"name": "Tacka papierowa czysta",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": "Tacka papierowa czysta - wyrzuć do pojemnika na odpady zmieszane Tacki papierowe do żywności są pokryte z jednej strony folią i nie nadają się do wyrzucanie do papieru nawet jeśli są czyste. "
+	},
+	{
+		"_id": "1579",
+		"name": "Wieszak metalowy na ubrania",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "",
+		"additional_info": "Wieszak metalowy na ubrania - wyrzuć do pojemnika na metale i tworzywa sztuczne"
+	},
+	{
+		"_id": "1584",
+		"name": "Paski papieru odklejane od podpasek",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": "Paski papieru odklejane od podpasek - wyrzuć do pojemnika na odpady zmieszane Ten rodzaj papieru nie nadaje się do recyklingu."
+	},
+	{
+		"_id": "1585",
+		"name": "Kubeczek menstruacyjny",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": "Kubeczek menstruacyjny - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "1586",
+		"name": "Papierki odklejane od plastrów opatrunkowych",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": "Papierki odklejane od plastrów opatrunkowych - wyrzuć do pojemnika na odpady zmieszane Ten rodzaj papieru nie nadaje się do recyklingu."
+	},
+	{
+		"_id": "1591",
+		"name": "Bateria wannowa",
+		"type": "INNE",
+		"synonyms": "",
+		"additional_info": "Bateria wannowa - możesz oddać do Punktu Selektywnej Zbiórki Odpadów Komunalnych"
+	},
+	{
+		"_id": "1592",
+		"name": "Kran metalowy",
+		"type": "INNE",
+		"synonyms": "",
+		"additional_info": "Kran metalowy - możesz oddać do Punktu Selektywnej Zbiórki Odpadów Komunalnych"
+	},
+	{
+		"_id": "1603",
+		"name": "Szkło okienne",
+		"type": "INNE",
+		"synonyms": "",
+		"additional_info": "Szkło okienne - możesz oddać do Punktu Selektywnej Zbiórki Odpadów Komunalnych"
+	},
+	{
+		"_id": "1606",
+		"name": "Szkło drzwiowe",
+		"type": "INNE",
+		"synonyms": "",
+		"additional_info": "Szkło drzwiowe - możesz oddać do Punktu Selektywnej Zbiórki Odpadów Komunalnych Szkło drzwiowe w ilościach wskazujących na samodzielny remont możesz oddać do PSZOK-u"
+	},
+	{
+		"_id": "1607",
+		"name": "Pojemnik po oleju silnikowym plastikowy",
+		"type": "INNE",
+		"synonyms": "",
+		"additional_info": "Pojemnik po oleju silnikowym plastikowy - możesz oddać do Punktu Selektywnej Zbiórki Odpadów Komunalnych lub Mobilnego Punktu Selektywnej Zbiórki Odpadów Komunalnych"
+	},
+	{
+		"_id": "1610",
+		"name": "Metka samoprzylepna",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": "Metka samoprzylepna - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "1611",
+		"name": "Pojemnik po lodach plastikowy",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "",
+		"additional_info": "Pojemnik po lodach plastikowy - wyrzuć do pojemnika na metale i tworzywa sztuczne Nie musisz go myć, wystarczyć go dobrze opróżnić. "
+	},
+	{
+		"_id": "1612",
+		"name": "Grill metalowy",
+		"type": "INNE",
+		"synonyms": "",
+		"additional_info": "Grill metalowy - możesz oddać do Punktu Selektywnej Zbiórki Odpadów Komunalnych"
+	},
+	{
+		"_id": "1613",
+		"name": "Pudełko po paście do butów metalowe",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "",
+		"additional_info": "Pudełko po paście do butów metalowe - wyrzuć do pojemnika na metale i tworzywa sztuczne"
+	},
+	{
+		"_id": "1614",
+		"name": "Mąka",
+		"type": "BIO",
+		"synonyms": "",
+		"additional_info": "Mąka - wyrzuć do pojemnika na bioodpady Starą lub rozsypaną mąkę możesz wyrzucić do bio,  pamiętaj jednak o tym żeby nie marnować jedzenia. Nadmiar możesz oddać do jadłodzielni."
+	},
+	{
+		"_id": "1617",
+		"name": "Opakowanie po hamburgerze na wynos tekturowe, papierowe",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": "Opakowanie po hamburgerze na wynos tekturowe, papierowe - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "1618",
+		"name": "Opakowanie po pojedynczej prezerwatywie",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": "Opakowanie po pojedynczej prezerwatywie - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "1619",
+		"name": "Opakowanie po prezerwatywach tekturowe",
+		"type": "PAPIER",
+		"synonyms": "",
+		"additional_info": "Opakowanie po prezerwatywach tekturowe - wyrzuć do pojemnika na papier Opakowanie po pojedynczej prezerwatywie wyrzuć do zmieszanych. "
+	},
+	{
+		"_id": "1623",
+		"name": "Spinacz metalowy",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": "Spinacz metalowy - wyrzuć do pojemnika na odpady zmieszane. Jest to za mały odpad, żeby poddać go recyklingowi"
+	},
+	{
+		"_id": "1626",
+		"name": "Karta do gry",
+		"type": "PAPIER",
+		"synonyms": "",
+		"additional_info": "Karta do gry - wyrzuć do pojemnika na papier"
+	},
+	{
+		"_id": "1627",
+		"name": "Folia stretch",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "",
+		"additional_info": "Folia stretch - wyrzuć do pojemnika na metale i tworzywa sztuczne"
+	},
+	{
+		"_id": "1630",
+		"name": "Słomka plastikowa",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": "Słomka plastikowa - wyrzuć do pojemnika na odpady zmieszane. Jest to za mały odpad, żeby poddać go recyklingowi."
+	},
+	{
+		"_id": "1631",
+		"name": "Antena satelitarna",
+		"type": "INNE",
+		"synonyms": "",
+		"additional_info": "Antena satelitarna - możesz oddać do Punktu Selektywnej Zbiórki Odpadów Komunalnych"
+	},
+	{
+		"_id": "1633",
+		"name": "Dżem spleśniały",
+		"type": "BIO",
+		"synonyms": "",
+		"additional_info": "Dżem spleśniały - wyrzuć do pojemnika na bioodpady Pamiętaj o tym żeby nie marnować jedzenia. Nadmiar możesz oddać do jadłodzielni."
+	},
+	{
+		"_id": "1634",
+		"name": "Balon na wino szklany",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": "Balon na wino szklany - wyrzuć do pojemnika na odpady zmieszane Do pojemnika na SZKŁO powinno trafiać tylko szkło opakowaniowe. Szkło stołowe ma inny skład chemiczny i inną temperaturę topnienia niż np. butelki czy słoiki. "
+	},
+	{
+		"_id": "1638",
+		"name": "Nożyki wymienne do maszynki do golenia",
+		"type": "ZMIESZANE",
+		"synonyms": "",
+		"additional_info": "Nożyki wymienne do maszynki do golenia - wyrzuć do pojemnika na odpady zmieszane"
+	},
+	{
+		"_id": "9998",
+		"name": "Drożdże suszone lub świeże",
+		"type": "BIO",
+		"synonyms": "drozdze suszone, swieze",
+		"additional_info": "Drożdże mogą trafić do pojemnika na bioodpady"
+	},
+	{
+		"_id": "9999",
+		"name": "Chleb z masłem lub szynką",
+		"type": "ZMIESZANE",
+		"synonyms": "chleb, masło, bułka, pieczywo",
+		"additional_info": "Pieczywo z masłem, wędliną lub serem wyrzuć do zmieszanych ponieważ do BIO nie wyrzucamy resztek pochodzenia zwierzęcego. Pamiętaj o tym żeby nie marnować jedzenia. Nadmiar możesz oddać do jadłodzielni."
+	},
+	{
+		"_id": "5fe32b0735383018aa00036f",
+		"name": "Choinka sztuczna/plastikowa",
+		"type": "ZMIESZANE",
+		"synonyms": "choinka, hoinka, sztuczna, drzewko",
+		"additional_info": "Zasady wyrzucania choinek sztucznych mogą się różnić w zależności od gminy. Zwykle powinny trafić do **odpadów zmieszanych**, do **PSZOK** (Punkt Selektywnego Zbierania Odpadów Komunalnych) lub do **odpadów gabarytowych** (jeśli choinka jest większa niż kilkadziesiąt centymetrów). Jeśli to możliwe, postaraj się nie wyrzucać choinki, lecz znaleźć dla niej \"drugi dom\". Być może istnieje jakaś lokalna grupa na Facebooku, na której można ogłosić, że masz do oddania choinkę. Możesz wyszukać lokalną grupę \"**Uwaga, śmieciarka jedzie**\"."
+	},
+	{
+		"_id": "5fe51af831636287b0000263",
+		"name": "Żywność",
+		"type": "ZMIESZANE",
+		"synonyms": "Jedzenie, obiad, resztki",
+		"additional_info": "Resztki z obiadu, które miały kontakt z mięsem lub zawierające produkty odzwierzęce wyrzuć do zmieszanych. Warzywa i owoce mogą trafić do bio."
+	},
+	{
+		"_id": "5fe6502e326232493a000316",
+		"name": "Zdrapka",
+		"type": "ZMIESZANE",
+		"synonyms": "Los, lotto, totolotek",
+		"additional_info": "Jeśli nie jest pokryta folią lib możesz odciąć elementy niepapierowe, wówczas możesz wyrzucić ją do papieru."
+	},
+	{
+		"_id": "5ff5c1fd3739655bc50001e4",
+		"name": "Blat kuchenny",
+		"type": "GABARYTY",
+		"synonyms": "blat, mebel, remont, kuchnia, regał, stół, ",
+		"additional_info": "Odpad wielkogabarytowy taki jak blat kuchenny zostaw w wyznaczonym przez administratora nieruchomości miejscu gromadzenia gabarytów. Odpady można zostawić nie wcześniej niż 24 godziny przed wyznaczonym terminem odbioru. Możesz także oddać do Punktu Selektywnej Zbiówki Odpadów Komunalnych (**PSZOK**) lub Mobilnego Punktu Selektywnej Zbiówki Odpadów Komunalnych. [Znajdź PSZOK w Warszawie](https://warszawa19115.pl/-/pszok-mpszok-punkty-selektywnej-zbiorki-odpadow-komunalny-1)"
+	},
+	{
+		"_id": "5ff5c33061326178050000e2",
+		"name": "Słoik z zawartością",
+		"type": "ZMIESZANE",
+		"synonyms": "słoik, słoik z ogórkami, słoik po ogórkach, ogórki, przetwory, dżem, konfitura, konfitury",
+		"additional_info": "Jeśli nie możesz opróżnić słoika, to niestety musi on trafić do **zmieszanych**. Jeśli zawartość jest pochodzenia roślinnego (np. ogórki, przetwory), to wyrzuć je do bioodpadów, a opróżniony słoik (nie musisz go myć) wyrzuć do szkła. Zakrętka powinna trafić do metali. Zawartość pochodzenia zwierzęcego wyrzuć do zmieszanych (np. mięso)."
+	},
+	{
+		"_id": "5ff5c44c3337398d990002fa",
+		"name": "Kosmetyki przeterminowane",
+		"type": "ZMIESZANE",
+		"synonyms": "opakowanie po kosmetykach, kosmetyki, popsute kosmetyki, otwarte opakowanie po kosmetykach, otwarte kosmetyki, kosmetyki otwarte, Opakowanie z resztką kosmetyków",
+		"additional_info": "Pełne opakowanie ze przeterminowanym, starym kosmetykiem wyrzuć do **zmieszanych**. Puste - odpowiednio do szkła lub metali i tworzyw sztucznych."
+	},
+	{
+		"_id": "60b249796663358739000192",
+		"name": "Biszkopt",
+		"type": "ZMIESZANE",
+		"synonyms": "ciasto, biszkopt, tort",
+		"additional_info": "Biszkopt zwykle posiada w sobie składniki pochodzenia zwierzęcego, więc należy wyrzucić go do zmieszanych. Jeśli biszkopt nadaje się do jedzenia, rozważ oddanie go w jadłodzielni ([mapa punktów](http://bit.ly/2uYHueQ)) lub na [grupie freegańskiej na Facebooku](https://www.facebook.com/groups/598796106991258)."
+	},
+	{
+		"_id": "60b3fbec32336426fa0001a3",
+		"name": "Dętka",
+		"type": "INNE",
+		"synonyms": "opona, dentka, dętka",
+		"additional_info": "Możesz oddać do Punktu Selektywnej Zbiówki Odpadów Komunalnych (**PSZOK**) lub Mobilnego Punktu Selektywnej Zbiówki Odpadów Komunalnych. [Znajdź PSZOK w Warszawie](https://warszawa19115.pl/-/pszok-mpszok-punkty-selektywnej-zbiorki-odpadow-komunalny-1)"
+	},
+	{
+		"_id": "60b494e66331660794000110",
+		"name": "Pozostałości po wydruku 3D, filament",
+		"type": "ZMIESZANE",
+		"synonyms": "filament, plastik, drukarka 3d, druk, resztki, PLA",
+		"additional_info": "Niestety większość filamentów nie nadaje się do recyklingu. Jeśli filament posiada oznakowanie dot. składu lub możliwości przekazania do recyklingu, to można go wtedy wyrzucić do metali i tworzyw sztucznych. Ewentualnie spróbuj znaleźć usługę recyklingu filamentów do drukarek 3D w swojej okolicy lub zgłoś się do jednej z internetowych firm np. [ReDeTec](https://redetec.com/)."
+	},
+	{
+		"_id": "61dc057f3832666a5e00005e",
+		"name": "Fajerwerki, sztuczne ognie",
+		"type": "INNE",
+		"synonyms": "fajerwerki, pirotechniczne, ognie, sztuczne ognie, petardy",
+		"additional_info": "Fajerwerki i sztuczne ognie powinny trafić do PSZOK lub MPSZOK [Znajdź PSZOK w Warszawie](https://warszawa19115.pl/-/pszok-mpszok-punkty-selektywnej-zbiorki-odpadow-komunalny-1)"
+	},
+	{
+		"_id": "61dc05f33232346f4a0001ed",
+		"name": "Łubianka drewniana",
+		"type": "ZMIESZANE",
+		"synonyms": "łubianka, kobiałka, koszyk, owoce",
+		"additional_info": "Łubiankę możesz oddać także do sklepu lub na targu"
+	},
+	{
+		"_id": "61dc0771306266e348000105",
+		"name": "Komputer, laptop",
+		"type": "ELEKTROSMIECI",
+		"synonyms": "laptop, komputer, pc, pecet, sprzęt komputerowy",
+		"additional_info": "[Znajdź punkty odbioru elektroodpadów](https://www.elektroeko.pl/punkty-zbierania-elektrosmieci/). Komputer możesz także oddać w PSZOK. W Internecie możesz także znaleźć firmy odbierające elektroodpady bezpłatnie do ponownego przetworzenia."
+	},
+	{
+		"_id": "61dc07dc636266ddd400003a",
+		"name": "Szyszki świerków",
+		"type": "BIO",
+		"synonyms": "szyszka, szyszki",
+		"additional_info": "W niewielkiej ilości szyszki mogą trafić do pojemnika na BIO. Jeśli jest ich więcej, to prawdopodobnie powinny trafić do zmieszanych."
+	},
+	{
+		"_id": "620013893966633757000048",
+		"name": "Test na koronawirusa",
+		"type": "ZMIESZANE",
+		"synonyms": "test, tester, covid",
+		"additional_info": "Test na koronawirusa zapakuj w dołączone opakowanie i wyrzuć do zmieszanych."
+	},
+	{
+		"_id": "62001813633835e3c8000160",
+		"name": "Etui od telefonu",
+		"type": "ZMIESZANE",
+		"synonyms": "etui, pokrowiec, kabura",
+		"additional_info": "Etui nie nadaje się do recyklingu. Być może ktoś inny może skorzystać z niepotrzebnego akcesorium?"
+	},
+	{
+		"_id": "6200190c636161f32b000183",
+		"name": "Etykieta z butelki",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "foliowa, naklejka, etykieta, pet, butelka",
+		"additional_info": "Foliowa etykieta z naklejki (np. po wodzie) może trafić do pojemnika na metale i tworzywa sztuczne."
+	},
+	{
+		"_id": "620019776264325a8e0000fd",
+		"name": "Styropian budowlany",
+		"type": "INNE",
+		"synonyms": "izolacja",
+		"additional_info": "Odpady budowlane - możesz oddać do Punktu Selektywnej Zbiórki Odpadów Komunalnych lub Mobilnego Punktu Selektywnej Zbiórki Odpadów Komunalnych. Odpady budowlane, w ilościach wskazujących na samodzielny remont oddajemy do PSZOK. Nie ma możliwości oddania ich do MPSZOK! Pamietaj, że PSZOK nie przyjmuje styropianu budowlanego oraz papy! [Znajdź PSZOK w Warszawie](https://warszawa19115.pl/-/pszok-mpszok-punkty-selektywnej-zbiorki-odpadow-komunalny-1)"
+	},
+	{
+		"_id": "626419923535332dc00002eb",
+		"name": "Folia po rybie",
+		"type": "METALE_I_TWORZYWA",
+		"synonyms": "opakowanie po rybie, ryba, makrela, makreli, śledź",
+		"additional_info": "Opakowanie po śledziach, makrelach i innych rybach plastikowe wyrzuć do pojemnika na metale i tworzywa sztuczne. Nie musisz go myć, wystarcz je dobrze opróżnić."
+	}
+]

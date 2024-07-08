@@ -1,0 +1,76 @@
+<resources>
+
+	<color name="colorPrimary">#212121</color>
+	<color name="colorPrimaryDark">#000000</color>
+	<color name="colorAccent">@color/white</color>
+	<color name="black">#000000</color>
+	<color name="transparentBlack">#B7000000</color>
+	<color name="white">#ffffff</color>
+	<color name="darkerGray">#333333</color>
+	<color name="darkGray">#707070</color>
+
+	<color name="blue">#64B5F6</color>
+	<color name="yellow">#FDD835</color>
+	<color name="green">#4CAF50</color>
+	<color name="red">#F44336</color>
+	<color name="purple">#673AB7</color>
+	<color name="turqouise">#009688</color>
+
+	<style name="MyTheme" parent="Theme.AppCompat">
+		<item name="colorPrimary">@color/colorPrimary</item>
+		<item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+		<item name="colorAccent">@color/colorAccent</item>
+		<item name="md_content_color">@color/white</item>
+	</style>
+
+	<style name="MyTheme.NoTitle" parent="MyTheme">
+		<item name="windowActionBar">false</item>
+		<item name="windowNoTitle">true</item>
+	</style>
+
+	<style name="TrashButtonContainer">
+		<item name="android:layout_width">0dp</item>
+		<item name="android:layout_height">match_parent</item>
+		<item name="android:layout_weight">1</item>
+	</style>
+
+	<style name="TrashButton">
+		<item name="android:layout_width">match_parent</item>
+		<item name="android:layout_height">match_parent</item>
+		<item name="android:textColor">@color/white</item>
+		<item name="android:textSize">20sp</item>
+		<item name="android:textStyle">bold</item>
+		<item name="android:padding">16dp</item>
+	</style>
+
+	<style name="TrashText">
+		<item name="android:layout_width">match_parent</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:textColor">@color/white</item>
+		<item name="android:textSize">16sp</item>
+		<item name="android:textStyle">bold</item>
+		<item name="android:padding">8dp</item>
+		<item name="android:gravity">center_horizontal</item>
+	</style>
+
+	<style name="TrashProgressBar" parent="Widget.AppCompat.ProgressBar.Horizontal">
+		<item name="android:layout_width">match_parent</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:layout_alignParentBottom">true</item>
+		<item name="android:paddingLeft">8dp</item>
+		<item name="android:paddingRight">8dp</item>
+		<item name="android:indeterminate">false</item>
+		<item name="android:max">100</item>
+	</style>
+
+	<style name="BottomButton">
+		<item name="android:layout_width">0dp</item>
+		<item name="android:layout_height">match_parent</item>
+		<item name="android:layout_weight">1</item>
+		<item name="android:textColor">@color/white</item>
+		<item name="android:textSize">20sp</item>
+		<item name="android:textStyle">bold</item>
+		<item name="android:padding">16dp</item>
+	</style>
+
+</resources>

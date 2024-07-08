@@ -1,0 +1,2 @@
+h7 iperf -u -e -i 1 -s -p 5201 > h7ser.txt &
+h10 iperf -e -i 1 -c h7 -p 5201 -u -S 0x10 -b 20000pps > h10cli.txt

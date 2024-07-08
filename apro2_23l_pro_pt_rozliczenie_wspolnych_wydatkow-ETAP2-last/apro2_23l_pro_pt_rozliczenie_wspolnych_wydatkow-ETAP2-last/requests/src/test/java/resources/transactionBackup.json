@@ -1,0 +1,2 @@
+[{"sender":{"username":"szwedson1","hashedPasswd":"asdfasdf","balance":30.0,"id":1},
+  "receiver":{"username":"szwedson2","hashedPasswd":"asdfasdfad","balance":30.0,"id":2},"amount":30.0}]

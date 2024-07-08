@@ -1,0 +1,85 @@
+{
+  "flows": [
+    {
+      "priority": 40000,
+      "timeout": 1500,
+      "isPermanent": true,
+      "deviceId": "of:0000000000000005",
+      "treatment": {
+        "instructions": [
+          {
+            "type": "OUTPUT",
+            "port": "3"
+          }
+        ],
+        "deferred": []
+      },
+      "selector": {
+        "criteria": [
+          {
+            "type": "ETH_TYPE",
+            "ethType": "0x0800"
+          },
+          {
+            "type": "IPV4_DST",
+            "ip": "10.0.0.6/32"
+          }
+        ]
+      }
+    },
+    {
+      "priority": 40000,
+      "timeout": 1500,
+      "isPermanent": true,
+      "deviceId": "of:0000000000000005",
+      "treatment": {
+        "instructions": [
+          {
+            "type": "OUTPUT",
+            "port": "2"
+          }
+        ],
+        "deferred": []
+      },
+      "selector": {
+        "criteria": [
+          {
+            "type": "ETH_TYPE",
+            "ethType": "0x0800"
+          },
+          {
+            "type": "IPV4_DST",
+            "ip": "10.0.0.8/32"
+          }
+        ]
+      }
+    },
+    {
+      "priority": 40000,
+      "timeout": 1500,
+      "isPermanent": true,
+      "deviceId": "of:0000000000000005",
+      "treatment": {
+        "instructions": [
+          {
+            "type": "OUTPUT",
+            "port": "1"
+          }
+        ],
+        "deferred": []
+      },
+      "selector": {
+        "criteria": [
+          {
+            "type": "ETH_TYPE",
+            "ethType": "0x0800"
+          },
+          {
+            "type": "IPV4_DST",
+            "ip": "10.0.0.5/32"
+          }
+        ]
+      }
+    }
+  ]
+}

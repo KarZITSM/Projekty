@@ -1,0 +1,128 @@
+# Reading pref.tcl
+# ERROR: No extended dataflow license exists
+# do SycyProjEtap4_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 2020.1 Lib Mapping Utility 2020.02 Feb 28 2020
+# vmap work rtl_work 
+# Copying D:/quartus/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy {C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy/powermod.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:59:16 on May 23,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy" C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy/powermod.v 
+# -- Compiling module powermod
+# 
+# Top level modules:
+# 	powermod
+# End time: 20:59:16 on May 23,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy {C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy/random_generator.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:59:16 on May 23,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy" C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy/random_generator.v 
+# -- Compiling module random_generator
+# 
+# Top level modules:
+# 	random_generator
+# End time: 20:59:16 on May 23,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy {C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy/random_generator2.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:59:16 on May 23,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy" C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy/random_generator2.v 
+# -- Compiling module random_generator2
+# 
+# Top level modules:
+# 	random_generator2
+# End time: 20:59:16 on May 23,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy {C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy/primenumber.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:59:16 on May 23,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy" C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy/primenumber.v 
+# -- Compiling module primenumber
+# 
+# Top level modules:
+# 	primenumber
+# End time: 20:59:16 on May 23,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy {C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy/codeMessage.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:59:16 on May 23,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy" C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy/codeMessage.v 
+# -- Compiling module codeMessage
+# 
+# Top level modules:
+# 	codeMessage
+# End time: 20:59:16 on May 23,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy {C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy/cc.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:59:16 on May 23,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy" C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy/cc.v 
+# -- Compiling module cc
+# 
+# Top level modules:
+# 	cc
+# End time: 20:59:16 on May 23,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy {C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy/drone.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:59:16 on May 23,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy" C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy/drone.v 
+# -- Compiling module drone
+# 
+# Top level modules:
+# 	drone
+# End time: 20:59:16 on May 23,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy {C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy/world.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:59:16 on May 23,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy" C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy/world.v 
+# -- Compiling module world
+# 
+# Top level modules:
+# 	world
+# End time: 20:59:16 on May 23,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy {C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy/random_generator1.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:59:16 on May 23,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy" C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy/random_generator1.v 
+# -- Compiling module random_generator1
+# 
+# Top level modules:
+# 	random_generator1
+# End time: 20:59:16 on May 23,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+vsim work.world
+# vsim work.world 
+# Start time: 20:59:21 on May 23,2023
+# Loading work.world
+# Loading work.cc
+# Loading work.random_generator
+# Loading work.random_generator1
+# Loading work.primenumber
+# Loading work.powermod
+# Loading work.codeMessage
+# Loading work.drone
+# Loading work.random_generator2
+# ** Warning: (vsim-3015) [PCDPC] - Port size (8) does not match connection size (1) for port 'confirmation_of_encryption'. The port definition is at: C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy/drone.v(14).
+#    Time: 0 ps  Iteration: 0  Instance: /world/sea_dron File: C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy/world.v Line: 39
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (8) for port 'done'. The port definition is at: C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy/codeMessage.v(8).
+#    Time: 0 ps  Iteration: 0  Instance: /world/sea_dron/code_dron File: C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy/drone.v Line: 77
+do test_sycy_lab2.do
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Warning: (vsim-3015) [PCDPC] - Port size (8) does not match connection size (1) for port 'confirmation_of_encryption'. The port definition is at: C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy/drone.v(14).
+#    Time: 0 ps  Iteration: 0  Instance: /world/sea_dron File: C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy/world.v Line: 39
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (8) for port 'done'. The port definition is at: C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy/codeMessage.v(8).
+#    Time: 0 ps  Iteration: 0  Instance: /world/sea_dron/code_dron File: C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy/drone.v Line: 77
+# End time: 21:00:03 on May 23,2023, Elapsed time: 0:00:42
+# Errors: 0, Warnings: 2

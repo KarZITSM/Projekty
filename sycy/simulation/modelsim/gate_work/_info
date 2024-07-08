@@ -1,0 +1,59 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj/sycy/simulation/modelsim
+vcc
+Z1 !s110 1684332172
+!i10b 1
+!s100 ffXo;0B@nOD<LZLMJLFGQ2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IXe_RRJ1ReZn<9<ND@lL>40
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1684331122
+Z5 8SycyProjEtap4.vo
+Z6 FSycyProjEtap4.vo
+!i122 0
+L0 32 5143
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1684332172.000000
+!s107 SycyProjEtap4.vo|
+Z9 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+.|SycyProjEtap4.vo|
+!i113 1
+Z10 o-vlog01compat -work work
+Z11 !s92 -vlog01compat -work work +incdir+.
+Z12 tCvgOpt 0
+vhard_block
+R1
+!i10b 1
+!s100 fER_Alk0O<h[@Li4_Q[U72
+R2
+IzI7ATO@hE[mo^b_5kKGFA0
+R3
+R0
+R4
+R5
+R6
+!i122 0
+L0 5176 34
+R7
+r1
+!s85 0
+31
+R8
+Z13 !s107 SycyProjEtap4.vo|
+R9
+!i113 1
+R10
+R11
+R12

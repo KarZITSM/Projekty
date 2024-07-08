@@ -1,0 +1,16 @@
+Fitter Status : Successful - Tue May 23 20:58:45 2023
+Quartus Prime Version : 20.1.0 Build 711 06/05/2020 SJ Lite Edition
+Revision Name : SycyProjEtap4
+Top-level Entity Name : world
+Family : Cyclone IV E
+Device : EP4CE30F29C7
+Timing Models : Final
+Total logic elements : 2,716 / 28,848 ( 9 % )
+    Total combinational functions : 2,703 / 28,848 ( 9 % )
+    Dedicated logic registers : 312 / 28,848 ( 1 % )
+Total registers : 312
+Total pins : 140 / 533 ( 26 % )
+Total virtual pins : 0
+Total memory bits : 0 / 608,256 ( 0 % )
+Embedded Multiplier 9-bit elements : 8 / 132 ( 6 % )
+Total PLLs : 0 / 4 ( 0 % )

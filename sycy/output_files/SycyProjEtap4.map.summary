@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Tue May 23 20:58:28 2023
+Quartus Prime Version : 20.1.0 Build 711 06/05/2020 SJ Lite Edition
+Revision Name : SycyProjEtap4
+Top-level Entity Name : world
+Family : Cyclone IV E
+Total logic elements : 2,739
+    Total combinational functions : 2,703
+    Dedicated logic registers : 340
+Total registers : 340
+Total pins : 140
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 8
+Total PLLs : 0

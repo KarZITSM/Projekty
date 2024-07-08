@@ -1,0 +1,27 @@
+module codeMessage (
+	 input rst,
+    input clk, 
+    input ena,
+	 input [7:0] letter,
+	 input [7:0] key,
+	 input confirm,
+	 output reg [63:0] codedMessage,
+);
+reg [7:0] tempCode;
+reg [7:0] currentLetter;
+
+always @(posedge clk) begin
+    if (rst == 1) begin
+        codedMessage <= 64'b0; // reset codedMessage to 0
+        tempCode <= 8'b0; // reset tempCode to 0
+        i <= 0; // reset counter to 0
+    end else if (ena == 1) begin
+        if (confirm == 1) begin
+            tempCode <= currentLetter ^ key; // XOR the letter and key
+            codedMessage <= {codedMessage, tempCode}; // add the 8-bit code to codedMessage
+				currentLetter <= letter; 
+        end
+    end
+end
+
+endmodule

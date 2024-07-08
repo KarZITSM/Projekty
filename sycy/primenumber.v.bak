@@ -1,0 +1,52 @@
+module random_selector(
+  input clk,
+  input rst,
+  output reg [7:0] selected_value
+);
+
+  // Define an array of numbers
+  reg [7:0] numbers [0:9] = '{00000010
+,00000011
+,00000111
+,00001011
+,00001101
+,00010001
+,00010011
+,00010111
+,00011101
+,00011111
+,00100101
+,00101001
+,00101011
+,00101111
+,00110101
+,00111011
+,00111101
+,01000011
+,01000111
+,01001001
+,01001111
+,01010011
+,01011001
+,01100001};
+
+  // Generate a random index
+  reg [3:0] random_index;
+  always @(posedge clk) begin
+    if (rst) begin
+      random_index <= 0;
+    end else begin
+      random_index <= $random % 10;
+    end
+  end
+
+  // Output the selected value
+  always @(posedge clk) begin
+    if (rst) begin
+      selected_value <= 0;
+    end else begin
+      selected_value <= numbers[random_index];
+    end
+  end
+
+endmodule

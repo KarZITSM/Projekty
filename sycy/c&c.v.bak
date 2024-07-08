@@ -1,0 +1,17 @@
+module c&c (
+input rst,
+input clk,
+input ena,
+output [7:0] g,
+output [7:0] p,
+output [7:0] A,
+);
+
+random_generator g_1 (
+		.rst	 (rst),
+		.clk	 (clk),
+		.ena	 (1'b1),
+		.valuea()	
+);
+
+endmodule

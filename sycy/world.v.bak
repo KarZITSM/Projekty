@@ -1,0 +1,43 @@
+module world (
+	input 		clk,
+	input       ena,
+	input       start,
+	input       rst
+);
+
+
+
+
+
+
+
+
+cc (
+	.initiate (----)
+	.rst   (rst),
+	.clk   (clk),
+	.ena   (ena),
+	.B_part_key (----),
+	.c (----),
+	.g_output  (----),
+	.p_output  (----),
+	.decrypted (----)
+
+);
+
+drone (
+	.initiate  (start),
+	.rst (rst),
+	.clk (clk),
+	.ena (ena),
+	.message (---),
+	.rdy_cc  (---),
+	.A_part_key (---),
+	.g (---),
+	.p (---),
+	.B_part_key (---),
+	.messageEncyptred (---),
+	.key (---)
+
+);
+

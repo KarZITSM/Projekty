@@ -1,0 +1,537 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "decrypted_message[0]",
+					"strict" : false
+				},
+				{
+					"name" : "decrypted_message[1]",
+					"strict" : false
+				},
+				{
+					"name" : "decrypted_message[2]",
+					"strict" : false
+				},
+				{
+					"name" : "decrypted_message[3]",
+					"strict" : false
+				},
+				{
+					"name" : "decrypted_message[4]",
+					"strict" : false
+				},
+				{
+					"name" : "decrypted_message[5]",
+					"strict" : false
+				},
+				{
+					"name" : "decrypted_message[6]",
+					"strict" : false
+				},
+				{
+					"name" : "decrypted_message[7]",
+					"strict" : false
+				},
+				{
+					"name" : "decrypted_message[8]",
+					"strict" : false
+				},
+				{
+					"name" : "decrypted_message[9]",
+					"strict" : false
+				},
+				{
+					"name" : "decrypted_message[10]",
+					"strict" : false
+				},
+				{
+					"name" : "decrypted_message[11]",
+					"strict" : false
+				},
+				{
+					"name" : "decrypted_message[12]",
+					"strict" : false
+				},
+				{
+					"name" : "decrypted_message[13]",
+					"strict" : false
+				},
+				{
+					"name" : "decrypted_message[14]",
+					"strict" : false
+				},
+				{
+					"name" : "decrypted_message[15]",
+					"strict" : false
+				},
+				{
+					"name" : "decrypted_message[16]",
+					"strict" : false
+				},
+				{
+					"name" : "decrypted_message[17]",
+					"strict" : false
+				},
+				{
+					"name" : "decrypted_message[18]",
+					"strict" : false
+				},
+				{
+					"name" : "decrypted_message[19]",
+					"strict" : false
+				},
+				{
+					"name" : "decrypted_message[20]",
+					"strict" : false
+				},
+				{
+					"name" : "decrypted_message[21]",
+					"strict" : false
+				},
+				{
+					"name" : "decrypted_message[22]",
+					"strict" : false
+				},
+				{
+					"name" : "decrypted_message[23]",
+					"strict" : false
+				},
+				{
+					"name" : "decrypted_message[24]",
+					"strict" : false
+				},
+				{
+					"name" : "decrypted_message[25]",
+					"strict" : false
+				},
+				{
+					"name" : "decrypted_message[26]",
+					"strict" : false
+				},
+				{
+					"name" : "decrypted_message[27]",
+					"strict" : false
+				},
+				{
+					"name" : "decrypted_message[28]",
+					"strict" : false
+				},
+				{
+					"name" : "decrypted_message[29]",
+					"strict" : false
+				},
+				{
+					"name" : "decrypted_message[30]",
+					"strict" : false
+				},
+				{
+					"name" : "decrypted_message[31]",
+					"strict" : false
+				},
+				{
+					"name" : "decrypted_message[32]",
+					"strict" : false
+				},
+				{
+					"name" : "decrypted_message[33]",
+					"strict" : false
+				},
+				{
+					"name" : "decrypted_message[34]",
+					"strict" : false
+				},
+				{
+					"name" : "decrypted_message[35]",
+					"strict" : false
+				},
+				{
+					"name" : "decrypted_message[36]",
+					"strict" : false
+				},
+				{
+					"name" : "decrypted_message[37]",
+					"strict" : false
+				},
+				{
+					"name" : "decrypted_message[38]",
+					"strict" : false
+				},
+				{
+					"name" : "decrypted_message[39]",
+					"strict" : false
+				},
+				{
+					"name" : "decrypted_message[40]",
+					"strict" : false
+				},
+				{
+					"name" : "decrypted_message[41]",
+					"strict" : false
+				},
+				{
+					"name" : "decrypted_message[42]",
+					"strict" : false
+				},
+				{
+					"name" : "decrypted_message[43]",
+					"strict" : false
+				},
+				{
+					"name" : "decrypted_message[44]",
+					"strict" : false
+				},
+				{
+					"name" : "decrypted_message[45]",
+					"strict" : false
+				},
+				{
+					"name" : "decrypted_message[46]",
+					"strict" : false
+				},
+				{
+					"name" : "decrypted_message[47]",
+					"strict" : false
+				},
+				{
+					"name" : "decrypted_message[48]",
+					"strict" : false
+				},
+				{
+					"name" : "decrypted_message[49]",
+					"strict" : false
+				},
+				{
+					"name" : "decrypted_message[50]",
+					"strict" : false
+				},
+				{
+					"name" : "decrypted_message[51]",
+					"strict" : false
+				},
+				{
+					"name" : "decrypted_message[52]",
+					"strict" : false
+				},
+				{
+					"name" : "decrypted_message[53]",
+					"strict" : false
+				},
+				{
+					"name" : "decrypted_message[54]",
+					"strict" : false
+				},
+				{
+					"name" : "decrypted_message[55]",
+					"strict" : false
+				},
+				{
+					"name" : "decrypted_message[56]",
+					"strict" : false
+				},
+				{
+					"name" : "decrypted_message[57]",
+					"strict" : false
+				},
+				{
+					"name" : "decrypted_message[58]",
+					"strict" : false
+				},
+				{
+					"name" : "decrypted_message[59]",
+					"strict" : false
+				},
+				{
+					"name" : "decrypted_message[60]",
+					"strict" : false
+				},
+				{
+					"name" : "decrypted_message[61]",
+					"strict" : false
+				},
+				{
+					"name" : "decrypted_message[62]",
+					"strict" : false
+				},
+				{
+					"name" : "decrypted_message[63]",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "message_from_drone[0]",
+					"strict" : false
+				},
+				{
+					"name" : "rst",
+					"strict" : false
+				},
+				{
+					"name" : "message_from_drone[1]",
+					"strict" : false
+				},
+				{
+					"name" : "message_from_drone[2]",
+					"strict" : false
+				},
+				{
+					"name" : "message_from_drone[3]",
+					"strict" : false
+				},
+				{
+					"name" : "message_from_drone[4]",
+					"strict" : false
+				},
+				{
+					"name" : "message_from_drone[5]",
+					"strict" : false
+				},
+				{
+					"name" : "message_from_drone[6]",
+					"strict" : false
+				},
+				{
+					"name" : "message_from_drone[7]",
+					"strict" : false
+				},
+				{
+					"name" : "message_from_drone[8]",
+					"strict" : false
+				},
+				{
+					"name" : "message_from_drone[9]",
+					"strict" : false
+				},
+				{
+					"name" : "message_from_drone[10]",
+					"strict" : false
+				},
+				{
+					"name" : "message_from_drone[11]",
+					"strict" : false
+				},
+				{
+					"name" : "message_from_drone[12]",
+					"strict" : false
+				},
+				{
+					"name" : "message_from_drone[13]",
+					"strict" : false
+				},
+				{
+					"name" : "message_from_drone[14]",
+					"strict" : false
+				},
+				{
+					"name" : "message_from_drone[15]",
+					"strict" : false
+				},
+				{
+					"name" : "message_from_drone[16]",
+					"strict" : false
+				},
+				{
+					"name" : "message_from_drone[17]",
+					"strict" : false
+				},
+				{
+					"name" : "message_from_drone[18]",
+					"strict" : false
+				},
+				{
+					"name" : "message_from_drone[19]",
+					"strict" : false
+				},
+				{
+					"name" : "message_from_drone[20]",
+					"strict" : false
+				},
+				{
+					"name" : "message_from_drone[21]",
+					"strict" : false
+				},
+				{
+					"name" : "message_from_drone[22]",
+					"strict" : false
+				},
+				{
+					"name" : "message_from_drone[23]",
+					"strict" : false
+				},
+				{
+					"name" : "message_from_drone[24]",
+					"strict" : false
+				},
+				{
+					"name" : "message_from_drone[25]",
+					"strict" : false
+				},
+				{
+					"name" : "message_from_drone[26]",
+					"strict" : false
+				},
+				{
+					"name" : "message_from_drone[27]",
+					"strict" : false
+				},
+				{
+					"name" : "message_from_drone[28]",
+					"strict" : false
+				},
+				{
+					"name" : "message_from_drone[29]",
+					"strict" : false
+				},
+				{
+					"name" : "message_from_drone[30]",
+					"strict" : false
+				},
+				{
+					"name" : "message_from_drone[31]",
+					"strict" : false
+				},
+				{
+					"name" : "message_from_drone[32]",
+					"strict" : false
+				},
+				{
+					"name" : "message_from_drone[33]",
+					"strict" : false
+				},
+				{
+					"name" : "message_from_drone[34]",
+					"strict" : false
+				},
+				{
+					"name" : "message_from_drone[35]",
+					"strict" : false
+				},
+				{
+					"name" : "message_from_drone[36]",
+					"strict" : false
+				},
+				{
+					"name" : "message_from_drone[37]",
+					"strict" : false
+				},
+				{
+					"name" : "message_from_drone[38]",
+					"strict" : false
+				},
+				{
+					"name" : "message_from_drone[39]",
+					"strict" : false
+				},
+				{
+					"name" : "message_from_drone[40]",
+					"strict" : false
+				},
+				{
+					"name" : "message_from_drone[41]",
+					"strict" : false
+				},
+				{
+					"name" : "message_from_drone[42]",
+					"strict" : false
+				},
+				{
+					"name" : "message_from_drone[43]",
+					"strict" : false
+				},
+				{
+					"name" : "message_from_drone[44]",
+					"strict" : false
+				},
+				{
+					"name" : "message_from_drone[45]",
+					"strict" : false
+				},
+				{
+					"name" : "message_from_drone[46]",
+					"strict" : false
+				},
+				{
+					"name" : "message_from_drone[47]",
+					"strict" : false
+				},
+				{
+					"name" : "message_from_drone[48]",
+					"strict" : false
+				},
+				{
+					"name" : "message_from_drone[49]",
+					"strict" : false
+				},
+				{
+					"name" : "message_from_drone[50]",
+					"strict" : false
+				},
+				{
+					"name" : "message_from_drone[51]",
+					"strict" : false
+				},
+				{
+					"name" : "message_from_drone[52]",
+					"strict" : false
+				},
+				{
+					"name" : "message_from_drone[53]",
+					"strict" : false
+				},
+				{
+					"name" : "message_from_drone[54]",
+					"strict" : false
+				},
+				{
+					"name" : "message_from_drone[55]",
+					"strict" : false
+				},
+				{
+					"name" : "message_from_drone[56]",
+					"strict" : false
+				},
+				{
+					"name" : "message_from_drone[57]",
+					"strict" : false
+				},
+				{
+					"name" : "message_from_drone[58]",
+					"strict" : false
+				},
+				{
+					"name" : "message_from_drone[59]",
+					"strict" : false
+				},
+				{
+					"name" : "message_from_drone[60]",
+					"strict" : false
+				},
+				{
+					"name" : "message_from_drone[61]",
+					"strict" : false
+				},
+				{
+					"name" : "message_from_drone[62]",
+					"strict" : false
+				},
+				{
+					"name" : "message_from_drone[63]",
+					"strict" : false
+				},
+				{
+					"name" : "ena",
+					"strict" : false
+				},
+				{
+					"name" : "start",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

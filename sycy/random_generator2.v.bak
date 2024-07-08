@@ -1,0 +1,25 @@
+module random_generator(
+    input rst,
+    input clk, 
+    input cna,
+	 input [7:0]seed,
+    output stream
+);
+
+reg    [7:0] lfsr_reg;
+wire [7:0] lfsr_next;
+wire    feedback;
+
+always@(posedge clk, posedge rst) begin
+    if(rst)
+        lfsr_reg<=seed;
+    else if(ena)
+        lfsr_reg <= lfsr_next;
+end
+
+assign feedback = lfsr_reg[7] ^ lfsr_reg[5] ^ lfsr_reg[4] ^ lfsr_reg[3];
+assign lfsr_next = {lfsr_reg[6:0],feedback};
+
+assign stream = lfsr_reg[7];
+
+endmodule

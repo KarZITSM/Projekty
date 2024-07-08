@@ -1,0 +1,228 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy/simulation/modelsim
+vcc
+Z1 !s110 1684868356
+!i10b 1
+!s100 i]A0YnZd:kM0Uf<f<QagW2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IhV2JKU7Zo:A7VHj<JW1ET3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1684868266
+8C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy/cc.v
+FC:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy/cc.v
+!i122 5
+L0 1 214
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1684868356.000000
+!s107 C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy/cc.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy|C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy/cc.v|
+!i113 1
+Z6 o-vlog01compat -work work
+Z7 !s92 -vlog01compat -work work +incdir+C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy
+Z8 tCvgOpt 0
+vcodeMessage
+R1
+!i10b 1
+!s100 _7YB6o?GnREYAlnW0gQBZ2
+R2
+I3Zj4A@jeR7c>3[ABOodUY2
+R3
+R0
+w1684775236
+8C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy/codeMessage.v
+FC:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy/codeMessage.v
+!i122 4
+L0 1 34
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy/codeMessage.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy|C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy/codeMessage.v|
+!i113 1
+R6
+R7
+R8
+ncode@message
+vdrone
+R1
+!i10b 1
+!s100 =8SW@bIB>=8_em?79@7XN1
+R2
+IRQL`nlCooFANUnmW]RH9W0
+R3
+R0
+w1684868280
+8C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy/drone.v
+FC:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy/drone.v
+!i122 6
+L0 1 194
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy/drone.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy|C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy/drone.v|
+!i113 1
+R6
+R7
+R8
+vpowermod
+R1
+!i10b 1
+!s100 oCNbTKme^CoIf5QXXhQUI2
+R2
+IezIQh@VX9i5SAO4h>Al:H2
+R3
+R0
+w1684771256
+8C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy/powermod.v
+FC:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy/powermod.v
+!i122 0
+L0 1 101
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy/powermod.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy|C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy/powermod.v|
+!i113 1
+R6
+R7
+R8
+vprimenumber
+R1
+!i10b 1
+!s100 =7S:Sf1[:aW:AIbl?@aNO0
+R2
+IkSfEg?Ja]QQA]?85]naZ?2
+R3
+R0
+w1684700236
+8C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy/primenumber.v
+FC:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy/primenumber.v
+!i122 3
+L0 1 140
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy/primenumber.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy|C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy/primenumber.v|
+!i113 1
+R6
+R7
+R8
+vrandom_generator
+R1
+!i10b 1
+!s100 5REKD^g:6?U=TLE>j94MR0
+R2
+I42oQ2GEJGBiDJLWQ38EgZ0
+R3
+R0
+w1684866085
+8C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy/random_generator.v
+FC:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy/random_generator.v
+!i122 1
+Z9 L0 1 46
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy/random_generator.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy|C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy/random_generator.v|
+!i113 1
+R6
+R7
+R8
+vrandom_generator1
+R1
+!i10b 1
+!s100 8i]T`7<:M^c@gklb4D=HV0
+R2
+IcCV2W5lMiFULF4:KHc`D>3
+R3
+R0
+w1684868249
+8C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy/random_generator1.v
+FC:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy/random_generator1.v
+!i122 8
+R9
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy/random_generator1.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy|C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy/random_generator1.v|
+!i113 1
+R6
+R7
+R8
+vrandom_generator2
+R1
+!i10b 1
+!s100 jekilcj5K4RPaOBH5kL5g1
+R2
+IZ7aU6[PaMWFHcFg;K5=lK1
+R3
+R0
+w1684868262
+8C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy/random_generator2.v
+FC:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy/random_generator2.v
+!i122 2
+R9
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy/random_generator2.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy|C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy/random_generator2.v|
+!i113 1
+R6
+R7
+R8
+vworld
+R1
+!i10b 1
+!s100 JRJUNB__h3M<::f^[7P;B1
+R2
+I@=F>4=f5A?3`E<4EO5S<m1
+R3
+R0
+w1684851692
+8C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy/world.v
+FC:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy/world.v
+!i122 7
+L0 1 57
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy/world.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy|C:/Users/Admin/Desktop/SZKOLA/studia/SEM2/SYCY/sycyproj_lsfr_do_poprawy/sycy/world.v|
+!i113 1
+R6
+R7
+R8

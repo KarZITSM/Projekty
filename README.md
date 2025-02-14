@@ -1,1 +1,1 @@
-Test1
+Repozytorium do prezentowania moich projektów wykonanych w ramach studiów 

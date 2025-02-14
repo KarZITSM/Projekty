@@ -1,0 +1,7 @@
+CREATE DATABASE IF NOT EXISTS app_db;
+
+USE app_db;
+
+CREATE USER IF NOT EXISTS 'useruaim'@'%' IDENTIFIED BY 'projektuaim';
+GRANT ALL PRIVILEGES ON app_db.* TO 'useruaim'@'%';
+FLUSH PRIVILEGES;

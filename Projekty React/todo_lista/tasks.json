@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "title": "Zrobić zakupy",
+      "details": "Kupić chleb, masło, wędlinę",
+      "dueDate": "2024-10-31T19:30",
+      "status": "oczekujące",
+      "difficulty": 3
+    },
+    {
+      "id": 2,
+      "title": "Umyć samochód",
+      "details": "Mycie karoserii i odkurzanie wnętrza",
+      "dueDate": "2024-11-01T12:00",
+      "status": "oczekujące",
+      "difficulty": 3
+    },
+    {
+      "id": 3,
+      "title": "Zagrać w lola",
+      "details": "Wygrać grę",
+      "dueDate": "2024-11-01T12:00",
+      "status": "przeterminowane",
+      "difficulty": 10
+    }
+  ]

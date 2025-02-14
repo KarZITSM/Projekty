@@ -1,0 +1,10 @@
+flask
+flask_sqlalchemy
+flask_cors
+psycopg2-binary
+mysqlclient
+flask-bcrypt
+flask-jwt-extended 
+datetime
+pillow
+requests

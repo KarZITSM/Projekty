@@ -1,0 +1,161 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #bcd2e4;
+  margin: 0;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+
+.App {
+  width: 100%;
+  max-width: 600px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.App h1 {
+  font-size: 24px;
+  color: #333333;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(255, 255, 255);
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-bottom: 20px;
+}
+
+form input, form textarea {
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  font-size: 14px;
+}
+
+form button {
+  padding: 10px;
+  font-size: 16px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+form button:hover {
+  background-color: #45a049;
+}
+
+
+
+.task {
+  background-color: #ffffff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 15px;
+  margin-bottom: 15px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease;
+}
+
+.task:hover {
+  transform: scale(1.02);
+}
+
+.task h3 {
+  font-size: 18px;
+  margin: 0;
+  color: #333;
+}
+
+.task p {
+  font-size: 14px;
+  color: #666;
+  margin: 5px 0;
+}
+
+/* Stylizacja stanu zadań */
+.task.oczekujące {
+  border-left: 5px solid #ffd54f;
+}
+
+.task.wykonane {
+  border-left: 5px solid #66bb6a;
+  background-color: #e8f5e9;
+}
+
+.task.przeterminowane {
+  border-left: 5px solid #ef5350;
+  background-color: #ffebee;
+}
+
+/* Ocena trudności */
+.task.difficulty {
+  font-size: 14px;
+  color: #ffa000;
+}
+
+/* Stylizacja przycisków */
+.task button {
+  padding: 8px 12px;
+  margin-right: 5px;
+  font-size: 14px;
+  color: rgb(0, 0, 0);
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.task button:nth-child(1) {
+  background-color: #2196f3;
+}
+
+
+.task button:nth-child(1):hover {
+  background-color: #1976d2;
+}
+
+.task button:nth-child(2) {
+  background-color: #ffa000;
+}
+
+.task button:nth-child(2):hover {
+  background-color: #ff8f00;
+}
+
+.task button:nth-child(3) {
+  background-color: #ff5722;
+}
+
+.task button:nth-child(3):hover {
+  background-color: #e64a19;
+}
+
+/* Stylizacja ikon */
+.task .difficulty span {
+  color: #ffc107;
+}
+
+.task .difficulty .inactive {
+  color: #e0e0e0;
+}

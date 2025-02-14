@@ -1,0 +1,123 @@
+
+/* App Container */
+.body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f0f2f5;
+}
+
+/* Main Container */
+#root {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+/* Driver List Container */
+.driver-list-container {
+  width: 80%;
+  max-width: 600px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin: 20px;
+  text-align: center;
+}
+
+/* Heading */
+h1 {
+  font-size: 1.5rem;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+/* Page Number */
+.page-number {
+  color: #555;
+  font-size: 1rem;
+  margin-bottom: 15px;
+}
+
+/* Virtualized Driver List */
+.driver-list {
+  border-top: 1px solid #e0e0e0;
+  margin: 20px 0;
+  overflow: auto;
+}
+
+/* Row Styles */
+.driver-row {
+  display: flex;
+  align-items: center;
+  font-size: 1rem;
+  padding: 0 10px; /* Tylko poziomy padding */
+  border-bottom: 1px solid #e0e0e0;
+  box-sizing: border-box;
+  height: 35px; /* Upewnij się, że zgadza się z itemSize */
+}
+
+.driver-row:last-child {
+  border-bottom: none;
+}
+
+.driver-row:hover {
+  background-color: #f9f9f9;
+}
+
+/* Pagination Buttons */
+.pagination-buttons {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.pagination-buttons button {
+  padding: 8px 12px;
+  font-size: 1rem;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  color: white;
+  background-color: #007bff;
+  transition: background-color 0.2s;
+}
+
+.pagination-buttons button:hover {
+  background-color: #0056b3;
+}
+
+.pagination-buttons button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+/* Limit Selector */
+.limit-selector {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+  font-size: 1rem;
+  color: #333;
+}
+
+.limit-selector label {
+  margin-right: 8px;
+}
+
+.limit-selector select {
+  padding: 8px;
+  font-size: 1rem;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  cursor: pointer;
+  background-color: #f0f2f5;
+  transition: background-color 0.2s, border-color 0.2s;
+}
+
+.limit-selector select:hover {
+  background-color: #e9ecef;
+  border-color: #bbb;
+}
